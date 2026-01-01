@@ -1075,3 +1075,4 @@
 - [2026-08-19T09:51:23] perf: benchmark parallel cryptographic verification loop
 - [2026-08-20T12:00:54] perf: optimize memory footprint for UTXO cache
 - [2026-01-01T13:45:09] test: add unit tests for Schnorr signature verification
+- [2026-01-01T10:14:17] test: add unit tests for Schnorr signature verification
