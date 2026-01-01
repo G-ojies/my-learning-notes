@@ -1437,3 +1437,4 @@
 - [2026-08-19T18:37:18] refactor: clean up P2P network message serialization
 - [2026-08-19T09:11:01] test: add fuzzing cases for mempool package acceptance
 - [2026-08-20T22:25:04] feat: implement compact filter Golomb-Rice encoder
+- [2026-01-01T11:33:55] docs: update notes on Taproot script spend paths
