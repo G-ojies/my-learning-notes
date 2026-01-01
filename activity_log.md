@@ -1439,3 +1439,4 @@
 - [2026-08-20T22:25:04] feat: implement compact filter Golomb-Rice encoder
 - [2026-01-01T11:33:55] docs: update notes on Taproot script spend paths
 - [2026-01-01T13:01:33] docs: analyze BIP324 encrypted transport handshake
+- [2026-01-01T21:21:52] docs: update notes on Taproot script spend paths
