@@ -727,3 +727,4 @@
 - [2026-08-20T19:24:53] docs: analyze BIP324 encrypted transport handshake
 - [2026-08-20T17:01:26] test: add fuzzing cases for mempool package acceptance
 - [2026-01-02T09:16:37] docs: research Stratum V2 job negotiation framing
+- [2026-01-02T09:27:29] test: add unit tests for Schnorr signature verification
