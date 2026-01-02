@@ -1,1 +1,2 @@
 - [2026-01-01T12:10:22] feat: implement compact filter Golomb-Rice encoder
+- [2026-01-02T18:06:45] feat: prototype Erlay set reconciliation sketch
