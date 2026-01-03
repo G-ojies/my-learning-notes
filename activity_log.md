@@ -378,3 +378,4 @@
 - [2026-01-01T12:01:52] feat: add lightweight bloom filter parser for SPV tests
 - [2026-01-02T15:21:07] test: add unit tests for Schnorr signature verification
 - [2026-01-02T18:23:23] test: add unit tests for Schnorr signature verification
+- [2026-01-03T16:31:13] perf: benchmark parallel cryptographic verification loop
