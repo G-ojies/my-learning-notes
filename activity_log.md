@@ -380,3 +380,4 @@
 - [2026-01-02T18:23:23] test: add unit tests for Schnorr signature verification
 - [2026-01-03T16:31:13] perf: benchmark parallel cryptographic verification loop
 - [2026-01-03T10:26:32] docs: analyze BIP324 encrypted transport handshake
+- [2026-01-03T17:02:17] test: add unit tests for Schnorr signature verification
