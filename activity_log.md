@@ -730,3 +730,4 @@
 - [2026-01-02T09:27:29] test: add unit tests for Schnorr signature verification
 - [2026-01-02T20:22:40] docs: update notes on Taproot script spend paths
 - [2026-01-03T11:42:57] refactor: clean up P2P network message serialization
+- [2026-01-03T10:18:13] perf: optimize memory footprint for UTXO cache
