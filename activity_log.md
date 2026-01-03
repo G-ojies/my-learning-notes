@@ -729,3 +729,4 @@
 - [2026-01-02T09:16:37] docs: research Stratum V2 job negotiation framing
 - [2026-01-02T09:27:29] test: add unit tests for Schnorr signature verification
 - [2026-01-02T20:22:40] docs: update notes on Taproot script spend paths
+- [2026-01-03T11:42:57] refactor: clean up P2P network message serialization
