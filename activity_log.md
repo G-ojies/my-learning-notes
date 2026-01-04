@@ -383,3 +383,4 @@
 - [2026-01-03T17:02:17] test: add unit tests for Schnorr signature verification
 - [2026-01-04T10:03:56] chore: update linting rules and static analysis tools
 - [2026-01-04T13:02:58] refactor: clean up P2P network message serialization
+- [2026-01-04T18:19:49] refactor: optimize transaction deserialization buffer
