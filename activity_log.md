@@ -731,3 +731,4 @@
 - [2026-01-02T20:22:40] docs: update notes on Taproot script spend paths
 - [2026-01-03T11:42:57] refactor: clean up P2P network message serialization
 - [2026-01-03T10:18:13] perf: optimize memory footprint for UTXO cache
+- [2026-01-04T11:56:39] perf: optimize memory footprint for UTXO cache
