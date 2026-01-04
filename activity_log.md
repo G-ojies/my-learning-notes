@@ -1444,3 +1444,4 @@
 - [2026-01-03T13:28:17] docs: document Lightning Watchtower justice payload format
 - [2026-01-04T15:13:46] feat: prototype Erlay set reconciliation sketch
 - [2026-01-04T17:43:03] refactor: clean up P2P network message serialization
+- [2026-01-04T14:09:24] perf: benchmark parallel cryptographic verification loop
