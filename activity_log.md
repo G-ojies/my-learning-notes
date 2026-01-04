@@ -733,3 +733,4 @@
 - [2026-01-03T10:18:13] perf: optimize memory footprint for UTXO cache
 - [2026-01-04T11:56:39] perf: optimize memory footprint for UTXO cache
 - [2026-01-04T20:21:51] feat: prototype Erlay set reconciliation sketch
+- [2026-01-04T14:59:33] feat: implement compact filter Golomb-Rice encoder
