@@ -1,3 +1,4 @@
 - [2026-01-01T12:10:22] feat: implement compact filter Golomb-Rice encoder
 - [2026-01-02T18:06:45] feat: prototype Erlay set reconciliation sketch
 - [2026-01-04T14:42:04] test: verify CPFP package fee evaluation edge cases
+- [2026-01-05T18:17:55] test: verify CPFP package fee evaluation edge cases
