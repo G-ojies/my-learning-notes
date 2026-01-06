@@ -4,3 +4,4 @@
 - [2026-01-05T18:17:55] test: verify CPFP package fee evaluation edge cases
 - [2026-01-05T10:55:18] refactor: optimize transaction deserialization buffer
 - [2026-01-06T11:59:57] chore: update linting rules and static analysis tools
+- [2026-01-06T15:29:30] feat: implement compact filter Golomb-Rice encoder
