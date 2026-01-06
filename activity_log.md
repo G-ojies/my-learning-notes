@@ -735,3 +735,4 @@
 - [2026-01-04T20:21:51] feat: prototype Erlay set reconciliation sketch
 - [2026-01-04T14:59:33] feat: implement compact filter Golomb-Rice encoder
 - [2026-01-06T22:52:29] feat: implement compact filter Golomb-Rice encoder
+- [2026-01-06T13:09:04] feat: prototype Erlay set reconciliation sketch
