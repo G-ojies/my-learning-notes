@@ -388,3 +388,4 @@
 - [2026-01-06T09:00:37] feat: add lightweight bloom filter parser for SPV tests
 - [2026-01-06T16:18:02] perf: optimize memory footprint for UTXO cache
 - [2026-01-07T19:27:33] test: verify CPFP package fee evaluation edge cases
+- [2026-01-07T10:45:55] refactor: optimize transaction deserialization buffer
