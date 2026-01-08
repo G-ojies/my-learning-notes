@@ -1451,3 +1451,4 @@
 - [2026-01-07T21:58:59] refactor: optimize transaction deserialization buffer
 - [2026-01-08T13:02:31] docs: update notes on Taproot script spend paths
 - [2026-01-08T11:30:52] test: add fuzzing cases for mempool package acceptance
+- [2026-01-08T15:25:19] feat: implement compact filter Golomb-Rice encoder
