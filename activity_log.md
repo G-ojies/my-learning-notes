@@ -1450,3 +1450,4 @@
 - [2026-01-06T17:06:03] feat: add lightweight bloom filter parser for SPV tests
 - [2026-01-07T21:58:59] refactor: optimize transaction deserialization buffer
 - [2026-01-08T13:02:31] docs: update notes on Taproot script spend paths
+- [2026-01-08T11:30:52] test: add fuzzing cases for mempool package acceptance
