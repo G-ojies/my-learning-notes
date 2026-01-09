@@ -392,3 +392,4 @@
 - [2026-01-08T13:43:34] perf: optimize memory footprint for UTXO cache
 - [2026-01-08T17:54:38] test: add unit tests for Schnorr signature verification
 - [2026-01-09T09:32:47] test: verify CPFP package fee evaluation edge cases
+- [2026-01-09T09:57:33] refactor: optimize transaction deserialization buffer
