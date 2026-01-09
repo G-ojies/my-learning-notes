@@ -740,3 +740,4 @@
 - [2026-01-08T21:07:22] test: verify CPFP package fee evaluation edge cases
 - [2026-01-08T22:42:48] test: add unit tests for Schnorr signature verification
 - [2026-01-08T21:54:02] perf: benchmark parallel cryptographic verification loop
+- [2026-01-09T17:32:57] docs: analyze BIP324 encrypted transport handshake
