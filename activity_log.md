@@ -742,3 +742,4 @@
 - [2026-01-08T21:54:02] perf: benchmark parallel cryptographic verification loop
 - [2026-01-09T17:32:57] docs: analyze BIP324 encrypted transport handshake
 - [2026-01-10T22:22:48] feat: add lightweight bloom filter parser for SPV tests
+- [2026-01-10T15:27:08] docs: research Stratum V2 job negotiation framing
