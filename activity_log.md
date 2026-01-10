@@ -741,3 +741,4 @@
 - [2026-01-08T22:42:48] test: add unit tests for Schnorr signature verification
 - [2026-01-08T21:54:02] perf: benchmark parallel cryptographic verification loop
 - [2026-01-09T17:32:57] docs: analyze BIP324 encrypted transport handshake
+- [2026-01-10T22:22:48] feat: add lightweight bloom filter parser for SPV tests
