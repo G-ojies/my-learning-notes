@@ -8,3 +8,4 @@
 - [2026-01-07T13:26:34] refactor: clean up P2P network message serialization
 - [2026-01-08T10:45:58] docs: document Lightning Watchtower justice payload format
 - [2026-01-09T13:41:36] docs: update notes on Taproot script spend paths
+- [2026-01-10T21:45:07] test: verify CPFP package fee evaluation edge cases
