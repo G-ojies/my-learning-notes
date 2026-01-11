@@ -395,3 +395,4 @@
 - [2026-01-09T09:57:33] refactor: optimize transaction deserialization buffer
 - [2026-01-10T15:52:44] test: add fuzzing cases for mempool package acceptance
 - [2026-01-11T10:34:00] perf: optimize memory footprint for UTXO cache
+- [2026-01-11T19:59:54] chore: update linting rules and static analysis tools
