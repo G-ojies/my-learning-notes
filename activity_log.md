@@ -1455,3 +1455,4 @@
 - [2026-01-09T20:59:11] refactor: optimize transaction deserialization buffer
 - [2026-01-09T19:31:13] docs: analyze BIP324 encrypted transport handshake
 - [2026-01-10T14:27:26] refactor: optimize transaction deserialization buffer
+- [2026-01-11T22:11:21] feat: prototype Erlay set reconciliation sketch
