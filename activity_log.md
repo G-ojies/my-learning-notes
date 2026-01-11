@@ -743,3 +743,4 @@
 - [2026-01-09T17:32:57] docs: analyze BIP324 encrypted transport handshake
 - [2026-01-10T22:22:48] feat: add lightweight bloom filter parser for SPV tests
 - [2026-01-10T15:27:08] docs: research Stratum V2 job negotiation framing
+- [2026-01-11T16:43:18] docs: document Lightning Watchtower justice payload format
