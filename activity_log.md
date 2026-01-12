@@ -399,3 +399,4 @@
 - [2026-01-11T10:12:52] docs: document Lightning Watchtower justice payload format
 - [2026-01-12T11:41:13] docs: document Lightning Watchtower justice payload format
 - [2026-01-12T19:38:18] chore: update linting rules and static analysis tools
+- [2026-01-12T16:44:02] refactor: clean up P2P network message serialization
