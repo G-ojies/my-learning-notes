@@ -11,3 +11,4 @@
 - [2026-01-10T21:45:07] test: verify CPFP package fee evaluation edge cases
 - [2026-01-10T20:07:20] refactor: optimize transaction deserialization buffer
 - [2026-01-11T17:48:28] test: verify CPFP package fee evaluation edge cases
+- [2026-01-12T14:18:43] feat: prototype Erlay set reconciliation sketch
