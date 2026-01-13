@@ -1458,3 +1458,4 @@
 - [2026-01-11T22:11:21] feat: prototype Erlay set reconciliation sketch
 - [2026-01-12T22:24:13] docs: research Stratum V2 job negotiation framing
 - [2026-01-13T17:29:48] feat: prototype Erlay set reconciliation sketch
+- [2026-01-13T13:53:01] feat: implement compact filter Golomb-Rice encoder
