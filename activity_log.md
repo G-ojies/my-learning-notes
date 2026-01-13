@@ -14,3 +14,4 @@
 - [2026-01-12T14:18:43] feat: prototype Erlay set reconciliation sketch
 - [2026-01-12T12:31:52] feat: add lightweight bloom filter parser for SPV tests
 - [2026-01-12T09:27:54] refactor: optimize transaction deserialization buffer
+- [2026-01-13T18:38:53] test: verify CPFP package fee evaluation edge cases
