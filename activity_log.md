@@ -746,3 +746,4 @@
 - [2026-01-11T16:43:18] docs: document Lightning Watchtower justice payload format
 - [2026-01-13T18:56:15] chore: update linting rules and static analysis tools
 - [2026-01-13T11:08:04] test: verify CPFP package fee evaluation edge cases
+- [2026-01-14T11:42:45] test: add unit tests for Schnorr signature verification
