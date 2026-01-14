@@ -1460,3 +1460,4 @@
 - [2026-01-13T17:29:48] feat: prototype Erlay set reconciliation sketch
 - [2026-01-13T13:53:01] feat: implement compact filter Golomb-Rice encoder
 - [2026-01-14T22:43:10] refactor: clean up P2P network message serialization
+- [2026-01-14T14:47:53] feat: add lightweight bloom filter parser for SPV tests
