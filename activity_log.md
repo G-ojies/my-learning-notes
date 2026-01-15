@@ -747,3 +747,4 @@
 - [2026-01-13T18:56:15] chore: update linting rules and static analysis tools
 - [2026-01-13T11:08:04] test: verify CPFP package fee evaluation edge cases
 - [2026-01-14T11:42:45] test: add unit tests for Schnorr signature verification
+- [2026-01-15T17:59:09] docs: research Stratum V2 job negotiation framing
