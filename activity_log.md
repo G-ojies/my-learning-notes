@@ -1463,3 +1463,4 @@
 - [2026-01-14T14:47:53] feat: add lightweight bloom filter parser for SPV tests
 - [2026-01-15T17:39:32] refactor: clean up P2P network message serialization
 - [2026-01-16T21:29:52] refactor: clean up P2P network message serialization
+- [2026-01-16T10:58:43] feat: implement compact filter Golomb-Rice encoder
