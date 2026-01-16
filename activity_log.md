@@ -401,3 +401,4 @@
 - [2026-01-12T19:38:18] chore: update linting rules and static analysis tools
 - [2026-01-12T16:44:02] refactor: clean up P2P network message serialization
 - [2026-01-16T10:59:24] feat: add lightweight bloom filter parser for SPV tests
+- [2026-01-16T17:47:47] feat: add lightweight bloom filter parser for SPV tests
