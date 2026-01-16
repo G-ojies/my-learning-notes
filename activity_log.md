@@ -750,3 +750,4 @@
 - [2026-01-15T17:59:09] docs: research Stratum V2 job negotiation framing
 - [2026-01-15T13:39:16] docs: research Stratum V2 job negotiation framing
 - [2026-01-15T17:14:39] docs: document Lightning Watchtower justice payload format
+- [2026-01-16T17:17:39] test: add unit tests for Schnorr signature verification
