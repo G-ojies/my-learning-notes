@@ -1467,3 +1467,4 @@
 - [2026-01-16T11:58:03] perf: optimize memory footprint for UTXO cache
 - [2026-01-17T17:35:42] perf: optimize memory footprint for UTXO cache
 - [2026-01-17T14:01:30] feat: implement compact filter Golomb-Rice encoder
+- [2026-01-17T22:26:01] chore: update linting rules and static analysis tools
