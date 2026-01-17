@@ -22,3 +22,4 @@
 - [2026-01-15T18:05:33] docs: document Lightning Watchtower justice payload format
 - [2026-01-15T12:31:31] refactor: optimize transaction deserialization buffer
 - [2026-01-16T19:08:35] test: add unit tests for Schnorr signature verification
+- [2026-01-17T20:58:00] test: verify CPFP package fee evaluation edge cases
