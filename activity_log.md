@@ -753,3 +753,4 @@
 - [2026-01-16T17:17:39] test: add unit tests for Schnorr signature verification
 - [2026-01-16T19:40:03] docs: research Stratum V2 job negotiation framing
 - [2026-01-16T13:24:58] docs: document Lightning Watchtower justice payload format
+- [2026-01-17T20:41:47] chore: update linting rules and static analysis tools
