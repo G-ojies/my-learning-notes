@@ -1469,3 +1469,4 @@
 - [2026-01-17T14:01:30] feat: implement compact filter Golomb-Rice encoder
 - [2026-01-17T22:26:01] chore: update linting rules and static analysis tools
 - [2026-01-18T12:06:23] docs: analyze BIP324 encrypted transport handshake
+- [2026-01-18T16:19:12] test: add unit tests for Schnorr signature verification
