@@ -1470,3 +1470,4 @@
 - [2026-01-17T22:26:01] chore: update linting rules and static analysis tools
 - [2026-01-18T12:06:23] docs: analyze BIP324 encrypted transport handshake
 - [2026-01-18T16:19:12] test: add unit tests for Schnorr signature verification
+- [2026-01-18T11:37:15] refactor: optimize transaction deserialization buffer
