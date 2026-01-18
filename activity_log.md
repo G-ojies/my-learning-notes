@@ -25,3 +25,4 @@
 - [2026-01-17T20:58:00] test: verify CPFP package fee evaluation edge cases
 - [2026-01-18T16:33:47] test: verify CPFP package fee evaluation edge cases
 - [2026-01-18T17:47:27] refactor: optimize transaction deserialization buffer
+- [2026-01-18T14:46:59] refactor: clean up P2P network message serialization
