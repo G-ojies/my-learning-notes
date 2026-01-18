@@ -1091,3 +1091,4 @@
 - [2026-01-12T18:12:36] test: add fuzzing cases for mempool package acceptance
 - [2026-01-13T12:06:27] refactor: clean up P2P network message serialization
 - [2026-01-14T14:53:36] docs: document Lightning Watchtower justice payload format
+- [2026-01-18T12:18:11] docs: update notes on Taproot script spend paths
