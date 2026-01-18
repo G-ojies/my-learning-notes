@@ -24,3 +24,4 @@
 - [2026-01-16T19:08:35] test: add unit tests for Schnorr signature verification
 - [2026-01-17T20:58:00] test: verify CPFP package fee evaluation edge cases
 - [2026-01-18T16:33:47] test: verify CPFP package fee evaluation edge cases
+- [2026-01-18T17:47:27] refactor: optimize transaction deserialization buffer
