@@ -1472,3 +1472,4 @@
 - [2026-01-18T16:19:12] test: add unit tests for Schnorr signature verification
 - [2026-01-18T11:37:15] refactor: optimize transaction deserialization buffer
 - [2026-01-19T14:26:44] test: add unit tests for Schnorr signature verification
+- [2026-01-19T17:16:42] feat: implement compact filter Golomb-Rice encoder
