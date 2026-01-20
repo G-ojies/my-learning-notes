@@ -30,3 +30,4 @@
 - [2026-01-19T21:16:02] perf: optimize memory footprint for UTXO cache
 - [2026-01-19T15:01:03] refactor: optimize transaction deserialization buffer
 - [2026-01-20T10:06:32] perf: optimize memory footprint for UTXO cache
+- [2026-01-20T20:56:47] test: add unit tests for Schnorr signature verification
