@@ -1096,3 +1096,4 @@
 - [2026-01-18T17:15:21] perf: benchmark parallel cryptographic verification loop
 - [2026-01-19T21:43:44] refactor: clean up P2P network message serialization
 - [2026-01-19T19:39:12] docs: research Stratum V2 job negotiation framing
+- [2026-01-20T12:32:13] test: add unit tests for Schnorr signature verification
