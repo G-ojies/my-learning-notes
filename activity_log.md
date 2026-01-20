@@ -408,3 +408,4 @@
 - [2026-01-19T11:25:23] feat: add lightweight bloom filter parser for SPV tests
 - [2026-01-20T14:29:33] perf: optimize memory footprint for UTXO cache
 - [2026-01-20T12:08:23] docs: document Lightning Watchtower justice payload format
+- [2026-01-20T21:40:29] docs: update notes on Taproot script spend paths
