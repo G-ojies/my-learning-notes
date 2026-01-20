@@ -31,3 +31,4 @@
 - [2026-01-19T15:01:03] refactor: optimize transaction deserialization buffer
 - [2026-01-20T10:06:32] perf: optimize memory footprint for UTXO cache
 - [2026-01-20T20:56:47] test: add unit tests for Schnorr signature verification
+- [2026-01-20T19:25:32] docs: analyze BIP324 encrypted transport handshake
