@@ -406,3 +406,4 @@
 - [2026-01-18T21:00:13] docs: document Lightning Watchtower justice payload format
 - [2026-01-19T14:26:10] chore: update linting rules and static analysis tools
 - [2026-01-19T11:25:23] feat: add lightweight bloom filter parser for SPV tests
+- [2026-01-20T14:29:33] perf: optimize memory footprint for UTXO cache
