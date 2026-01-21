@@ -1476,3 +1476,4 @@
 - [2026-01-19T13:48:02] refactor: optimize transaction deserialization buffer
 - [2026-01-20T16:38:23] test: add unit tests for Schnorr signature verification
 - [2026-01-21T14:53:30] feat: add lightweight bloom filter parser for SPV tests
+- [2026-01-21T16:38:20] test: add fuzzing cases for mempool package acceptance
