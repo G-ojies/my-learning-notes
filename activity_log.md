@@ -410,3 +410,4 @@
 - [2026-01-20T12:08:23] docs: document Lightning Watchtower justice payload format
 - [2026-01-20T21:40:29] docs: update notes on Taproot script spend paths
 - [2026-01-21T15:05:25] chore: update linting rules and static analysis tools
+- [2026-01-21T11:17:51] test: verify CPFP package fee evaluation edge cases
