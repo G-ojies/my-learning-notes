@@ -32,3 +32,4 @@
 - [2026-01-20T10:06:32] perf: optimize memory footprint for UTXO cache
 - [2026-01-20T20:56:47] test: add unit tests for Schnorr signature verification
 - [2026-01-20T19:25:32] docs: analyze BIP324 encrypted transport handshake
+- [2026-01-21T16:34:38] test: add fuzzing cases for mempool package acceptance
