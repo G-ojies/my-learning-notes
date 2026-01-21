@@ -1098,3 +1098,4 @@
 - [2026-01-19T19:39:12] docs: research Stratum V2 job negotiation framing
 - [2026-01-20T12:32:13] test: add unit tests for Schnorr signature verification
 - [2026-01-21T11:55:09] refactor: clean up P2P network message serialization
+- [2026-01-21T10:17:20] feat: prototype Erlay set reconciliation sketch
