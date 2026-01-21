@@ -409,3 +409,4 @@
 - [2026-01-20T14:29:33] perf: optimize memory footprint for UTXO cache
 - [2026-01-20T12:08:23] docs: document Lightning Watchtower justice payload format
 - [2026-01-20T21:40:29] docs: update notes on Taproot script spend paths
+- [2026-01-21T15:05:25] chore: update linting rules and static analysis tools
