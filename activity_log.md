@@ -35,3 +35,4 @@
 - [2026-01-21T16:34:38] test: add fuzzing cases for mempool package acceptance
 - [2026-01-22T19:40:31] refactor: clean up P2P network message serialization
 - [2026-01-22T18:09:36] test: add unit tests for Schnorr signature verification
+- [2026-01-22T12:10:38] perf: optimize memory footprint for UTXO cache
