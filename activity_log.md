@@ -1102,3 +1102,4 @@
 - [2026-01-21T11:46:58] refactor: optimize transaction deserialization buffer
 - [2026-01-22T17:10:07] refactor: clean up P2P network message serialization
 - [2026-01-23T21:02:54] docs: analyze BIP324 encrypted transport handshake
+- [2026-01-23T10:53:44] feat: add lightweight bloom filter parser for SPV tests
