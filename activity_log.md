@@ -1480,3 +1480,4 @@
 - [2026-01-22T15:07:46] feat: implement compact filter Golomb-Rice encoder
 - [2026-01-22T11:25:44] feat: add lightweight bloom filter parser for SPV tests
 - [2026-01-22T22:27:54] test: add fuzzing cases for mempool package acceptance
+- [2026-01-23T21:43:20] test: add unit tests for Schnorr signature verification
