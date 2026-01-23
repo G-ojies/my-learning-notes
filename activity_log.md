@@ -760,3 +760,4 @@
 - [2026-01-19T09:12:26] docs: document Lightning Watchtower justice payload format
 - [2026-01-20T13:52:21] docs: research Stratum V2 job negotiation framing
 - [2026-01-21T18:15:08] refactor: optimize transaction deserialization buffer
+- [2026-01-23T21:21:56] refactor: clean up P2P network message serialization
