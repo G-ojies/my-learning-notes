@@ -38,3 +38,4 @@
 - [2026-01-22T12:10:38] perf: optimize memory footprint for UTXO cache
 - [2026-01-23T15:49:52] feat: prototype Erlay set reconciliation sketch
 - [2026-01-24T13:21:16] chore: update linting rules and static analysis tools
+- [2026-01-24T20:23:55] docs: update notes on Taproot script spend paths
