@@ -414,3 +414,4 @@
 - [2026-01-21T16:23:35] perf: optimize memory footprint for UTXO cache
 - [2026-01-22T16:05:36] feat: prototype Erlay set reconciliation sketch
 - [2026-01-23T19:22:47] refactor: optimize transaction deserialization buffer
+- [2026-01-24T20:34:29] docs: research Stratum V2 job negotiation framing
