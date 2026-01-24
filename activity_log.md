@@ -1482,3 +1482,4 @@
 - [2026-01-22T22:27:54] test: add fuzzing cases for mempool package acceptance
 - [2026-01-23T21:43:20] test: add unit tests for Schnorr signature verification
 - [2026-01-23T18:53:11] refactor: optimize transaction deserialization buffer
+- [2026-01-24T18:02:09] docs: update notes on Taproot script spend paths
