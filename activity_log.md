@@ -1484,3 +1484,4 @@
 - [2026-01-23T18:53:11] refactor: optimize transaction deserialization buffer
 - [2026-01-24T18:02:09] docs: update notes on Taproot script spend paths
 - [2026-01-24T20:34:29] docs: analyze BIP324 encrypted transport handshake
+- [2026-01-25T17:00:57] chore: update linting rules and static analysis tools
