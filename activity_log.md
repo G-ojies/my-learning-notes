@@ -418,3 +418,4 @@
 - [2026-01-24T16:05:21] feat: implement compact filter Golomb-Rice encoder
 - [2026-01-24T14:05:36] feat: prototype Erlay set reconciliation sketch
 - [2026-01-25T22:22:35] perf: benchmark parallel cryptographic verification loop
+- [2026-01-25T16:57:28] chore: update linting rules and static analysis tools
