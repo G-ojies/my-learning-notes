@@ -1104,3 +1104,4 @@
 - [2026-01-23T21:02:54] docs: analyze BIP324 encrypted transport handshake
 - [2026-01-23T10:53:44] feat: add lightweight bloom filter parser for SPV tests
 - [2026-01-24T16:36:22] feat: implement compact filter Golomb-Rice encoder
+- [2026-01-26T14:53:58] refactor: clean up P2P network message serialization
