@@ -40,3 +40,4 @@
 - [2026-01-24T13:21:16] chore: update linting rules and static analysis tools
 - [2026-01-24T20:23:55] docs: update notes on Taproot script spend paths
 - [2026-01-25T12:05:32] docs: research Stratum V2 job negotiation framing
+- [2026-01-26T16:36:30] test: add fuzzing cases for mempool package acceptance
