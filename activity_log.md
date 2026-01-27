@@ -762,3 +762,4 @@
 - [2026-01-21T18:15:08] refactor: optimize transaction deserialization buffer
 - [2026-01-23T21:21:56] refactor: clean up P2P network message serialization
 - [2026-01-24T15:52:23] feat: implement compact filter Golomb-Rice encoder
+- [2026-01-27T13:46:54] test: add fuzzing cases for mempool package acceptance
