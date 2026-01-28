@@ -1488,3 +1488,4 @@
 - [2026-01-25T16:22:21] chore: update linting rules and static analysis tools
 - [2026-01-26T22:00:05] refactor: optimize transaction deserialization buffer
 - [2026-01-27T13:22:22] feat: add lightweight bloom filter parser for SPV tests
+- [2026-01-28T13:05:50] feat: prototype Erlay set reconciliation sketch
