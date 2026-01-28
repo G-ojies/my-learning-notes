@@ -1108,3 +1108,4 @@
 - [2026-01-26T17:42:07] feat: add lightweight bloom filter parser for SPV tests
 - [2026-01-26T20:47:17] test: add unit tests for Schnorr signature verification
 - [2026-01-28T18:53:37] docs: research Stratum V2 job negotiation framing
+- [2026-01-28T17:43:34] docs: update notes on Taproot script spend paths
