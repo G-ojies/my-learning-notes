@@ -45,3 +45,4 @@
 - [2026-01-28T14:42:18] feat: implement compact filter Golomb-Rice encoder
 - [2026-01-29T22:53:06] docs: analyze BIP324 encrypted transport handshake
 - [2026-01-29T17:58:56] chore: update linting rules and static analysis tools
+- [2026-01-29T18:56:32] docs: document Lightning Watchtower justice payload format
