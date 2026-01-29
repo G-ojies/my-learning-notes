@@ -1112,3 +1112,4 @@
 - [2026-01-28T22:11:05] docs: update notes on Taproot script spend paths
 - [2026-01-29T21:47:27] docs: update notes on Taproot script spend paths
 - [2026-01-29T21:41:53] perf: optimize memory footprint for UTXO cache
+- [2026-01-29T13:16:44] test: verify CPFP package fee evaluation edge cases
