@@ -1110,3 +1110,4 @@
 - [2026-01-28T18:53:37] docs: research Stratum V2 job negotiation framing
 - [2026-01-28T17:43:34] docs: update notes on Taproot script spend paths
 - [2026-01-28T22:11:05] docs: update notes on Taproot script spend paths
+- [2026-01-29T21:47:27] docs: update notes on Taproot script spend paths
