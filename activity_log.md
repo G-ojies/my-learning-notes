@@ -43,3 +43,4 @@
 - [2026-01-26T16:36:30] test: add fuzzing cases for mempool package acceptance
 - [2026-01-27T20:20:05] feat: prototype Erlay set reconciliation sketch
 - [2026-01-28T14:42:18] feat: implement compact filter Golomb-Rice encoder
+- [2026-01-29T22:53:06] docs: analyze BIP324 encrypted transport handshake
