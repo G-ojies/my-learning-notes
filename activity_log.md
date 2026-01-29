@@ -421,3 +421,4 @@
 - [2026-01-25T16:57:28] chore: update linting rules and static analysis tools
 - [2026-01-27T19:47:32] refactor: optimize transaction deserialization buffer
 - [2026-01-28T09:30:26] feat: prototype Erlay set reconciliation sketch
+- [2026-01-29T21:51:14] refactor: optimize transaction deserialization buffer
