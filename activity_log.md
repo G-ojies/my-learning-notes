@@ -765,3 +765,4 @@
 - [2026-01-27T13:46:54] test: add fuzzing cases for mempool package acceptance
 - [2026-01-27T15:13:49] perf: optimize memory footprint for UTXO cache
 - [2026-01-27T16:29:36] test: add fuzzing cases for mempool package acceptance
+- [2026-01-29T16:32:50] test: verify CPFP package fee evaluation edge cases
