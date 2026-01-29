@@ -422,3 +422,4 @@
 - [2026-01-27T19:47:32] refactor: optimize transaction deserialization buffer
 - [2026-01-28T09:30:26] feat: prototype Erlay set reconciliation sketch
 - [2026-01-29T21:51:14] refactor: optimize transaction deserialization buffer
+- [2026-01-29T12:10:41] feat: add lightweight bloom filter parser for SPV tests
