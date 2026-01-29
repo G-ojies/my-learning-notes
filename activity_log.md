@@ -1491,3 +1491,4 @@
 - [2026-01-28T13:05:50] feat: prototype Erlay set reconciliation sketch
 - [2026-01-28T21:29:19] refactor: clean up P2P network message serialization
 - [2026-01-28T20:10:13] test: add fuzzing cases for mempool package acceptance
+- [2026-01-29T10:19:42] test: add unit tests for Schnorr signature verification
