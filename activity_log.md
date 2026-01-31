@@ -50,3 +50,4 @@
 - [2026-01-30T16:25:55] refactor: clean up P2P network message serialization
 - [2026-01-31T22:00:54] test: verify CPFP package fee evaluation edge cases
 - [2026-01-31T20:02:08] feat: add lightweight bloom filter parser for SPV tests
+- [2026-01-31T22:26:03] docs: update notes on Taproot script spend paths
