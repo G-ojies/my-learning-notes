@@ -769,3 +769,4 @@
 - [2026-01-30T13:19:06] docs: update notes on Taproot script spend paths
 - [2026-01-30T20:22:35] feat: prototype Erlay set reconciliation sketch
 - [2026-01-31T19:22:48] perf: benchmark parallel cryptographic verification loop
+- [2026-01-31T16:40:58] test: add unit tests for Schnorr signature verification
