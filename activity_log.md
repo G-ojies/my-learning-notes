@@ -768,3 +768,4 @@
 - [2026-01-29T16:32:50] test: verify CPFP package fee evaluation edge cases
 - [2026-01-30T13:19:06] docs: update notes on Taproot script spend paths
 - [2026-01-30T20:22:35] feat: prototype Erlay set reconciliation sketch
+- [2026-01-31T19:22:48] perf: benchmark parallel cryptographic verification loop
