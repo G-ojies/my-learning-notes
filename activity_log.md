@@ -426,3 +426,4 @@
 - [2026-01-30T18:43:25] feat: add lightweight bloom filter parser for SPV tests
 - [2026-01-30T14:58:35] feat: implement compact filter Golomb-Rice encoder
 - [2026-01-30T20:57:37] docs: research Stratum V2 job negotiation framing
+- [2026-01-31T21:26:24] feat: prototype Erlay set reconciliation sketch
