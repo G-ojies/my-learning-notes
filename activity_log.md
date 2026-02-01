@@ -1493,3 +1493,4 @@
 - [2026-01-28T20:10:13] test: add fuzzing cases for mempool package acceptance
 - [2026-01-29T10:19:42] test: add unit tests for Schnorr signature verification
 - [2026-01-31T10:03:46] perf: benchmark parallel cryptographic verification loop
+- [2026-02-01T19:58:49] test: verify CPFP package fee evaluation edge cases
