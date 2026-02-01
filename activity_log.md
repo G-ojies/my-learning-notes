@@ -427,3 +427,4 @@
 - [2026-01-30T14:58:35] feat: implement compact filter Golomb-Rice encoder
 - [2026-01-30T20:57:37] docs: research Stratum V2 job negotiation framing
 - [2026-01-31T21:26:24] feat: prototype Erlay set reconciliation sketch
+- [2026-02-01T19:52:09] docs: document Lightning Watchtower justice payload format
