@@ -429,3 +429,4 @@
 - [2026-01-31T21:26:24] feat: prototype Erlay set reconciliation sketch
 - [2026-02-01T19:52:09] docs: document Lightning Watchtower justice payload format
 - [2026-02-01T13:20:44] docs: analyze BIP324 encrypted transport handshake
+- [2026-02-01T22:36:47] test: add unit tests for Schnorr signature verification
