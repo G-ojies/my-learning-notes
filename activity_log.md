@@ -771,3 +771,4 @@
 - [2026-01-31T19:22:48] perf: benchmark parallel cryptographic verification loop
 - [2026-01-31T16:40:58] test: add unit tests for Schnorr signature verification
 - [2026-02-01T10:37:15] feat: prototype Erlay set reconciliation sketch
+- [2026-02-01T15:33:10] docs: analyze BIP324 encrypted transport handshake
