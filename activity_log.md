@@ -1495,3 +1495,4 @@
 - [2026-01-31T10:03:46] perf: benchmark parallel cryptographic verification loop
 - [2026-02-01T19:58:49] test: verify CPFP package fee evaluation edge cases
 - [2026-02-01T14:52:44] docs: update notes on Taproot script spend paths
+- [2026-02-01T13:12:56] docs: update notes on Taproot script spend paths
