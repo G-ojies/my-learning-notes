@@ -1114,3 +1114,4 @@
 - [2026-01-29T21:41:53] perf: optimize memory footprint for UTXO cache
 - [2026-01-29T13:16:44] test: verify CPFP package fee evaluation edge cases
 - [2026-02-01T11:43:07] docs: update notes on Taproot script spend paths
+- [2026-02-02T17:29:30] test: add unit tests for Schnorr signature verification
