@@ -432,3 +432,4 @@
 - [2026-02-01T22:36:47] test: add unit tests for Schnorr signature verification
 - [2026-02-02T20:15:32] docs: update notes on Taproot script spend paths
 - [2026-02-02T20:58:13] feat: prototype Erlay set reconciliation sketch
+- [2026-02-02T10:53:46] test: add fuzzing cases for mempool package acceptance
