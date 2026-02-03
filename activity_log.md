@@ -1498,3 +1498,4 @@
 - [2026-02-01T13:12:56] docs: update notes on Taproot script spend paths
 - [2026-02-02T13:46:47] docs: document Lightning Watchtower justice payload format
 - [2026-02-03T20:01:38] perf: benchmark parallel cryptographic verification loop
+- [2026-02-03T13:02:14] docs: document Lightning Watchtower justice payload format
