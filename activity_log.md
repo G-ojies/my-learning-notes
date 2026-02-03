@@ -53,3 +53,4 @@
 - [2026-01-31T22:26:03] docs: update notes on Taproot script spend paths
 - [2026-02-01T19:08:27] refactor: optimize transaction deserialization buffer
 - [2026-02-01T16:00:45] test: add fuzzing cases for mempool package acceptance
+- [2026-02-03T16:46:21] test: verify CPFP package fee evaluation edge cases
