@@ -433,3 +433,4 @@
 - [2026-02-02T20:15:32] docs: update notes on Taproot script spend paths
 - [2026-02-02T20:58:13] feat: prototype Erlay set reconciliation sketch
 - [2026-02-02T10:53:46] test: add fuzzing cases for mempool package acceptance
+- [2026-02-04T12:38:48] perf: benchmark parallel cryptographic verification loop
