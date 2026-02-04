@@ -1117,3 +1117,4 @@
 - [2026-02-02T17:29:30] test: add unit tests for Schnorr signature verification
 - [2026-02-02T10:58:05] test: add fuzzing cases for mempool package acceptance
 - [2026-02-04T15:15:07] test: add fuzzing cases for mempool package acceptance
+- [2026-02-04T15:45:10] feat: add lightweight bloom filter parser for SPV tests
