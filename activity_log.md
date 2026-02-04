@@ -1116,3 +1116,4 @@
 - [2026-02-01T11:43:07] docs: update notes on Taproot script spend paths
 - [2026-02-02T17:29:30] test: add unit tests for Schnorr signature verification
 - [2026-02-02T10:58:05] test: add fuzzing cases for mempool package acceptance
+- [2026-02-04T15:15:07] test: add fuzzing cases for mempool package acceptance
