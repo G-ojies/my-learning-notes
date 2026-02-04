@@ -55,3 +55,4 @@
 - [2026-02-01T16:00:45] test: add fuzzing cases for mempool package acceptance
 - [2026-02-03T16:46:21] test: verify CPFP package fee evaluation edge cases
 - [2026-02-04T17:50:55] docs: update notes on Taproot script spend paths
+- [2026-02-04T09:21:14] feat: implement compact filter Golomb-Rice encoder
