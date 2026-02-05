@@ -1502,3 +1502,4 @@
 - [2026-02-03T19:01:08] docs: update notes on Taproot script spend paths
 - [2026-02-04T18:13:22] perf: benchmark parallel cryptographic verification loop
 - [2026-02-05T21:17:40] perf: optimize memory footprint for UTXO cache
+- [2026-02-05T18:55:54] refactor: optimize transaction deserialization buffer
