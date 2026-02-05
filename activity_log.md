@@ -776,3 +776,4 @@
 - [2026-02-02T12:36:19] docs: update notes on Taproot script spend paths
 - [2026-02-05T09:54:44] docs: research Stratum V2 job negotiation framing
 - [2026-02-05T15:53:27] docs: document Lightning Watchtower justice payload format
+- [2026-02-05T11:36:35] docs: document Lightning Watchtower justice payload format
