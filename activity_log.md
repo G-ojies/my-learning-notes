@@ -774,3 +774,4 @@
 - [2026-02-01T15:33:10] docs: analyze BIP324 encrypted transport handshake
 - [2026-02-02T15:58:45] feat: add lightweight bloom filter parser for SPV tests
 - [2026-02-02T12:36:19] docs: update notes on Taproot script spend paths
+- [2026-02-05T09:54:44] docs: research Stratum V2 job negotiation framing
