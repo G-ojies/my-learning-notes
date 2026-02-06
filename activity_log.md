@@ -437,3 +437,4 @@
 - [2026-02-05T13:57:09] perf: benchmark parallel cryptographic verification loop
 - [2026-02-05T20:58:11] docs: analyze BIP324 encrypted transport handshake
 - [2026-02-06T10:58:33] feat: implement compact filter Golomb-Rice encoder
+- [2026-02-06T11:38:36] docs: document Lightning Watchtower justice payload format
