@@ -436,3 +436,4 @@
 - [2026-02-04T12:38:48] perf: benchmark parallel cryptographic verification loop
 - [2026-02-05T13:57:09] perf: benchmark parallel cryptographic verification loop
 - [2026-02-05T20:58:11] docs: analyze BIP324 encrypted transport handshake
+- [2026-02-06T10:58:33] feat: implement compact filter Golomb-Rice encoder
