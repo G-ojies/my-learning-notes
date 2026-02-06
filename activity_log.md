@@ -1119,3 +1119,4 @@
 - [2026-02-04T15:15:07] test: add fuzzing cases for mempool package acceptance
 - [2026-02-04T15:45:10] feat: add lightweight bloom filter parser for SPV tests
 - [2026-02-06T21:58:23] docs: research Stratum V2 job negotiation framing
+- [2026-02-06T10:35:17] test: verify CPFP package fee evaluation edge cases
