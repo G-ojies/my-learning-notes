@@ -777,3 +777,4 @@
 - [2026-02-05T09:54:44] docs: research Stratum V2 job negotiation framing
 - [2026-02-05T15:53:27] docs: document Lightning Watchtower justice payload format
 - [2026-02-05T11:36:35] docs: document Lightning Watchtower justice payload format
+- [2026-02-06T19:23:21] refactor: clean up P2P network message serialization
