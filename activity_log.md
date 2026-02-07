@@ -779,3 +779,4 @@
 - [2026-02-05T11:36:35] docs: document Lightning Watchtower justice payload format
 - [2026-02-06T19:23:21] refactor: clean up P2P network message serialization
 - [2026-02-07T18:47:55] refactor: optimize transaction deserialization buffer
+- [2026-02-07T17:17:00] docs: analyze BIP324 encrypted transport handshake
