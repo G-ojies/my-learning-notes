@@ -1122,3 +1122,4 @@
 - [2026-02-06T10:35:17] test: verify CPFP package fee evaluation edge cases
 - [2026-02-07T20:53:03] refactor: clean up P2P network message serialization
 - [2026-02-07T17:43:01] feat: implement compact filter Golomb-Rice encoder
+- [2026-02-07T15:18:32] feat: prototype Erlay set reconciliation sketch
