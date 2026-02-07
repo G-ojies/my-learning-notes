@@ -438,3 +438,4 @@
 - [2026-02-05T20:58:11] docs: analyze BIP324 encrypted transport handshake
 - [2026-02-06T10:58:33] feat: implement compact filter Golomb-Rice encoder
 - [2026-02-06T11:38:36] docs: document Lightning Watchtower justice payload format
+- [2026-02-07T20:41:50] docs: update notes on Taproot script spend paths
