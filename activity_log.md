@@ -440,3 +440,4 @@
 - [2026-02-06T11:38:36] docs: document Lightning Watchtower justice payload format
 - [2026-02-07T20:41:50] docs: update notes on Taproot script spend paths
 - [2026-02-08T21:47:22] chore: update linting rules and static analysis tools
+- [2026-02-08T22:41:04] feat: add lightweight bloom filter parser for SPV tests
