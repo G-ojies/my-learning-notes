@@ -1123,3 +1123,4 @@
 - [2026-02-07T20:53:03] refactor: clean up P2P network message serialization
 - [2026-02-07T17:43:01] feat: implement compact filter Golomb-Rice encoder
 - [2026-02-07T15:18:32] feat: prototype Erlay set reconciliation sketch
+- [2026-02-08T18:01:49] docs: research Stratum V2 job negotiation framing
