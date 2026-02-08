@@ -1506,3 +1506,4 @@
 - [2026-02-06T19:12:55] feat: prototype Erlay set reconciliation sketch
 - [2026-02-08T14:31:30] refactor: optimize transaction deserialization buffer
 - [2026-02-08T19:40:10] feat: add lightweight bloom filter parser for SPV tests
+- [2026-02-08T17:33:46] perf: benchmark parallel cryptographic verification loop
