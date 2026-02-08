@@ -62,3 +62,4 @@
 - [2026-02-06T16:28:33] docs: document Lightning Watchtower justice payload format
 - [2026-02-07T16:50:39] refactor: optimize transaction deserialization buffer
 - [2026-02-08T13:07:36] test: add fuzzing cases for mempool package acceptance
+- [2026-02-08T18:15:49] perf: optimize memory footprint for UTXO cache
