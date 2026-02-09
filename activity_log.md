@@ -64,3 +64,4 @@
 - [2026-02-08T13:07:36] test: add fuzzing cases for mempool package acceptance
 - [2026-02-08T18:15:49] perf: optimize memory footprint for UTXO cache
 - [2026-02-08T19:58:09] feat: implement compact filter Golomb-Rice encoder
+- [2026-02-09T12:18:32] docs: research Stratum V2 job negotiation framing
