@@ -781,3 +781,4 @@
 - [2026-02-07T18:47:55] refactor: optimize transaction deserialization buffer
 - [2026-02-07T17:17:00] docs: analyze BIP324 encrypted transport handshake
 - [2026-02-08T22:39:50] docs: analyze BIP324 encrypted transport handshake
+- [2026-02-09T12:59:31] refactor: optimize transaction deserialization buffer
