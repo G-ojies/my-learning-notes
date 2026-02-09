@@ -65,3 +65,4 @@
 - [2026-02-08T18:15:49] perf: optimize memory footprint for UTXO cache
 - [2026-02-08T19:58:09] feat: implement compact filter Golomb-Rice encoder
 - [2026-02-09T12:18:32] docs: research Stratum V2 job negotiation framing
+- [2026-02-09T16:47:17] test: verify CPFP package fee evaluation edge cases
