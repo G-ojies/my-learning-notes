@@ -442,3 +442,4 @@
 - [2026-02-08T21:47:22] chore: update linting rules and static analysis tools
 - [2026-02-08T22:41:04] feat: add lightweight bloom filter parser for SPV tests
 - [2026-02-09T16:54:55] perf: optimize memory footprint for UTXO cache
+- [2026-02-10T17:22:18] docs: research Stratum V2 job negotiation framing
