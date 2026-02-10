@@ -66,3 +66,4 @@
 - [2026-02-08T19:58:09] feat: implement compact filter Golomb-Rice encoder
 - [2026-02-09T12:18:32] docs: research Stratum V2 job negotiation framing
 - [2026-02-09T16:47:17] test: verify CPFP package fee evaluation edge cases
+- [2026-02-10T16:28:25] chore: update linting rules and static analysis tools
