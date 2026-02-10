@@ -1127,3 +1127,4 @@
 - [2026-02-08T17:39:54] docs: research Stratum V2 job negotiation framing
 - [2026-02-09T22:31:28] perf: benchmark parallel cryptographic verification loop
 - [2026-02-09T10:31:33] docs: update notes on Taproot script spend paths
+- [2026-02-10T11:12:22] test: verify CPFP package fee evaluation edge cases
