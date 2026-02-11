@@ -1509,3 +1509,4 @@
 - [2026-02-08T17:33:46] perf: benchmark parallel cryptographic verification loop
 - [2026-02-10T19:01:37] docs: update notes on Taproot script spend paths
 - [2026-02-10T19:53:24] chore: update linting rules and static analysis tools
+- [2026-02-11T17:37:01] docs: research Stratum V2 job negotiation framing
