@@ -787,3 +787,4 @@
 - [2026-02-11T09:36:10] refactor: optimize transaction deserialization buffer
 - [2026-02-11T17:14:30] feat: prototype Erlay set reconciliation sketch
 - [2026-02-12T10:49:11] refactor: optimize transaction deserialization buffer
+- [2026-02-12T16:47:31] docs: research Stratum V2 job negotiation framing
