@@ -1511,3 +1511,4 @@
 - [2026-02-10T19:53:24] chore: update linting rules and static analysis tools
 - [2026-02-11T17:37:01] docs: research Stratum V2 job negotiation framing
 - [2026-02-12T22:03:37] chore: update linting rules and static analysis tools
+- [2026-02-13T18:23:41] docs: document Lightning Watchtower justice payload format
