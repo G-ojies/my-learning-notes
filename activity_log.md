@@ -69,3 +69,4 @@
 - [2026-02-10T16:28:25] chore: update linting rules and static analysis tools
 - [2026-02-10T15:22:39] docs: update notes on Taproot script spend paths
 - [2026-02-13T10:26:08] test: add unit tests for Schnorr signature verification
+- [2026-02-13T13:42:36] test: add unit tests for Schnorr signature verification
