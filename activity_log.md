@@ -791,3 +791,4 @@
 - [2026-02-12T18:29:03] perf: benchmark parallel cryptographic verification loop
 - [2026-02-14T12:00:40] docs: research Stratum V2 job negotiation framing
 - [2026-02-14T22:20:09] refactor: optimize transaction deserialization buffer
+- [2026-02-14T20:42:05] perf: benchmark parallel cryptographic verification loop
