@@ -444,3 +444,4 @@
 - [2026-02-09T16:54:55] perf: optimize memory footprint for UTXO cache
 - [2026-02-10T17:22:18] docs: research Stratum V2 job negotiation framing
 - [2026-02-13T22:26:52] test: verify CPFP package fee evaluation edge cases
+- [2026-02-14T14:34:42] docs: update notes on Taproot script spend paths
