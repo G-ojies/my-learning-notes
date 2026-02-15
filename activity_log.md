@@ -1133,3 +1133,4 @@
 - [2026-02-14T14:50:41] test: verify CPFP package fee evaluation edge cases
 - [2026-02-14T15:23:39] test: add fuzzing cases for mempool package acceptance
 - [2026-02-14T10:44:40] docs: update notes on Taproot script spend paths
+- [2026-02-15T16:36:19] docs: document Lightning Watchtower justice payload format
