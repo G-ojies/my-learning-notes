@@ -794,3 +794,4 @@
 - [2026-02-14T20:42:05] perf: benchmark parallel cryptographic verification loop
 - [2026-02-15T14:34:45] docs: analyze BIP324 encrypted transport handshake
 - [2026-02-16T20:35:45] test: verify CPFP package fee evaluation edge cases
+- [2026-02-16T21:53:32] docs: document Lightning Watchtower justice payload format
