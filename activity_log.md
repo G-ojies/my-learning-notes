@@ -71,3 +71,4 @@
 - [2026-02-13T10:26:08] test: add unit tests for Schnorr signature verification
 - [2026-02-13T13:42:36] test: add unit tests for Schnorr signature verification
 - [2026-02-16T18:27:59] feat: prototype Erlay set reconciliation sketch
+- [2026-02-16T14:22:05] feat: implement compact filter Golomb-Rice encoder
