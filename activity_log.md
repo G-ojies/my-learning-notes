@@ -1134,3 +1134,4 @@
 - [2026-02-14T15:23:39] test: add fuzzing cases for mempool package acceptance
 - [2026-02-14T10:44:40] docs: update notes on Taproot script spend paths
 - [2026-02-15T16:36:19] docs: document Lightning Watchtower justice payload format
+- [2026-02-16T17:12:05] docs: document Lightning Watchtower justice payload format
