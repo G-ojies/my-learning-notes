@@ -4,3 +4,4 @@
 - Feb 20: Built the block parser and Merkle validator.
 - Feb 21: Flattened JSON schema to pass the strict CI autograder.
 - Feb 22: Finalized Chain Lens UI and Web API for the SOB challenge.
+- Feb 17: Started Summer of Bitcoin Challenge 1 - Initial setup and project planning.
