@@ -1138,3 +1138,4 @@
 - [2026-02-16T12:45:18] feat: prototype Erlay set reconciliation sketch
 - [2026-02-17T11:33:26] test: add unit tests for Schnorr signature verification
 - [2026-02-17T13:33:57] docs: analyze BIP324 encrypted transport handshake
+- [2026-02-17T19:30:24] chore: update linting rules and static analysis tools
