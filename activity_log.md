@@ -76,3 +76,4 @@
 - [2026-02-17T21:37:58] test: add unit tests for Schnorr signature verification
 - [2026-02-17T16:30:14] test: add fuzzing cases for mempool package acceptance
 - [2026-02-17T19:32:25] docs: research Stratum V2 job negotiation framing
+- [2026-02-18T17:25:32] feat: prototype Erlay set reconciliation sketch
