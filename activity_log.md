@@ -1139,3 +1139,4 @@
 - [2026-02-17T11:33:26] test: add unit tests for Schnorr signature verification
 - [2026-02-17T13:33:57] docs: analyze BIP324 encrypted transport handshake
 - [2026-02-17T19:30:24] chore: update linting rules and static analysis tools
+- [2026-02-18T12:35:04] docs: update notes on Taproot script spend paths
