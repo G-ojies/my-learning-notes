@@ -797,3 +797,4 @@
 - [2026-02-16T21:53:32] docs: document Lightning Watchtower justice payload format
 - [2026-02-17T13:00:16] refactor: optimize transaction deserialization buffer
 - [2026-02-17T16:55:42] chore: update linting rules and static analysis tools
+- [2026-02-18T21:52:47] feat: add lightweight bloom filter parser for SPV tests
