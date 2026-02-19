@@ -449,3 +449,4 @@
 - [2026-02-17T22:21:43] refactor: clean up P2P network message serialization
 - [2026-02-17T11:53:11] perf: optimize memory footprint for UTXO cache
 - [2026-02-18T09:02:23] test: add unit tests for Schnorr signature verification
+- [2026-02-19T20:47:23] chore: update linting rules and static analysis tools
