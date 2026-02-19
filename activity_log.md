@@ -79,3 +79,4 @@
 - [2026-02-18T17:25:32] feat: prototype Erlay set reconciliation sketch
 - [2026-02-18T12:41:46] docs: analyze BIP324 encrypted transport handshake
 - [2026-02-18T17:01:52] refactor: clean up P2P network message serialization
+- [2026-02-19T20:27:48] perf: optimize memory footprint for UTXO cache
