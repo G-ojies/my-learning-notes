@@ -81,3 +81,4 @@
 - [2026-02-18T17:01:52] refactor: clean up P2P network message serialization
 - [2026-02-19T20:27:48] perf: optimize memory footprint for UTXO cache
 - [2026-02-21T12:11:08] feat: implement compact filter Golomb-Rice encoder
+- [2026-02-21T12:37:02] perf: benchmark parallel cryptographic verification loop
