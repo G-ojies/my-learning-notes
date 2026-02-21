@@ -1146,3 +1146,4 @@
 - [2026-02-20T19:57:03] docs: update notes on Taproot script spend paths
 - [2026-02-20T18:44:00] docs: research Stratum V2 job negotiation framing
 - [2026-02-20T18:08:52] feat: add lightweight bloom filter parser for SPV tests
+- [2026-02-21T21:52:59] feat: implement compact filter Golomb-Rice encoder
