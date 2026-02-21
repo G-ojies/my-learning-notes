@@ -1525,3 +1525,4 @@
 - [2026-02-20T17:28:56] test: verify CPFP package fee evaluation edge cases
 - [2026-02-20T12:32:13] test: add fuzzing cases for mempool package acceptance
 - [2026-02-20T10:15:06] refactor: clean up P2P network message serialization
+- [2026-02-21T20:56:52] feat: prototype Erlay set reconciliation sketch
