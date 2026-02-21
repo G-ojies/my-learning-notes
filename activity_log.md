@@ -1147,3 +1147,4 @@
 - [2026-02-20T18:44:00] docs: research Stratum V2 job negotiation framing
 - [2026-02-20T18:08:52] feat: add lightweight bloom filter parser for SPV tests
 - [2026-02-21T21:52:59] feat: implement compact filter Golomb-Rice encoder
+- [2026-02-21T17:58:07] docs: analyze BIP324 encrypted transport handshake
