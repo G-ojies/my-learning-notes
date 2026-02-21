@@ -799,3 +799,4 @@
 - [2026-02-17T16:55:42] chore: update linting rules and static analysis tools
 - [2026-02-18T21:52:47] feat: add lightweight bloom filter parser for SPV tests
 - [2026-02-21T12:06:42] feat: add lightweight bloom filter parser for SPV tests
+- [2026-02-21T19:04:17] test: verify CPFP package fee evaluation edge cases
