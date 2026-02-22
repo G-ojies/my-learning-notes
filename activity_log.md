@@ -453,3 +453,4 @@
 - [2026-02-19T12:54:50] perf: optimize memory footprint for UTXO cache
 - [2026-02-19T22:05:47] refactor: clean up P2P network message serialization
 - [2026-02-21T14:43:57] test: verify CPFP package fee evaluation edge cases
+- [2026-02-22T09:22:31] refactor: optimize transaction deserialization buffer
