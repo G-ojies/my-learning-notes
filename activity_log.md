@@ -802,3 +802,4 @@
 - [2026-02-21T19:04:17] test: verify CPFP package fee evaluation edge cases
 - [2026-02-22T22:22:08] feat: add lightweight bloom filter parser for SPV tests
 - [2026-02-22T18:33:57] chore: update linting rules and static analysis tools
+- [2026-02-22T20:04:09] perf: optimize memory footprint for UTXO cache
