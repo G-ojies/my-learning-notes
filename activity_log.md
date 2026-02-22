@@ -1150,3 +1150,4 @@
 - [2026-02-21T17:58:07] docs: analyze BIP324 encrypted transport handshake
 - [2026-02-21T10:15:13] test: add fuzzing cases for mempool package acceptance
 - [2026-02-22T18:58:13] perf: optimize memory footprint for UTXO cache
+- [2026-02-22T15:29:23] refactor: clean up P2P network message serialization
