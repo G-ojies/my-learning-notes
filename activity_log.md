@@ -800,3 +800,4 @@
 - [2026-02-18T21:52:47] feat: add lightweight bloom filter parser for SPV tests
 - [2026-02-21T12:06:42] feat: add lightweight bloom filter parser for SPV tests
 - [2026-02-21T19:04:17] test: verify CPFP package fee evaluation edge cases
+- [2026-02-22T22:22:08] feat: add lightweight bloom filter parser for SPV tests
