@@ -1153,3 +1153,4 @@
 - [2026-02-22T15:29:23] refactor: clean up P2P network message serialization
 - [2026-02-23T17:20:16] perf: optimize memory footprint for UTXO cache
 - [2026-02-23T18:11:41] test: verify CPFP package fee evaluation edge cases
+- [2026-02-23T09:27:49] refactor: clean up P2P network message serialization
