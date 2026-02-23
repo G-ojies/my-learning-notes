@@ -86,3 +86,4 @@
 - [2026-02-22T12:52:40] feat: prototype Erlay set reconciliation sketch
 - [2026-02-23T22:50:33] test: verify CPFP package fee evaluation edge cases
 - [2026-02-23T16:45:55] perf: optimize memory footprint for UTXO cache
+- [2026-02-23T22:36:02] perf: benchmark parallel cryptographic verification loop
