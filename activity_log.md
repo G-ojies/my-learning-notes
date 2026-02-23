@@ -803,3 +803,4 @@
 - [2026-02-22T22:22:08] feat: add lightweight bloom filter parser for SPV tests
 - [2026-02-22T18:33:57] chore: update linting rules and static analysis tools
 - [2026-02-22T20:04:09] perf: optimize memory footprint for UTXO cache
+- [2026-02-23T15:00:49] refactor: optimize transaction deserialization buffer
