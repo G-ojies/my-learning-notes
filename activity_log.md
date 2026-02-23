@@ -1530,3 +1530,4 @@
 - [2026-02-22T11:42:42] test: verify CPFP package fee evaluation edge cases
 - [2026-02-23T11:36:07] feat: prototype Erlay set reconciliation sketch
 - [2026-02-23T11:53:14] refactor: clean up P2P network message serialization
+- [2026-02-23T15:39:14] refactor: optimize transaction deserialization buffer
