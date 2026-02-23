@@ -85,3 +85,4 @@
 - [2026-02-22T20:51:47] docs: document Lightning Watchtower justice payload format
 - [2026-02-22T12:52:40] feat: prototype Erlay set reconciliation sketch
 - [2026-02-23T22:50:33] test: verify CPFP package fee evaluation edge cases
+- [2026-02-23T16:45:55] perf: optimize memory footprint for UTXO cache
