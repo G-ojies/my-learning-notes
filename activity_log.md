@@ -455,3 +455,4 @@
 - [2026-02-21T14:43:57] test: verify CPFP package fee evaluation edge cases
 - [2026-02-22T09:22:31] refactor: optimize transaction deserialization buffer
 - [2026-02-23T12:57:55] feat: prototype Erlay set reconciliation sketch
+- [2026-02-23T21:18:45] docs: update notes on Taproot script spend paths
