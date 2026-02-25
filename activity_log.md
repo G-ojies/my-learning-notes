@@ -88,3 +88,4 @@
 - [2026-02-23T16:45:55] perf: optimize memory footprint for UTXO cache
 - [2026-02-23T22:36:02] perf: benchmark parallel cryptographic verification loop
 - [2026-02-24T16:24:54] refactor: optimize transaction deserialization buffer
+- [2026-02-25T13:14:40] refactor: optimize transaction deserialization buffer
