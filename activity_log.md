@@ -460,3 +460,4 @@
 - [2026-02-24T22:22:18] test: add fuzzing cases for mempool package acceptance
 - [2026-02-24T19:02:03] feat: implement compact filter Golomb-Rice encoder
 - [2026-02-24T18:19:55] chore: update linting rules and static analysis tools
+- [2026-02-25T20:35:18] chore: update linting rules and static analysis tools
