@@ -91,3 +91,4 @@
 - [2026-02-25T13:14:40] refactor: optimize transaction deserialization buffer
 - [2026-02-25T11:52:17] docs: analyze BIP324 encrypted transport handshake
 - [2026-02-26T12:41:32] feat: implement compact filter Golomb-Rice encoder
+- [2026-02-26T09:49:26] docs: research Stratum V2 job negotiation framing
