@@ -807,3 +807,4 @@
 - [2026-02-23T14:11:55] perf: optimize memory footprint for UTXO cache
 - [2026-02-24T13:44:41] chore: update linting rules and static analysis tools
 - [2026-02-27T17:36:55] chore: update linting rules and static analysis tools
+- [2026-02-27T09:31:05] perf: benchmark parallel cryptographic verification loop
