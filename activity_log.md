@@ -808,3 +808,4 @@
 - [2026-02-24T13:44:41] chore: update linting rules and static analysis tools
 - [2026-02-27T17:36:55] chore: update linting rules and static analysis tools
 - [2026-02-27T09:31:05] perf: benchmark parallel cryptographic verification loop
+- [2026-02-28T21:22:07] test: add unit tests for Schnorr signature verification
