@@ -94,3 +94,4 @@
 - [2026-02-26T09:49:26] docs: research Stratum V2 job negotiation framing
 - [2026-02-27T11:10:57] docs: update notes on Taproot script spend paths
 - [2026-02-27T18:31:56] refactor: clean up P2P network message serialization
+- [2026-02-28T10:58:13] perf: benchmark parallel cryptographic verification loop
