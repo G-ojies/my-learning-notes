@@ -1539,3 +1539,4 @@
 - [2026-02-27T09:08:34] refactor: clean up P2P network message serialization
 - [2026-02-27T20:47:02] feat: prototype Erlay set reconciliation sketch
 - [2026-02-27T18:05:02] test: add unit tests for Schnorr signature verification
+- [2026-02-28T12:18:32] perf: optimize memory footprint for UTXO cache
