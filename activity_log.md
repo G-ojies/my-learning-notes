@@ -1540,3 +1540,4 @@
 - [2026-02-27T20:47:02] feat: prototype Erlay set reconciliation sketch
 - [2026-02-27T18:05:02] test: add unit tests for Schnorr signature verification
 - [2026-02-28T12:18:32] perf: optimize memory footprint for UTXO cache
+- [2026-03-01T15:08:20] perf: benchmark parallel cryptographic verification loop
