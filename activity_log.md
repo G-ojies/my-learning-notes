@@ -1158,3 +1158,4 @@
 - [2026-02-25T13:14:38] docs: document Lightning Watchtower justice payload format
 - [2026-02-26T13:25:11] test: add fuzzing cases for mempool package acceptance
 - [2026-02-26T13:32:43] docs: update notes on Taproot script spend paths
+- [2026-03-01T13:48:47] feat: implement compact filter Golomb-Rice encoder
