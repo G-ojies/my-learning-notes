@@ -811,3 +811,4 @@
 - [2026-02-28T21:22:07] test: add unit tests for Schnorr signature verification
 - [2026-03-01T16:23:03] refactor: optimize transaction deserialization buffer
 - [2026-03-02T09:02:07] docs: analyze BIP324 encrypted transport handshake
+- [2026-03-02T14:19:32] docs: document Lightning Watchtower justice payload format
