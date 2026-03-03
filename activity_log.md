@@ -1161,3 +1161,4 @@
 - [2026-03-01T13:48:47] feat: implement compact filter Golomb-Rice encoder
 - [2026-03-02T17:34:58] feat: implement compact filter Golomb-Rice encoder
 - [2026-03-02T14:38:32] docs: document Lightning Watchtower justice payload format
+- [2026-03-03T10:01:03] docs: research Stratum V2 job negotiation framing
