@@ -463,3 +463,4 @@
 - [2026-02-25T20:35:18] chore: update linting rules and static analysis tools
 - [2026-03-01T12:23:23] test: add fuzzing cases for mempool package acceptance
 - [2026-03-02T12:49:01] docs: update notes on Taproot script spend paths
+- [2026-03-03T10:37:33] perf: optimize memory footprint for UTXO cache
