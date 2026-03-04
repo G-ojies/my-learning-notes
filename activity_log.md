@@ -466,3 +466,4 @@
 - [2026-03-03T10:37:33] perf: optimize memory footprint for UTXO cache
 - [2026-03-04T15:40:44] feat: add lightweight bloom filter parser for SPV tests
 - [2026-03-04T20:26:40] feat: add lightweight bloom filter parser for SPV tests
+- [2026-03-04T12:45:12] test: add fuzzing cases for mempool package acceptance
