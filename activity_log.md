@@ -1162,3 +1162,4 @@
 - [2026-03-02T17:34:58] feat: implement compact filter Golomb-Rice encoder
 - [2026-03-02T14:38:32] docs: document Lightning Watchtower justice payload format
 - [2026-03-03T10:01:03] docs: research Stratum V2 job negotiation framing
+- [2026-03-04T20:10:08] docs: update notes on Taproot script spend paths
