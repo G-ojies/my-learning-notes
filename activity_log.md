@@ -468,3 +468,4 @@
 - [2026-03-04T20:26:40] feat: add lightweight bloom filter parser for SPV tests
 - [2026-03-04T12:45:12] test: add fuzzing cases for mempool package acceptance
 - [2026-03-05T10:56:21] docs: document Lightning Watchtower justice payload format
+- [2026-03-05T20:39:04] test: add fuzzing cases for mempool package acceptance
