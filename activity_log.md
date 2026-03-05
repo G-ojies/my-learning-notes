@@ -100,3 +100,4 @@
 - [2026-03-03T14:56:24] docs: document Lightning Watchtower justice payload format
 - [2026-03-03T22:58:08] refactor: clean up P2P network message serialization
 - [2026-03-03T21:47:35] docs: update notes on Taproot script spend paths
+- [2026-03-05T20:52:06] docs: analyze BIP324 encrypted transport handshake
