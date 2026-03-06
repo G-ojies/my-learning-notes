@@ -1164,3 +1164,4 @@
 - [2026-03-03T10:01:03] docs: research Stratum V2 job negotiation framing
 - [2026-03-04T20:10:08] docs: update notes on Taproot script spend paths
 - [2026-03-06T18:15:05] docs: document Lightning Watchtower justice payload format
+- [2026-03-06T16:50:13] feat: prototype Erlay set reconciliation sketch
