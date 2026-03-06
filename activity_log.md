@@ -1546,3 +1546,4 @@
 - [2026-03-03T18:12:17] chore: update linting rules and static analysis tools
 - [2026-03-03T14:03:46] feat: implement compact filter Golomb-Rice encoder
 - [2026-03-04T17:19:58] test: add unit tests for Schnorr signature verification
+- [2026-03-06T14:11:09] feat: add lightweight bloom filter parser for SPV tests
