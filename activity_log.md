@@ -472,3 +472,4 @@
 - [2026-03-05T12:19:37] docs: analyze BIP324 encrypted transport handshake
 - [2026-03-06T13:15:44] docs: document Lightning Watchtower justice payload format
 - [2026-03-07T14:07:03] docs: research Stratum V2 job negotiation framing
+- [2026-03-07T09:01:04] docs: update notes on Taproot script spend paths
