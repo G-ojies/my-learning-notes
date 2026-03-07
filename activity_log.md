@@ -1166,3 +1166,4 @@
 - [2026-03-06T18:15:05] docs: document Lightning Watchtower justice payload format
 - [2026-03-06T16:50:13] feat: prototype Erlay set reconciliation sketch
 - [2026-03-06T12:25:24] refactor: clean up P2P network message serialization
+- [2026-03-07T17:41:16] docs: update notes on Taproot script spend paths
