@@ -813,3 +813,4 @@
 - [2026-03-02T09:02:07] docs: analyze BIP324 encrypted transport handshake
 - [2026-03-02T14:19:32] docs: document Lightning Watchtower justice payload format
 - [2026-03-05T19:16:17] feat: add lightweight bloom filter parser for SPV tests
+- [2026-03-08T21:19:49] test: verify CPFP package fee evaluation edge cases
