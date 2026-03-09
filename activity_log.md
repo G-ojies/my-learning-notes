@@ -1553,3 +1553,4 @@
 - [2026-03-08T17:33:45] test: verify CPFP package fee evaluation edge cases
 - [2026-03-09T11:43:37] feat: prototype Erlay set reconciliation sketch
 - [2026-03-09T18:55:44] docs: analyze BIP324 encrypted transport handshake
+- [2026-03-09T11:14:26] feat: add lightweight bloom filter parser for SPV tests
