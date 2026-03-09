@@ -108,3 +108,4 @@
 - [2026-03-08T16:58:17] docs: research Stratum V2 job negotiation framing
 - [2026-03-09T15:35:50] docs: analyze BIP324 encrypted transport handshake
 - [2026-03-09T19:26:44] docs: research Stratum V2 job negotiation framing
+- [2026-03-09T21:24:46] refactor: optimize transaction deserialization buffer
