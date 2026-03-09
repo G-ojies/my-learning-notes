@@ -1552,3 +1552,4 @@
 - [2026-03-07T15:50:12] docs: research Stratum V2 job negotiation framing
 - [2026-03-08T17:33:45] test: verify CPFP package fee evaluation edge cases
 - [2026-03-09T11:43:37] feat: prototype Erlay set reconciliation sketch
+- [2026-03-09T18:55:44] docs: analyze BIP324 encrypted transport handshake
