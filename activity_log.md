@@ -815,3 +815,4 @@
 - [2026-03-05T19:16:17] feat: add lightweight bloom filter parser for SPV tests
 - [2026-03-08T21:19:49] test: verify CPFP package fee evaluation edge cases
 - [2026-03-09T18:41:39] docs: document Lightning Watchtower justice payload format
+- [2026-03-09T12:10:53] docs: research Stratum V2 job negotiation framing
