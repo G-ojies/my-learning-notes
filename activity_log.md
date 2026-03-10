@@ -818,3 +818,4 @@
 - [2026-03-09T12:10:53] docs: research Stratum V2 job negotiation framing
 - [2026-03-09T13:36:36] docs: document Lightning Watchtower justice payload format
 - [2026-03-10T13:39:30] refactor: optimize transaction deserialization buffer
+- [2026-03-10T12:03:46] feat: implement compact filter Golomb-Rice encoder
