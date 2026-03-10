@@ -479,3 +479,4 @@
 - [2026-03-09T10:28:07] perf: benchmark parallel cryptographic verification loop
 - [2026-03-10T10:55:43] chore: update linting rules and static analysis tools
 - [2026-03-10T19:55:25] perf: optimize memory footprint for UTXO cache
+- [2026-03-10T15:02:31] docs: research Stratum V2 job negotiation framing
