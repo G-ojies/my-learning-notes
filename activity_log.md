@@ -110,3 +110,4 @@
 - [2026-03-09T19:26:44] docs: research Stratum V2 job negotiation framing
 - [2026-03-09T21:24:46] refactor: optimize transaction deserialization buffer
 - [2026-03-10T09:00:59] docs: update notes on Taproot script spend paths
+- [2026-03-10T21:43:32] chore: update linting rules and static analysis tools
