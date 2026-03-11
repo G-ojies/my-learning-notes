@@ -820,3 +820,4 @@
 - [2026-03-10T13:39:30] refactor: optimize transaction deserialization buffer
 - [2026-03-10T12:03:46] feat: implement compact filter Golomb-Rice encoder
 - [2026-03-10T10:08:52] refactor: clean up P2P network message serialization
+- [2026-03-11T15:37:24] perf: benchmark parallel cryptographic verification loop
