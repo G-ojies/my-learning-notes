@@ -1169,3 +1169,4 @@
 - [2026-03-07T17:41:16] docs: update notes on Taproot script spend paths
 - [2026-03-11T16:53:56] test: add fuzzing cases for mempool package acceptance
 - [2026-03-11T09:09:59] feat: add lightweight bloom filter parser for SPV tests
+- [2026-03-11T18:45:56] feat: add lightweight bloom filter parser for SPV tests
