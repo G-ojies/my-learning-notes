@@ -481,3 +481,4 @@
 - [2026-03-10T19:55:25] perf: optimize memory footprint for UTXO cache
 - [2026-03-10T15:02:31] docs: research Stratum V2 job negotiation framing
 - [2026-03-11T22:50:33] docs: update notes on Taproot script spend paths
+- [2026-03-12T20:36:24] perf: benchmark parallel cryptographic verification loop
