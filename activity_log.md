@@ -823,3 +823,4 @@
 - [2026-03-11T15:37:24] perf: benchmark parallel cryptographic verification loop
 - [2026-03-11T22:56:42] feat: add lightweight bloom filter parser for SPV tests
 - [2026-03-11T15:45:44] feat: add lightweight bloom filter parser for SPV tests
+- [2026-03-12T14:04:20] docs: document Lightning Watchtower justice payload format
