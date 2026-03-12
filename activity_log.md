@@ -824,3 +824,4 @@
 - [2026-03-11T22:56:42] feat: add lightweight bloom filter parser for SPV tests
 - [2026-03-11T15:45:44] feat: add lightweight bloom filter parser for SPV tests
 - [2026-03-12T14:04:20] docs: document Lightning Watchtower justice payload format
+- [2026-03-12T16:22:19] test: verify CPFP package fee evaluation edge cases
