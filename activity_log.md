@@ -111,3 +111,4 @@
 - [2026-03-09T21:24:46] refactor: optimize transaction deserialization buffer
 - [2026-03-10T09:00:59] docs: update notes on Taproot script spend paths
 - [2026-03-10T21:43:32] chore: update linting rules and static analysis tools
+- [2026-03-12T20:02:04] test: add fuzzing cases for mempool package acceptance
