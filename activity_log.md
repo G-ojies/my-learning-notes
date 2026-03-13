@@ -112,3 +112,4 @@
 - [2026-03-10T09:00:59] docs: update notes on Taproot script spend paths
 - [2026-03-10T21:43:32] chore: update linting rules and static analysis tools
 - [2026-03-12T20:02:04] test: add fuzzing cases for mempool package acceptance
+- [2026-03-13T12:51:47] test: add unit tests for Schnorr signature verification
