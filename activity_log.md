@@ -826,3 +826,4 @@
 - [2026-03-12T14:04:20] docs: document Lightning Watchtower justice payload format
 - [2026-03-12T16:22:19] test: verify CPFP package fee evaluation edge cases
 - [2026-03-13T19:33:27] test: add unit tests for Schnorr signature verification
+- [2026-03-13T18:31:04] feat: implement compact filter Golomb-Rice encoder
