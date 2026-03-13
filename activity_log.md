@@ -484,3 +484,4 @@
 - [2026-03-12T20:36:24] perf: benchmark parallel cryptographic verification loop
 - [2026-03-13T12:56:35] test: add fuzzing cases for mempool package acceptance
 - [2026-03-13T16:00:09] refactor: optimize transaction deserialization buffer
+- [2026-03-13T10:46:22] refactor: clean up P2P network message serialization
