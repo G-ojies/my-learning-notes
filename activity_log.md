@@ -1172,3 +1172,4 @@
 - [2026-03-11T18:45:56] feat: add lightweight bloom filter parser for SPV tests
 - [2026-03-12T10:24:52] feat: prototype Erlay set reconciliation sketch
 - [2026-03-13T11:49:39] docs: document Lightning Watchtower justice payload format
+- [2026-03-13T18:13:37] docs: research Stratum V2 job negotiation framing
