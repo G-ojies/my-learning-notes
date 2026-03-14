@@ -830,3 +830,4 @@
 - [2026-03-13T09:24:00] test: add unit tests for Schnorr signature verification
 - [2026-03-14T18:43:31] feat: prototype Erlay set reconciliation sketch
 - [2026-03-14T14:22:43] docs: document Lightning Watchtower justice payload format
+- [2026-03-14T12:50:11] refactor: optimize transaction deserialization buffer
