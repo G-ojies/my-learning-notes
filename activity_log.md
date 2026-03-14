@@ -1173,3 +1173,4 @@
 - [2026-03-12T10:24:52] feat: prototype Erlay set reconciliation sketch
 - [2026-03-13T11:49:39] docs: document Lightning Watchtower justice payload format
 - [2026-03-13T18:13:37] docs: research Stratum V2 job negotiation framing
+- [2026-03-14T14:01:06] docs: research Stratum V2 job negotiation framing
