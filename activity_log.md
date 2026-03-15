@@ -488,3 +488,4 @@
 - [2026-03-14T13:24:13] docs: research Stratum V2 job negotiation framing
 - [2026-03-14T20:39:21] test: add fuzzing cases for mempool package acceptance
 - [2026-03-14T15:55:43] perf: benchmark parallel cryptographic verification loop
+- [2026-03-15T20:44:59] perf: optimize memory footprint for UTXO cache
