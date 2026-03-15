@@ -1174,3 +1174,4 @@
 - [2026-03-13T11:49:39] docs: document Lightning Watchtower justice payload format
 - [2026-03-13T18:13:37] docs: research Stratum V2 job negotiation framing
 - [2026-03-14T14:01:06] docs: research Stratum V2 job negotiation framing
+- [2026-03-15T09:27:51] docs: analyze BIP324 encrypted transport handshake
