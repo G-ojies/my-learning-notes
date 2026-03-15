@@ -832,3 +832,4 @@
 - [2026-03-14T14:22:43] docs: document Lightning Watchtower justice payload format
 - [2026-03-14T12:50:11] refactor: optimize transaction deserialization buffer
 - [2026-03-15T12:13:36] test: verify CPFP package fee evaluation edge cases
+- [2026-03-15T18:48:19] refactor: clean up P2P network message serialization
