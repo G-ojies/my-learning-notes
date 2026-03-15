@@ -489,3 +489,4 @@
 - [2026-03-14T20:39:21] test: add fuzzing cases for mempool package acceptance
 - [2026-03-14T15:55:43] perf: benchmark parallel cryptographic verification loop
 - [2026-03-15T20:44:59] perf: optimize memory footprint for UTXO cache
+- [2026-03-15T17:12:52] feat: add lightweight bloom filter parser for SPV tests
