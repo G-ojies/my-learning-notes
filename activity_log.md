@@ -833,3 +833,4 @@
 - [2026-03-14T12:50:11] refactor: optimize transaction deserialization buffer
 - [2026-03-15T12:13:36] test: verify CPFP package fee evaluation edge cases
 - [2026-03-15T18:48:19] refactor: clean up P2P network message serialization
+- [2026-03-16T17:34:20] docs: research Stratum V2 job negotiation framing
