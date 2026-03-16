@@ -120,3 +120,4 @@
 - [2026-03-15T17:48:32] feat: add lightweight bloom filter parser for SPV tests
 - [2026-03-15T18:33:22] docs: document Lightning Watchtower justice payload format
 - [2026-03-16T21:03:49] feat: implement compact filter Golomb-Rice encoder
+- [2026-03-16T19:08:42] test: add fuzzing cases for mempool package acceptance
