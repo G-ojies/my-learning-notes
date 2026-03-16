@@ -121,3 +121,4 @@
 - [2026-03-15T18:33:22] docs: document Lightning Watchtower justice payload format
 - [2026-03-16T21:03:49] feat: implement compact filter Golomb-Rice encoder
 - [2026-03-16T19:08:42] test: add fuzzing cases for mempool package acceptance
+- [2026-03-16T18:17:09] test: add unit tests for Schnorr signature verification
