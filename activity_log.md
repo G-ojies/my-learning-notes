@@ -1176,3 +1176,4 @@
 - [2026-03-14T14:01:06] docs: research Stratum V2 job negotiation framing
 - [2026-03-15T09:27:51] docs: analyze BIP324 encrypted transport handshake
 - [2026-03-15T21:30:49] test: add unit tests for Schnorr signature verification
+- [2026-03-16T13:38:02] docs: research Stratum V2 job negotiation framing
