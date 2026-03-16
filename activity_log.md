@@ -1558,3 +1558,4 @@
 - [2026-03-11T21:17:38] test: add fuzzing cases for mempool package acceptance
 - [2026-03-12T21:32:23] perf: benchmark parallel cryptographic verification loop
 - [2026-03-14T17:04:40] docs: update notes on Taproot script spend paths
+- [2026-03-16T16:48:32] docs: analyze BIP324 encrypted transport handshake
