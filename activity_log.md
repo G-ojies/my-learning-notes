@@ -492,3 +492,4 @@
 - [2026-03-15T17:12:52] feat: add lightweight bloom filter parser for SPV tests
 - [2026-03-15T18:39:31] test: verify CPFP package fee evaluation edge cases
 - [2026-03-16T13:07:13] docs: update notes on Taproot script spend paths
+- [2026-03-17T12:59:52] perf: optimize memory footprint for UTXO cache
