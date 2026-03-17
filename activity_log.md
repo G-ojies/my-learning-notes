@@ -123,3 +123,4 @@
 - [2026-03-16T19:08:42] test: add fuzzing cases for mempool package acceptance
 - [2026-03-16T18:17:09] test: add unit tests for Schnorr signature verification
 - [2026-03-17T22:23:49] feat: prototype Erlay set reconciliation sketch
+- [2026-03-17T20:23:14] perf: benchmark parallel cryptographic verification loop
