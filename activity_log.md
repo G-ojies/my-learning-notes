@@ -1178,3 +1178,4 @@
 - [2026-03-15T21:30:49] test: add unit tests for Schnorr signature verification
 - [2026-03-16T13:38:02] docs: research Stratum V2 job negotiation framing
 - [2026-03-17T12:52:03] docs: research Stratum V2 job negotiation framing
+- [2026-03-17T16:36:22] chore: update linting rules and static analysis tools
