@@ -840,3 +840,4 @@
 - [2026-03-17T22:39:19] chore: update linting rules and static analysis tools
 - [2026-03-18T18:05:25] feat: prototype Erlay set reconciliation sketch
 - [2026-03-18T12:39:50] test: add unit tests for Schnorr signature verification
+- [2026-03-18T20:07:51] perf: optimize memory footprint for UTXO cache
