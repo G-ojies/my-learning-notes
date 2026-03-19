@@ -494,3 +494,4 @@
 - [2026-03-16T13:07:13] docs: update notes on Taproot script spend paths
 - [2026-03-17T12:59:52] perf: optimize memory footprint for UTXO cache
 - [2026-03-18T10:49:29] feat: add lightweight bloom filter parser for SPV tests
+- [2026-03-19T22:07:00] refactor: optimize transaction deserialization buffer
