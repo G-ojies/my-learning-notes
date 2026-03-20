@@ -128,3 +128,4 @@
 - [2026-03-19T19:26:44] chore: update linting rules and static analysis tools
 - [2026-03-19T12:41:31] perf: optimize memory footprint for UTXO cache
 - [2026-03-19T19:49:13] feat: prototype Erlay set reconciliation sketch
+- [2026-03-20T13:38:38] test: verify CPFP package fee evaluation edge cases
