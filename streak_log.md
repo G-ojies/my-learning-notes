@@ -11,3 +11,4 @@
 - Mar 15: Documented the 'verack' network handshake completion and connection establishment.
 - Mar 17: Researched xpub/xprv Base58Check serialization formats and version bytes.
 - Mar 18: Studied mempool eviction policies (Replace-by-Fee and Child-Pays-For-Parent).
+- Mar 20: Reviewed C++ node architecture concepts and mapped out Bitcoin Core's initialization sequence.
