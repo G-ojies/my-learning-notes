@@ -1184,3 +1184,4 @@
 - [2026-03-18T18:16:42] docs: research Stratum V2 job negotiation framing
 - [2026-03-18T11:41:30] docs: analyze BIP324 encrypted transport handshake
 - [2026-03-20T20:35:31] docs: analyze BIP324 encrypted transport handshake
+- [2026-03-20T17:52:17] test: verify CPFP package fee evaluation edge cases
