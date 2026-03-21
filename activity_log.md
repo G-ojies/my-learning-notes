@@ -1566,3 +1566,4 @@
 - [2026-03-20T22:06:07] test: add fuzzing cases for mempool package acceptance
 - [2026-03-20T20:21:37] refactor: clean up P2P network message serialization
 - [2026-03-21T22:18:41] perf: benchmark parallel cryptographic verification loop
+- [2026-03-21T11:20:28] feat: add lightweight bloom filter parser for SPV tests
