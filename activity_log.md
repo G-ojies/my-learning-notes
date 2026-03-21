@@ -130,3 +130,4 @@
 - [2026-03-19T19:49:13] feat: prototype Erlay set reconciliation sketch
 - [2026-03-20T13:38:38] test: verify CPFP package fee evaluation edge cases
 - [2026-03-21T16:58:15] docs: research Stratum V2 job negotiation framing
+- [2026-03-21T21:07:35] docs: document Lightning Watchtower justice payload format
