@@ -497,3 +497,4 @@
 - [2026-03-19T22:07:00] refactor: optimize transaction deserialization buffer
 - [2026-03-20T10:25:25] docs: research Stratum V2 job negotiation framing
 - [2026-03-20T22:55:43] test: add fuzzing cases for mempool package acceptance
+- [2026-03-21T13:27:44] refactor: optimize transaction deserialization buffer
