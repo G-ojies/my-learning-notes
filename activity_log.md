@@ -1187,3 +1187,4 @@
 - [2026-03-20T17:52:17] test: verify CPFP package fee evaluation edge cases
 - [2026-03-22T13:09:23] feat: implement compact filter Golomb-Rice encoder
 - [2026-03-23T21:41:19] refactor: optimize transaction deserialization buffer
+- [2026-03-23T12:19:40] refactor: clean up P2P network message serialization
