@@ -12,3 +12,4 @@
 - Mar 17: Researched xpub/xprv Base58Check serialization formats and version bytes.
 - Mar 18: Studied mempool eviction policies (Replace-by-Fee and Child-Pays-For-Parent).
 - Mar 20: Reviewed C++ node architecture concepts and mapped out Bitcoin Core's initialization sequence.
+- Mar 23: Mapped out `getrawmempool` RPC commands for tracking unconfirmed transactions.
