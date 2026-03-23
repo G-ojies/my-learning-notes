@@ -1188,3 +1188,4 @@
 - [2026-03-22T13:09:23] feat: implement compact filter Golomb-Rice encoder
 - [2026-03-23T21:41:19] refactor: optimize transaction deserialization buffer
 - [2026-03-23T12:19:40] refactor: clean up P2P network message serialization
+- [2026-03-23T21:57:45] feat: add lightweight bloom filter parser for SPV tests
