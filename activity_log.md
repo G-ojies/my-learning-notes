@@ -502,3 +502,4 @@
 - [2026-03-22T11:08:15] perf: benchmark parallel cryptographic verification loop
 - [2026-03-22T16:32:43] feat: implement compact filter Golomb-Rice encoder
 - [2026-03-22T19:26:41] test: verify CPFP package fee evaluation edge cases
+- [2026-03-23T20:48:08] chore: update linting rules and static analysis tools
