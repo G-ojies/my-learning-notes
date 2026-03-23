@@ -845,3 +845,4 @@
 - [2026-03-20T15:13:17] feat: add lightweight bloom filter parser for SPV tests
 - [2026-03-20T18:27:23] docs: analyze BIP324 encrypted transport handshake
 - [2026-03-21T22:33:02] docs: update notes on Taproot script spend paths
+- [2026-03-23T09:47:01] test: add fuzzing cases for mempool package acceptance
