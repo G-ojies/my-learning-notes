@@ -1190,3 +1190,4 @@
 - [2026-03-23T12:19:40] refactor: clean up P2P network message serialization
 - [2026-03-23T21:57:45] feat: add lightweight bloom filter parser for SPV tests
 - [2026-03-24T13:30:34] docs: update notes on Taproot script spend paths
+- [2026-03-24T19:14:00] perf: optimize memory footprint for UTXO cache
