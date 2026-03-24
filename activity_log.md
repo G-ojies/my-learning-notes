@@ -1569,3 +1569,4 @@
 - [2026-03-21T11:20:28] feat: add lightweight bloom filter parser for SPV tests
 - [2026-03-24T10:45:17] chore: update linting rules and static analysis tools
 - [2026-03-24T20:36:32] perf: benchmark parallel cryptographic verification loop
+- [2026-03-24T16:52:02] perf: optimize memory footprint for UTXO cache
