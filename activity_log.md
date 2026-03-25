@@ -508,3 +508,4 @@
 - [2026-03-24T17:57:12] docs: analyze BIP324 encrypted transport handshake
 - [2026-03-25T15:31:01] docs: analyze BIP324 encrypted transport handshake
 - [2026-03-25T11:35:12] perf: optimize memory footprint for UTXO cache
+- [2026-03-25T20:25:13] test: add unit tests for Schnorr signature verification
