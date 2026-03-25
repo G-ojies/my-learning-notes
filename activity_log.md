@@ -1572,3 +1572,4 @@
 - [2026-03-24T16:52:02] perf: optimize memory footprint for UTXO cache
 - [2026-03-25T20:49:47] refactor: clean up P2P network message serialization
 - [2026-03-25T21:47:58] perf: benchmark parallel cryptographic verification loop
+- [2026-03-25T10:00:41] feat: add lightweight bloom filter parser for SPV tests
