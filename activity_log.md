@@ -1570,3 +1570,4 @@
 - [2026-03-24T10:45:17] chore: update linting rules and static analysis tools
 - [2026-03-24T20:36:32] perf: benchmark parallel cryptographic verification loop
 - [2026-03-24T16:52:02] perf: optimize memory footprint for UTXO cache
+- [2026-03-25T20:49:47] refactor: clean up P2P network message serialization
