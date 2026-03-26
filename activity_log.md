@@ -849,3 +849,4 @@
 - [2026-03-25T09:57:49] docs: update notes on Taproot script spend paths
 - [2026-03-25T19:41:38] perf: optimize memory footprint for UTXO cache
 - [2026-03-25T09:09:33] perf: optimize memory footprint for UTXO cache
+- [2026-03-26T18:47:44] test: add fuzzing cases for mempool package acceptance
