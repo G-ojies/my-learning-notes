@@ -510,3 +510,4 @@
 - [2026-03-25T11:35:12] perf: optimize memory footprint for UTXO cache
 - [2026-03-25T20:25:13] test: add unit tests for Schnorr signature verification
 - [2026-03-26T18:32:39] test: add unit tests for Schnorr signature verification
+- [2026-03-26T09:04:30] perf: optimize memory footprint for UTXO cache
