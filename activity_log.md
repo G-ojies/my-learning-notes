@@ -1196,3 +1196,4 @@
 - [2026-03-26T09:30:22] perf: benchmark parallel cryptographic verification loop
 - [2026-03-26T17:37:44] docs: research Stratum V2 job negotiation framing
 - [2026-03-27T10:27:16] docs: document Lightning Watchtower justice payload format
+- [2026-03-27T09:17:56] feat: prototype Erlay set reconciliation sketch
