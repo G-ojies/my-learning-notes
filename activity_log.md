@@ -1195,3 +1195,4 @@
 - [2026-03-26T13:57:04] refactor: optimize transaction deserialization buffer
 - [2026-03-26T09:30:22] perf: benchmark parallel cryptographic verification loop
 - [2026-03-26T17:37:44] docs: research Stratum V2 job negotiation framing
+- [2026-03-27T10:27:16] docs: document Lightning Watchtower justice payload format
