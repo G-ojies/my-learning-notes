@@ -852,3 +852,4 @@
 - [2026-03-26T18:47:44] test: add fuzzing cases for mempool package acceptance
 - [2026-03-26T14:14:41] feat: implement compact filter Golomb-Rice encoder
 - [2026-03-26T17:36:49] docs: research Stratum V2 job negotiation framing
+- [2026-03-27T10:38:03] test: add unit tests for Schnorr signature verification
