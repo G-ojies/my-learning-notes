@@ -140,3 +140,4 @@
 - [2026-03-27T15:31:52] test: add unit tests for Schnorr signature verification
 - [2026-03-28T14:59:53] perf: benchmark parallel cryptographic verification loop
 - [2026-03-28T18:04:43] perf: benchmark parallel cryptographic verification loop
+- [2026-03-28T13:51:08] refactor: clean up P2P network message serialization
