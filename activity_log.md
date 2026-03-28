@@ -855,3 +855,4 @@
 - [2026-03-27T10:38:03] test: add unit tests for Schnorr signature verification
 - [2026-03-27T09:29:38] test: add fuzzing cases for mempool package acceptance
 - [2026-03-28T14:54:02] test: add fuzzing cases for mempool package acceptance
+- [2026-03-28T20:42:32] feat: implement compact filter Golomb-Rice encoder
