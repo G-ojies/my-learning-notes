@@ -1198,3 +1198,4 @@
 - [2026-03-27T10:27:16] docs: document Lightning Watchtower justice payload format
 - [2026-03-27T09:17:56] feat: prototype Erlay set reconciliation sketch
 - [2026-03-29T10:10:34] test: verify CPFP package fee evaluation edge cases
+- [2026-03-29T22:47:47] chore: update linting rules and static analysis tools
