@@ -856,3 +856,4 @@
 - [2026-03-27T09:29:38] test: add fuzzing cases for mempool package acceptance
 - [2026-03-28T14:54:02] test: add fuzzing cases for mempool package acceptance
 - [2026-03-28T20:42:32] feat: implement compact filter Golomb-Rice encoder
+- [2026-03-29T11:39:18] docs: update notes on Taproot script spend paths
