@@ -1577,3 +1577,4 @@
 - [2026-03-26T21:53:21] docs: research Stratum V2 job negotiation framing
 - [2026-03-26T19:29:01] perf: benchmark parallel cryptographic verification loop
 - [2026-03-27T20:20:06] chore: update linting rules and static analysis tools
+- [2026-03-29T11:34:51] docs: analyze BIP324 encrypted transport handshake
