@@ -1579,3 +1579,4 @@
 - [2026-03-27T20:20:06] chore: update linting rules and static analysis tools
 - [2026-03-29T11:34:51] docs: analyze BIP324 encrypted transport handshake
 - [2026-03-29T21:36:03] docs: update notes on Taproot script spend paths
+- [2026-03-29T22:31:42] docs: document Lightning Watchtower justice payload format
