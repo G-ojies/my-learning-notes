@@ -515,3 +515,4 @@
 - [2026-03-28T19:59:41] test: verify CPFP package fee evaluation edge cases
 - [2026-03-28T10:27:14] perf: optimize memory footprint for UTXO cache
 - [2026-03-28T09:04:43] feat: add lightweight bloom filter parser for SPV tests
+- [2026-03-29T13:05:48] perf: benchmark parallel cryptographic verification loop
