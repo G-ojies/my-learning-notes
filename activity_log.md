@@ -1200,3 +1200,4 @@
 - [2026-03-29T10:10:34] test: verify CPFP package fee evaluation edge cases
 - [2026-03-29T22:47:47] chore: update linting rules and static analysis tools
 - [2026-03-29T20:00:54] docs: document Lightning Watchtower justice payload format
+- [2026-03-30T19:06:09] feat: add lightweight bloom filter parser for SPV tests
