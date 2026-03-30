@@ -145,3 +145,4 @@
 - [2026-03-29T09:10:52] docs: document Lightning Watchtower justice payload format
 - [2026-03-29T22:46:06] docs: research Stratum V2 job negotiation framing
 - [2026-03-30T15:10:46] test: add fuzzing cases for mempool package acceptance
+- [2026-03-30T18:18:29] test: verify CPFP package fee evaluation edge cases
