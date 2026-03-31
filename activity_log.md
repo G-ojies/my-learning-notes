@@ -1202,3 +1202,4 @@
 - [2026-03-29T20:00:54] docs: document Lightning Watchtower justice payload format
 - [2026-03-30T19:06:09] feat: add lightweight bloom filter parser for SPV tests
 - [2026-03-30T17:06:21] feat: prototype Erlay set reconciliation sketch
+- [2026-03-31T13:22:48] docs: analyze BIP324 encrypted transport handshake
