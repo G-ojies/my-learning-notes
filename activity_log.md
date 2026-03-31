@@ -1583,3 +1583,4 @@
 - [2026-03-30T10:22:51] feat: implement compact filter Golomb-Rice encoder
 - [2026-03-30T11:43:11] test: add fuzzing cases for mempool package acceptance
 - [2026-03-30T10:38:59] docs: research Stratum V2 job negotiation framing
+- [2026-03-31T18:18:51] docs: analyze BIP324 encrypted transport handshake
