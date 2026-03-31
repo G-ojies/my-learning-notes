@@ -1204,3 +1204,4 @@
 - [2026-03-30T17:06:21] feat: prototype Erlay set reconciliation sketch
 - [2026-03-31T13:22:48] docs: analyze BIP324 encrypted transport handshake
 - [2026-03-31T16:15:39] refactor: clean up P2P network message serialization
+- [2026-03-31T10:37:38] docs: update notes on Taproot script spend paths
