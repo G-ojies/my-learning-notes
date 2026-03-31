@@ -18,3 +18,4 @@
 - Mar 27: Researched BIP340 Schnorr Signatures and how they enable signature aggregation.
 - Mar 28: Mapped out BIP341 Taproot (P2TR) concepts: Key path vs. Script path spending.
 - Mar 29: Documented the Bech32m standard used specifically for Taproot addresses to fix the mutability bug.
+- Mar 31: Researched OP_CHECKSEQUENCEVERIFY (CSV) for relative timelocks.
