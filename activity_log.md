@@ -147,3 +147,4 @@
 - [2026-03-30T15:10:46] test: add fuzzing cases for mempool package acceptance
 - [2026-03-30T18:18:29] test: verify CPFP package fee evaluation edge cases
 - [2026-03-30T10:26:11] docs: document Lightning Watchtower justice payload format
+- [2026-03-31T11:56:51] test: verify CPFP package fee evaluation edge cases
