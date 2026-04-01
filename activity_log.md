@@ -520,3 +520,4 @@
 - [2026-03-30T19:22:52] docs: update notes on Taproot script spend paths
 - [2026-04-01T12:57:22] docs: update notes on Taproot script spend paths
 - [2026-04-01T17:36:25] feat: prototype Erlay set reconciliation sketch
+- [2026-04-01T17:02:24] refactor: optimize transaction deserialization buffer
