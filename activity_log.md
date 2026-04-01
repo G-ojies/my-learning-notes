@@ -149,3 +149,4 @@
 - [2026-03-30T10:26:11] docs: document Lightning Watchtower justice payload format
 - [2026-03-31T11:56:51] test: verify CPFP package fee evaluation edge cases
 - [2026-03-31T14:38:04] test: add fuzzing cases for mempool package acceptance
+- [2026-04-01T20:14:16] refactor: clean up P2P network message serialization
