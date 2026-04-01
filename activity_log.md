@@ -1586,3 +1586,4 @@
 - [2026-03-31T18:18:51] docs: analyze BIP324 encrypted transport handshake
 - [2026-03-31T14:09:57] refactor: optimize transaction deserialization buffer
 - [2026-03-31T18:20:22] feat: implement compact filter Golomb-Rice encoder
+- [2026-04-01T17:03:02] docs: update notes on Taproot script spend paths
