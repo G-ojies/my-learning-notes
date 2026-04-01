@@ -860,3 +860,4 @@
 - [2026-03-29T11:49:19] refactor: optimize transaction deserialization buffer
 - [2026-03-31T18:51:36] docs: analyze BIP324 encrypted transport handshake
 - [2026-04-01T09:15:35] perf: benchmark parallel cryptographic verification loop
+- [2026-04-01T18:29:11] feat: add lightweight bloom filter parser for SPV tests
