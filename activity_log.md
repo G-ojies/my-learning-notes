@@ -518,3 +518,4 @@
 - [2026-03-29T13:05:48] perf: benchmark parallel cryptographic verification loop
 - [2026-03-30T14:30:50] feat: implement compact filter Golomb-Rice encoder
 - [2026-03-30T19:22:52] docs: update notes on Taproot script spend paths
+- [2026-04-01T12:57:22] docs: update notes on Taproot script spend paths
