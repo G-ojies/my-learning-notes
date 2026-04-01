@@ -861,3 +861,4 @@
 - [2026-03-31T18:51:36] docs: analyze BIP324 encrypted transport handshake
 - [2026-04-01T09:15:35] perf: benchmark parallel cryptographic verification loop
 - [2026-04-01T18:29:11] feat: add lightweight bloom filter parser for SPV tests
+- [2026-04-01T16:27:36] perf: optimize memory footprint for UTXO cache
