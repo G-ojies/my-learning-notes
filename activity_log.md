@@ -151,3 +151,4 @@
 - [2026-03-31T14:38:04] test: add fuzzing cases for mempool package acceptance
 - [2026-04-01T20:14:16] refactor: clean up P2P network message serialization
 - [2026-04-01T18:45:53] perf: optimize memory footprint for UTXO cache
+- [2026-04-02T10:33:22] docs: update notes on Taproot script spend paths
