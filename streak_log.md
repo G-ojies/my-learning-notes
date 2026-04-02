@@ -20,3 +20,4 @@
 - Mar 29: Documented the Bech32m standard used specifically for Taproot addresses to fix the mutability bug.
 - Mar 31: Researched OP_CHECKSEQUENCEVERIFY (CSV) for relative timelocks.
 - Apr 1: Mapped how CSV is foundational for creating bidirectional payment channels.
+- Apr 2: Documented HTLCs (Hashed Timelock Contracts) bridging cryptography and time.
