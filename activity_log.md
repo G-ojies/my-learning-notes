@@ -1592,3 +1592,4 @@
 - [2026-04-02T10:54:36] feat: implement compact filter Golomb-Rice encoder
 - [2026-04-03T11:23:59] perf: optimize memory footprint for UTXO cache
 - [2026-04-03T18:36:30] feat: add lightweight bloom filter parser for SPV tests
+- [2026-04-03T14:18:59] docs: analyze BIP324 encrypted transport handshake
