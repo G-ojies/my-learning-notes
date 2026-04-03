@@ -864,3 +864,4 @@
 - [2026-04-01T16:27:36] perf: optimize memory footprint for UTXO cache
 - [2026-04-02T19:10:35] perf: optimize memory footprint for UTXO cache
 - [2026-04-02T11:26:22] feat: implement compact filter Golomb-Rice encoder
+- [2026-04-03T09:07:50] perf: benchmark parallel cryptographic verification loop
