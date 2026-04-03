@@ -523,3 +523,4 @@
 - [2026-04-01T17:02:24] refactor: optimize transaction deserialization buffer
 - [2026-04-02T17:30:21] test: add fuzzing cases for mempool package acceptance
 - [2026-04-03T22:08:39] refactor: optimize transaction deserialization buffer
+- [2026-04-03T11:33:34] feat: prototype Erlay set reconciliation sketch
