@@ -154,3 +154,4 @@
 - [2026-04-02T10:33:22] docs: update notes on Taproot script spend paths
 - [2026-04-03T22:21:09] docs: analyze BIP324 encrypted transport handshake
 - [2026-04-03T12:15:48] docs: document Lightning Watchtower justice payload format
+- [2026-04-03T18:12:03] docs: update notes on Taproot script spend paths
