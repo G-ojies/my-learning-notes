@@ -1590,3 +1590,4 @@
 - [2026-04-02T10:24:06] refactor: clean up P2P network message serialization
 - [2026-04-02T19:36:18] perf: optimize memory footprint for UTXO cache
 - [2026-04-02T10:54:36] feat: implement compact filter Golomb-Rice encoder
+- [2026-04-03T11:23:59] perf: optimize memory footprint for UTXO cache
