@@ -1595,3 +1595,4 @@
 - [2026-04-03T14:18:59] docs: analyze BIP324 encrypted transport handshake
 - [2026-04-04T20:34:27] feat: prototype Erlay set reconciliation sketch
 - [2026-04-04T22:21:43] feat: implement compact filter Golomb-Rice encoder
+- [2026-04-04T21:34:45] refactor: clean up P2P network message serialization
