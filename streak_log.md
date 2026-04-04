@@ -21,3 +21,4 @@
 - Mar 31: Researched OP_CHECKSEQUENCEVERIFY (CSV) for relative timelocks.
 - Apr 1: Mapped how CSV is foundational for creating bidirectional payment channels.
 - Apr 2: Documented HTLCs (Hashed Timelock Contracts) bridging cryptography and time.
+- Apr 4: Analyzed how the SegWit 4-to-1 weight discount incentivizes UTXO consolidation.
