@@ -868,3 +868,4 @@
 - [2026-04-03T13:42:58] test: add unit tests for Schnorr signature verification
 - [2026-04-03T22:35:36] feat: add lightweight bloom filter parser for SPV tests
 - [2026-04-04T12:16:12] docs: document Lightning Watchtower justice payload format
+- [2026-04-05T15:43:56] perf: benchmark parallel cryptographic verification loop
