@@ -1208,3 +1208,4 @@
 - [2026-04-02T18:59:51] test: add fuzzing cases for mempool package acceptance
 - [2026-04-02T20:14:45] docs: document Lightning Watchtower justice payload format
 - [2026-04-05T12:42:29] docs: research Stratum V2 job negotiation framing
+- [2026-04-05T10:04:48] chore: update linting rules and static analysis tools
