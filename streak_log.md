@@ -23,3 +23,4 @@
 - Apr 2: Documented HTLCs (Hashed Timelock Contracts) bridging cryptography and time.
 - Apr 4: Analyzed how the SegWit 4-to-1 weight discount incentivizes UTXO consolidation.
 - Apr 5: Studied the Witness Commitment structure inside the Coinbase transaction.
+- Apr 6: Reviewed the 'block weight' hard limit of 4,000,000 WU.
