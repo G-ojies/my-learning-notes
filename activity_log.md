@@ -1212,3 +1212,4 @@
 - [2026-04-06T20:09:55] docs: document Lightning Watchtower justice payload format
 - [2026-04-07T20:19:22] docs: update notes on Taproot script spend paths
 - [2026-04-07T13:26:37] perf: optimize memory footprint for UTXO cache
+- [2026-04-07T16:45:45] docs: research Stratum V2 job negotiation framing
