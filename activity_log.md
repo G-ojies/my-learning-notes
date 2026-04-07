@@ -871,3 +871,4 @@
 - [2026-04-05T15:43:56] perf: benchmark parallel cryptographic verification loop
 - [2026-04-05T16:27:29] feat: prototype Erlay set reconciliation sketch
 - [2026-04-07T20:23:02] docs: analyze BIP324 encrypted transport handshake
+- [2026-04-07T09:51:14] docs: update notes on Taproot script spend paths
