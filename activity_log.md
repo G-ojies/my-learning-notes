@@ -158,3 +158,4 @@
 - [2026-04-06T16:13:55] test: add fuzzing cases for mempool package acceptance
 - [2026-04-06T13:40:11] feat: prototype Erlay set reconciliation sketch
 - [2026-04-06T19:51:25] test: verify CPFP package fee evaluation edge cases
+- [2026-04-07T22:09:37] feat: prototype Erlay set reconciliation sketch
