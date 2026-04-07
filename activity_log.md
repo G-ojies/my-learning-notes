@@ -160,3 +160,4 @@
 - [2026-04-06T19:51:25] test: verify CPFP package fee evaluation edge cases
 - [2026-04-07T22:09:37] feat: prototype Erlay set reconciliation sketch
 - [2026-04-07T18:17:36] docs: document Lightning Watchtower justice payload format
+- [2026-04-07T13:08:42] feat: implement compact filter Golomb-Rice encoder
