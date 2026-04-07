@@ -528,3 +528,4 @@
 - [2026-04-05T11:52:21] feat: add lightweight bloom filter parser for SPV tests
 - [2026-04-06T22:50:56] docs: analyze BIP324 encrypted transport handshake
 - [2026-04-07T16:46:31] perf: optimize memory footprint for UTXO cache
+- [2026-04-07T14:04:09] refactor: optimize transaction deserialization buffer
