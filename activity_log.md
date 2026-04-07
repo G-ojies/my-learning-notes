@@ -1211,3 +1211,4 @@
 - [2026-04-05T10:04:48] chore: update linting rules and static analysis tools
 - [2026-04-06T20:09:55] docs: document Lightning Watchtower justice payload format
 - [2026-04-07T20:19:22] docs: update notes on Taproot script spend paths
+- [2026-04-07T13:26:37] perf: optimize memory footprint for UTXO cache
