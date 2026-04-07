@@ -1601,3 +1601,4 @@
 - [2026-04-06T10:08:08] chore: update linting rules and static analysis tools
 - [2026-04-06T15:17:03] refactor: clean up P2P network message serialization
 - [2026-04-07T15:20:02] feat: prototype Erlay set reconciliation sketch
+- [2026-04-07T10:56:45] docs: research Stratum V2 job negotiation framing
