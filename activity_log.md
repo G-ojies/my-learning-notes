@@ -1210,3 +1210,4 @@
 - [2026-04-05T12:42:29] docs: research Stratum V2 job negotiation framing
 - [2026-04-05T10:04:48] chore: update linting rules and static analysis tools
 - [2026-04-06T20:09:55] docs: document Lightning Watchtower justice payload format
+- [2026-04-07T20:19:22] docs: update notes on Taproot script spend paths
