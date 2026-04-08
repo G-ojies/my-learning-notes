@@ -1215,3 +1215,4 @@
 - [2026-04-07T16:45:45] docs: research Stratum V2 job negotiation framing
 - [2026-04-08T18:58:47] test: add fuzzing cases for mempool package acceptance
 - [2026-04-08T18:08:51] feat: implement compact filter Golomb-Rice encoder
+- [2026-04-08T19:26:38] refactor: clean up P2P network message serialization
