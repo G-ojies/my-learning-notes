@@ -1603,3 +1603,4 @@
 - [2026-04-07T15:20:02] feat: prototype Erlay set reconciliation sketch
 - [2026-04-07T10:56:45] docs: research Stratum V2 job negotiation framing
 - [2026-04-07T09:12:02] refactor: clean up P2P network message serialization
+- [2026-04-08T10:33:36] feat: prototype Erlay set reconciliation sketch
