@@ -161,3 +161,4 @@
 - [2026-04-07T22:09:37] feat: prototype Erlay set reconciliation sketch
 - [2026-04-07T18:17:36] docs: document Lightning Watchtower justice payload format
 - [2026-04-07T13:08:42] feat: implement compact filter Golomb-Rice encoder
+- [2026-04-08T16:27:09] docs: update notes on Taproot script spend paths
