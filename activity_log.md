@@ -1605,3 +1605,4 @@
 - [2026-04-07T09:12:02] refactor: clean up P2P network message serialization
 - [2026-04-08T10:33:36] feat: prototype Erlay set reconciliation sketch
 - [2026-04-08T09:17:14] perf: optimize memory footprint for UTXO cache
+- [2026-04-08T22:00:44] feat: implement compact filter Golomb-Rice encoder
