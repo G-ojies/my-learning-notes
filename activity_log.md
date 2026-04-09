@@ -531,3 +531,4 @@
 - [2026-04-07T14:04:09] refactor: optimize transaction deserialization buffer
 - [2026-04-07T15:51:29] perf: optimize memory footprint for UTXO cache
 - [2026-04-08T15:34:55] docs: document Lightning Watchtower justice payload format
+- [2026-04-09T11:12:45] refactor: clean up P2P network message serialization
