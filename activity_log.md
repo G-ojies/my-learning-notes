@@ -532,3 +532,4 @@
 - [2026-04-07T15:51:29] perf: optimize memory footprint for UTXO cache
 - [2026-04-08T15:34:55] docs: document Lightning Watchtower justice payload format
 - [2026-04-09T11:12:45] refactor: clean up P2P network message serialization
+- [2026-04-09T16:55:17] feat: implement compact filter Golomb-Rice encoder
