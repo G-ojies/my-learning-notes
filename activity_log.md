@@ -1607,3 +1607,4 @@
 - [2026-04-08T09:17:14] perf: optimize memory footprint for UTXO cache
 - [2026-04-08T22:00:44] feat: implement compact filter Golomb-Rice encoder
 - [2026-04-09T21:59:21] perf: optimize memory footprint for UTXO cache
+- [2026-04-09T22:40:42] test: add fuzzing cases for mempool package acceptance
