@@ -163,3 +163,4 @@
 - [2026-04-07T13:08:42] feat: implement compact filter Golomb-Rice encoder
 - [2026-04-08T16:27:09] docs: update notes on Taproot script spend paths
 - [2026-04-09T13:47:47] test: add unit tests for Schnorr signature verification
+- [2026-04-10T10:19:20] chore: update linting rules and static analysis tools
