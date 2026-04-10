@@ -1217,3 +1217,4 @@
 - [2026-04-08T18:08:51] feat: implement compact filter Golomb-Rice encoder
 - [2026-04-08T19:26:38] refactor: clean up P2P network message serialization
 - [2026-04-10T09:24:35] perf: benchmark parallel cryptographic verification loop
+- [2026-04-10T10:24:54] docs: update notes on Taproot script spend paths
