@@ -535,3 +535,4 @@
 - [2026-04-09T16:55:17] feat: implement compact filter Golomb-Rice encoder
 - [2026-04-10T20:10:42] feat: add lightweight bloom filter parser for SPV tests
 - [2026-04-10T19:15:52] refactor: clean up P2P network message serialization
+- [2026-04-10T22:55:29] test: add unit tests for Schnorr signature verification
