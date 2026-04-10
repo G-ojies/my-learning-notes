@@ -1609,3 +1609,4 @@
 - [2026-04-09T21:59:21] perf: optimize memory footprint for UTXO cache
 - [2026-04-09T22:40:42] test: add fuzzing cases for mempool package acceptance
 - [2026-04-09T11:53:43] test: verify CPFP package fee evaluation edge cases
+- [2026-04-10T09:48:18] test: add unit tests for Schnorr signature verification
