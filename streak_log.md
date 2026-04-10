@@ -26,3 +26,4 @@
 - Apr 6: Reviewed the 'block weight' hard limit of 4,000,000 WU.
 - Apr 8: Outlined backend architecture for parsing zero-conf transactions from the mempool.
 - Apr 9: Researched ZMQ (ZeroMQ) usage in Bitcoin Core for real-time mempool event streaming.
+- Apr 10: Defined schemas for tracking wallet inflows and outflows programmatically.
