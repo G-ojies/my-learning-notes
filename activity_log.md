@@ -533,3 +533,4 @@
 - [2026-04-08T15:34:55] docs: document Lightning Watchtower justice payload format
 - [2026-04-09T11:12:45] refactor: clean up P2P network message serialization
 - [2026-04-09T16:55:17] feat: implement compact filter Golomb-Rice encoder
+- [2026-04-10T20:10:42] feat: add lightweight bloom filter parser for SPV tests
