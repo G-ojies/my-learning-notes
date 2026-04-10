@@ -1610,3 +1610,4 @@
 - [2026-04-09T22:40:42] test: add fuzzing cases for mempool package acceptance
 - [2026-04-09T11:53:43] test: verify CPFP package fee evaluation edge cases
 - [2026-04-10T09:48:18] test: add unit tests for Schnorr signature verification
+- [2026-04-10T12:19:11] refactor: clean up P2P network message serialization
