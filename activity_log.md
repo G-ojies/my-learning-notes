@@ -1219,3 +1219,4 @@
 - [2026-04-10T09:24:35] perf: benchmark parallel cryptographic verification loop
 - [2026-04-10T10:24:54] docs: update notes on Taproot script spend paths
 - [2026-04-10T11:24:28] docs: document Lightning Watchtower justice payload format
+- [2026-04-11T21:23:39] refactor: clean up P2P network message serialization
