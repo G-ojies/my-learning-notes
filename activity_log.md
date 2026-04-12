@@ -167,3 +167,4 @@
 - [2026-04-10T17:31:15] docs: update notes on Taproot script spend paths
 - [2026-04-12T15:21:51] feat: implement compact filter Golomb-Rice encoder
 - [2026-04-12T22:30:44] test: verify CPFP package fee evaluation edge cases
+- [2026-04-12T10:36:55] feat: implement compact filter Golomb-Rice encoder
