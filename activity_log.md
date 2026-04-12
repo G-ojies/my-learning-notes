@@ -1221,3 +1221,4 @@
 - [2026-04-10T11:24:28] docs: document Lightning Watchtower justice payload format
 - [2026-04-11T21:23:39] refactor: clean up P2P network message serialization
 - [2026-04-11T17:55:09] perf: optimize memory footprint for UTXO cache
+- [2026-04-12T15:50:35] test: verify CPFP package fee evaluation edge cases
