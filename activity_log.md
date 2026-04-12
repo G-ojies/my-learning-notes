@@ -875,3 +875,4 @@
 - [2026-04-08T16:13:08] test: add unit tests for Schnorr signature verification
 - [2026-04-08T18:30:37] refactor: optimize transaction deserialization buffer
 - [2026-04-10T17:28:14] refactor: optimize transaction deserialization buffer
+- [2026-04-12T16:59:08] test: add fuzzing cases for mempool package acceptance
