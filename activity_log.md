@@ -1616,3 +1616,4 @@
 - [2026-04-12T19:08:43] feat: add lightweight bloom filter parser for SPV tests
 - [2026-04-13T17:59:32] refactor: clean up P2P network message serialization
 - [2026-04-13T12:32:21] refactor: optimize transaction deserialization buffer
+- [2026-04-13T14:12:29] perf: optimize memory footprint for UTXO cache
