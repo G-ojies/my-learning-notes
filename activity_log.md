@@ -169,3 +169,4 @@
 - [2026-04-12T22:30:44] test: verify CPFP package fee evaluation edge cases
 - [2026-04-12T10:36:55] feat: implement compact filter Golomb-Rice encoder
 - [2026-04-13T16:29:33] feat: add lightweight bloom filter parser for SPV tests
+- [2026-04-13T18:54:02] feat: add lightweight bloom filter parser for SPV tests
