@@ -172,3 +172,4 @@
 - [2026-04-13T18:54:02] feat: add lightweight bloom filter parser for SPV tests
 - [2026-04-13T20:52:47] feat: prototype Erlay set reconciliation sketch
 - [2026-04-14T22:01:11] refactor: optimize transaction deserialization buffer
+- [2026-04-14T17:58:47] feat: implement compact filter Golomb-Rice encoder
