@@ -882,3 +882,4 @@
 - [2026-04-13T18:49:27] test: verify CPFP package fee evaluation edge cases
 - [2026-04-14T17:48:46] feat: implement compact filter Golomb-Rice encoder
 - [2026-04-14T13:17:36] perf: optimize memory footprint for UTXO cache
+- [2026-04-14T22:50:38] chore: update linting rules and static analysis tools
