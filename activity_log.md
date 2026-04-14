@@ -1226,3 +1226,4 @@
 - [2026-04-12T09:50:20] refactor: clean up P2P network message serialization
 - [2026-04-13T12:29:15] feat: implement compact filter Golomb-Rice encoder
 - [2026-04-14T19:25:55] feat: implement compact filter Golomb-Rice encoder
+- [2026-04-14T21:03:22] refactor: optimize transaction deserialization buffer
