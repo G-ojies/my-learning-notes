@@ -1617,3 +1617,4 @@
 - [2026-04-13T17:59:32] refactor: clean up P2P network message serialization
 - [2026-04-13T12:32:21] refactor: optimize transaction deserialization buffer
 - [2026-04-13T14:12:29] perf: optimize memory footprint for UTXO cache
+- [2026-04-14T18:30:00] test: add fuzzing cases for mempool package acceptance
