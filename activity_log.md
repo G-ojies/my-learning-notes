@@ -173,3 +173,4 @@
 - [2026-04-13T20:52:47] feat: prototype Erlay set reconciliation sketch
 - [2026-04-14T22:01:11] refactor: optimize transaction deserialization buffer
 - [2026-04-14T17:58:47] feat: implement compact filter Golomb-Rice encoder
+- [2026-04-14T19:06:13] test: add unit tests for Schnorr signature verification
