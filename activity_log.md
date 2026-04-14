@@ -880,3 +880,4 @@
 - [2026-04-13T18:35:48] chore: update linting rules and static analysis tools
 - [2026-04-13T13:06:00] test: add fuzzing cases for mempool package acceptance
 - [2026-04-13T18:49:27] test: verify CPFP package fee evaluation edge cases
+- [2026-04-14T17:48:46] feat: implement compact filter Golomb-Rice encoder
