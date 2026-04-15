@@ -885,3 +885,4 @@
 - [2026-04-14T22:50:38] chore: update linting rules and static analysis tools
 - [2026-04-15T13:28:38] test: add unit tests for Schnorr signature verification
 - [2026-04-15T21:24:19] test: add unit tests for Schnorr signature verification
+- [2026-04-15T18:41:16] refactor: clean up P2P network message serialization
