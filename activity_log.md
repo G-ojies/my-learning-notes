@@ -174,3 +174,4 @@
 - [2026-04-14T22:01:11] refactor: optimize transaction deserialization buffer
 - [2026-04-14T17:58:47] feat: implement compact filter Golomb-Rice encoder
 - [2026-04-14T19:06:13] test: add unit tests for Schnorr signature verification
+- [2026-04-16T20:49:25] test: add fuzzing cases for mempool package acceptance
