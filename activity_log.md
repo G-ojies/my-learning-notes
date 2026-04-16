@@ -175,3 +175,4 @@
 - [2026-04-14T17:58:47] feat: implement compact filter Golomb-Rice encoder
 - [2026-04-14T19:06:13] test: add unit tests for Schnorr signature verification
 - [2026-04-16T20:49:25] test: add fuzzing cases for mempool package acceptance
+- [2026-04-16T15:59:05] docs: update notes on Taproot script spend paths
