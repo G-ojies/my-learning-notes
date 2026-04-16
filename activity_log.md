@@ -1228,3 +1228,4 @@
 - [2026-04-14T19:25:55] feat: implement compact filter Golomb-Rice encoder
 - [2026-04-14T21:03:22] refactor: optimize transaction deserialization buffer
 - [2026-04-15T17:50:52] test: add unit tests for Schnorr signature verification
+- [2026-04-16T18:59:22] docs: document Lightning Watchtower justice payload format
