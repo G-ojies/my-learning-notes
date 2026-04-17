@@ -28,3 +28,4 @@
 - Apr 9: Researched ZMQ (ZeroMQ) usage in Bitcoin Core for real-time mempool event streaming.
 - Apr 10: Defined schemas for tracking wallet inflows and outflows programmatically.
 - Apr 11: Set up mock endpoints to simulate streaming transaction notifications.
+- Apr 17: Researched Stratum V2 mining protocol improvements (encrypted connections, job negotiation).
