@@ -888,3 +888,4 @@
 - [2026-04-15T18:41:16] refactor: clean up P2P network message serialization
 - [2026-04-16T21:52:45] perf: optimize memory footprint for UTXO cache
 - [2026-04-16T19:14:26] docs: research Stratum V2 job negotiation framing
+- [2026-04-17T21:19:02] refactor: optimize transaction deserialization buffer
