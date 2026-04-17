@@ -1618,3 +1618,4 @@
 - [2026-04-13T12:32:21] refactor: optimize transaction deserialization buffer
 - [2026-04-13T14:12:29] perf: optimize memory footprint for UTXO cache
 - [2026-04-14T18:30:00] test: add fuzzing cases for mempool package acceptance
+- [2026-04-17T13:29:46] docs: update notes on Taproot script spend paths
