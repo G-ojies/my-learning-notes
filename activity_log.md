@@ -1621,3 +1621,4 @@
 - [2026-04-17T13:29:46] docs: update notes on Taproot script spend paths
 - [2026-04-17T09:21:11] docs: analyze BIP324 encrypted transport handshake
 - [2026-04-18T20:17:25] docs: document Lightning Watchtower justice payload format
+- [2026-04-18T13:13:23] feat: implement compact filter Golomb-Rice encoder
