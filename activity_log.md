@@ -178,3 +178,4 @@
 - [2026-04-16T15:59:05] docs: update notes on Taproot script spend paths
 - [2026-04-17T17:12:21] test: add unit tests for Schnorr signature verification
 - [2026-04-17T18:00:35] refactor: clean up P2P network message serialization
+- [2026-04-18T21:28:40] perf: benchmark parallel cryptographic verification loop
