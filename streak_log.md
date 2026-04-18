@@ -29,3 +29,4 @@
 - Apr 10: Defined schemas for tracking wallet inflows and outflows programmatically.
 - Apr 11: Set up mock endpoints to simulate streaming transaction notifications.
 - Apr 17: Researched Stratum V2 mining protocol improvements (encrypted connections, job negotiation).
+- Apr 18: Integrated Simplified Payment Verification (SPV) logic into the cpp-merkle-proofs repository.
