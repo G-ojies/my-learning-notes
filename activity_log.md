@@ -1231,3 +1231,4 @@
 - [2026-04-16T18:59:22] docs: document Lightning Watchtower justice payload format
 - [2026-04-17T22:33:36] feat: implement compact filter Golomb-Rice encoder
 - [2026-04-18T11:09:25] docs: research Stratum V2 job negotiation framing
+- [2026-04-19T11:37:43] refactor: clean up P2P network message serialization
