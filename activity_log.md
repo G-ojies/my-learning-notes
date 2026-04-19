@@ -545,3 +545,4 @@
 - [2026-04-15T14:55:14] chore: update linting rules and static analysis tools
 - [2026-04-15T22:31:21] docs: update notes on Taproot script spend paths
 - [2026-04-18T12:47:40] perf: benchmark parallel cryptographic verification loop
+- [2026-04-19T16:26:23] test: add unit tests for Schnorr signature verification
