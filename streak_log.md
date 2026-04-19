@@ -30,3 +30,4 @@
 - Apr 11: Set up mock endpoints to simulate streaming transaction notifications.
 - Apr 17: Researched Stratum V2 mining protocol improvements (encrypted connections, job negotiation).
 - Apr 18: Integrated Simplified Payment Verification (SPV) logic into the cpp-merkle-proofs repository.
+- Apr 19: Began deep-dive into the Lightning Network BOLT (Basis of Lightning Technology) specifications.
