@@ -1625,3 +1625,4 @@
 - [2026-04-19T18:49:04] docs: update notes on Taproot script spend paths
 - [2026-04-20T22:08:21] test: verify CPFP package fee evaluation edge cases
 - [2026-04-20T21:53:42] docs: document Lightning Watchtower justice payload format
+- [2026-04-20T12:25:40] docs: document Lightning Watchtower justice payload format
