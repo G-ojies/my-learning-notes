@@ -183,3 +183,4 @@
 - [2026-04-19T21:06:58] docs: analyze BIP324 encrypted transport handshake
 - [2026-04-19T12:48:02] test: verify CPFP package fee evaluation edge cases
 - [2026-04-19T14:21:30] test: verify CPFP package fee evaluation edge cases
+- [2026-04-20T16:10:15] test: add unit tests for Schnorr signature verification
