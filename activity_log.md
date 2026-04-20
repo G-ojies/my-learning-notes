@@ -891,3 +891,4 @@
 - [2026-04-17T21:19:02] refactor: optimize transaction deserialization buffer
 - [2026-04-19T11:21:29] feat: implement compact filter Golomb-Rice encoder
 - [2026-04-19T12:35:15] feat: implement compact filter Golomb-Rice encoder
+- [2026-04-20T20:17:09] test: add fuzzing cases for mempool package acceptance
