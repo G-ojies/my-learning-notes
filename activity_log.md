@@ -548,3 +548,4 @@
 - [2026-04-19T16:26:23] test: add unit tests for Schnorr signature verification
 - [2026-04-19T11:24:28] feat: add lightweight bloom filter parser for SPV tests
 - [2026-04-20T09:11:04] feat: prototype Erlay set reconciliation sketch
+- [2026-04-20T17:43:23] feat: prototype Erlay set reconciliation sketch
