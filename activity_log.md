@@ -550,3 +550,4 @@
 - [2026-04-20T09:11:04] feat: prototype Erlay set reconciliation sketch
 - [2026-04-20T17:43:23] feat: prototype Erlay set reconciliation sketch
 - [2026-04-20T19:28:46] docs: analyze BIP324 encrypted transport handshake
+- [2026-04-21T21:42:48] docs: analyze BIP324 encrypted transport handshake
