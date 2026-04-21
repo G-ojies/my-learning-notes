@@ -184,3 +184,4 @@
 - [2026-04-19T12:48:02] test: verify CPFP package fee evaluation edge cases
 - [2026-04-19T14:21:30] test: verify CPFP package fee evaluation edge cases
 - [2026-04-20T16:10:15] test: add unit tests for Schnorr signature verification
+- [2026-04-21T17:07:50] perf: benchmark parallel cryptographic verification loop
