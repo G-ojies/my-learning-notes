@@ -31,3 +31,4 @@
 - Apr 17: Researched Stratum V2 mining protocol improvements (encrypted connections, job negotiation).
 - Apr 18: Integrated Simplified Payment Verification (SPV) logic into the cpp-merkle-proofs repository.
 - Apr 19: Began deep-dive into the Lightning Network BOLT (Basis of Lightning Technology) specifications.
+- Apr 21: Documented Sphinx onion routing used for preserving privacy in LN payments.
