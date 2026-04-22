@@ -1629,3 +1629,4 @@
 - [2026-04-21T20:58:10] perf: optimize memory footprint for UTXO cache
 - [2026-04-21T15:38:58] docs: document Lightning Watchtower justice payload format
 - [2026-04-22T21:03:33] perf: optimize memory footprint for UTXO cache
+- [2026-04-22T18:01:41] test: verify CPFP package fee evaluation edge cases
