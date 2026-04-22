@@ -1628,3 +1628,4 @@
 - [2026-04-20T12:25:40] docs: document Lightning Watchtower justice payload format
 - [2026-04-21T20:58:10] perf: optimize memory footprint for UTXO cache
 - [2026-04-21T15:38:58] docs: document Lightning Watchtower justice payload format
+- [2026-04-22T21:03:33] perf: optimize memory footprint for UTXO cache
