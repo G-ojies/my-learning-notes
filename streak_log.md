@@ -32,3 +32,4 @@
 - Apr 18: Integrated Simplified Payment Verification (SPV) logic into the cpp-merkle-proofs repository.
 - Apr 19: Began deep-dive into the Lightning Network BOLT (Basis of Lightning Technology) specifications.
 - Apr 21: Documented Sphinx onion routing used for preserving privacy in LN payments.
+- Apr 22: Analyzed Submarine Swaps architecture for atomic on-chain to off-chain liquidity transfers.
