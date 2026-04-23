@@ -187,3 +187,4 @@
 - [2026-04-21T17:07:50] perf: benchmark parallel cryptographic verification loop
 - [2026-04-23T21:43:37] docs: update notes on Taproot script spend paths
 - [2026-04-23T12:59:16] perf: optimize memory footprint for UTXO cache
+- [2026-04-23T09:48:53] chore: update linting rules and static analysis tools
