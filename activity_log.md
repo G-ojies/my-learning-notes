@@ -1633,3 +1633,4 @@
 - [2026-04-22T13:57:27] test: verify CPFP package fee evaluation edge cases
 - [2026-04-24T18:42:03] refactor: optimize transaction deserialization buffer
 - [2026-04-24T13:25:17] test: add fuzzing cases for mempool package acceptance
+- [2026-04-24T19:31:29] feat: prototype Erlay set reconciliation sketch
