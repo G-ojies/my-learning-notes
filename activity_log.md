@@ -555,3 +555,4 @@
 - [2026-04-23T10:51:40] refactor: optimize transaction deserialization buffer
 - [2026-04-23T15:00:08] docs: analyze BIP324 encrypted transport handshake
 - [2026-04-23T09:52:17] test: verify CPFP package fee evaluation edge cases
+- [2026-04-24T15:53:30] feat: implement compact filter Golomb-Rice encoder
