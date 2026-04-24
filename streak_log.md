@@ -33,3 +33,4 @@
 - Apr 19: Began deep-dive into the Lightning Network BOLT (Basis of Lightning Technology) specifications.
 - Apr 21: Documented Sphinx onion routing used for preserving privacy in LN payments.
 - Apr 22: Analyzed Submarine Swaps architecture for atomic on-chain to off-chain liquidity transfers.
+- Apr 24: Researched Taproot Assets (Taro) Sparse Merkle Sum Trees (SMST) for issuing tokens on Bitcoin.
