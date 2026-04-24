@@ -1631,3 +1631,4 @@
 - [2026-04-22T21:03:33] perf: optimize memory footprint for UTXO cache
 - [2026-04-22T18:01:41] test: verify CPFP package fee evaluation edge cases
 - [2026-04-22T13:57:27] test: verify CPFP package fee evaluation edge cases
+- [2026-04-24T18:42:03] refactor: optimize transaction deserialization buffer
