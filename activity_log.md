@@ -556,3 +556,4 @@
 - [2026-04-23T15:00:08] docs: analyze BIP324 encrypted transport handshake
 - [2026-04-23T09:52:17] test: verify CPFP package fee evaluation edge cases
 - [2026-04-24T15:53:30] feat: implement compact filter Golomb-Rice encoder
+- [2026-04-25T16:10:08] feat: prototype Erlay set reconciliation sketch
