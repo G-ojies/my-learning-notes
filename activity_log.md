@@ -897,3 +897,4 @@
 - [2026-04-23T13:17:17] docs: research Stratum V2 job negotiation framing
 - [2026-04-24T21:23:48] test: add fuzzing cases for mempool package acceptance
 - [2026-04-24T13:41:44] perf: optimize memory footprint for UTXO cache
+- [2026-04-25T12:55:20] test: verify CPFP package fee evaluation edge cases
