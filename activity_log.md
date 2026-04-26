@@ -1242,3 +1242,4 @@
 - [2026-04-25T15:46:54] docs: analyze BIP324 encrypted transport handshake
 - [2026-04-25T14:54:56] perf: optimize memory footprint for UTXO cache
 - [2026-04-25T10:04:39] docs: update notes on Taproot script spend paths
+- [2026-04-26T22:19:33] docs: document Lightning Watchtower justice payload format
