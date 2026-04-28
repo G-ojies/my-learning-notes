@@ -1639,3 +1639,4 @@
 - [2026-04-27T10:32:35] chore: update linting rules and static analysis tools
 - [2026-04-27T17:22:37] test: verify CPFP package fee evaluation edge cases
 - [2026-04-28T14:45:16] test: verify CPFP package fee evaluation edge cases
+- [2026-04-28T17:50:23] refactor: optimize transaction deserialization buffer
