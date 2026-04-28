@@ -1246,3 +1246,4 @@
 - [2026-04-26T13:17:24] refactor: clean up P2P network message serialization
 - [2026-04-26T13:42:41] docs: analyze BIP324 encrypted transport handshake
 - [2026-04-28T11:38:19] feat: prototype Erlay set reconciliation sketch
+- [2026-04-28T09:52:59] docs: document Lightning Watchtower justice payload format
