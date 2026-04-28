@@ -1640,3 +1640,4 @@
 - [2026-04-27T17:22:37] test: verify CPFP package fee evaluation edge cases
 - [2026-04-28T14:45:16] test: verify CPFP package fee evaluation edge cases
 - [2026-04-28T17:50:23] refactor: optimize transaction deserialization buffer
+- [2026-04-28T11:38:09] test: add fuzzing cases for mempool package acceptance
