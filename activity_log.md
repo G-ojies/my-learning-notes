@@ -901,3 +901,4 @@
 - [2026-04-25T21:25:48] feat: prototype Erlay set reconciliation sketch
 - [2026-04-25T18:43:46] docs: document Lightning Watchtower justice payload format
 - [2026-04-26T19:04:43] chore: update linting rules and static analysis tools
+- [2026-04-28T22:19:59] docs: research Stratum V2 job negotiation framing
