@@ -903,3 +903,4 @@
 - [2026-04-26T19:04:43] chore: update linting rules and static analysis tools
 - [2026-04-28T22:19:59] docs: research Stratum V2 job negotiation framing
 - [2026-04-29T11:20:11] perf: benchmark parallel cryptographic verification loop
+- [2026-04-29T17:02:44] feat: add lightweight bloom filter parser for SPV tests
