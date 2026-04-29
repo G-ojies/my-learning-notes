@@ -1248,3 +1248,4 @@
 - [2026-04-28T11:38:19] feat: prototype Erlay set reconciliation sketch
 - [2026-04-28T09:52:59] docs: document Lightning Watchtower justice payload format
 - [2026-04-29T12:55:05] test: add unit tests for Schnorr signature verification
+- [2026-04-29T18:56:11] docs: update notes on Taproot script spend paths
