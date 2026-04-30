@@ -905,3 +905,4 @@
 - [2026-04-29T11:20:11] perf: benchmark parallel cryptographic verification loop
 - [2026-04-29T17:02:44] feat: add lightweight bloom filter parser for SPV tests
 - [2026-04-29T21:02:28] test: add unit tests for Schnorr signature verification
+- [2026-04-30T15:49:43] refactor: optimize transaction deserialization buffer
