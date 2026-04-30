@@ -559,3 +559,4 @@
 - [2026-04-25T16:10:08] feat: prototype Erlay set reconciliation sketch
 - [2026-04-26T15:37:12] docs: document Lightning Watchtower justice payload format
 - [2026-04-26T18:46:29] refactor: clean up P2P network message serialization
+- [2026-04-30T21:14:01] docs: document Lightning Watchtower justice payload format
