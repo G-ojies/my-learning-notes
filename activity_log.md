@@ -1641,3 +1641,4 @@
 - [2026-04-28T14:45:16] test: verify CPFP package fee evaluation edge cases
 - [2026-04-28T17:50:23] refactor: optimize transaction deserialization buffer
 - [2026-04-28T11:38:09] test: add fuzzing cases for mempool package acceptance
+- [2026-04-30T16:04:45] docs: research Stratum V2 job negotiation framing
