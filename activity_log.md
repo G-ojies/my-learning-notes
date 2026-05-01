@@ -908,3 +908,4 @@
 - [2026-04-30T15:49:43] refactor: optimize transaction deserialization buffer
 - [2026-04-30T21:58:10] feat: add lightweight bloom filter parser for SPV tests
 - [2026-04-30T21:41:56] test: add unit tests for Schnorr signature verification
+- [2026-05-01T18:54:40] docs: research Stratum V2 job negotiation framing
