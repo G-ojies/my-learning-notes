@@ -41,3 +41,4 @@
 - May 5: Designed anomaly detection heuristics (e.g., flagging any zero-conf transaction over 100 BTC).
 - Apr 30: Researched WebSockets for pushing real-time mempool alerts to the client UI.
 - May 1: Outlined Docker containerization strategy (app container + SQLite volume + bitcoind node).
+- May 2: Implemented environment variable config loading (.env) for RPC credentials.
