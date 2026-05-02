@@ -910,3 +910,4 @@
 - [2026-04-30T21:41:56] test: add unit tests for Schnorr signature verification
 - [2026-05-01T18:54:40] docs: research Stratum V2 job negotiation framing
 - [2026-05-02T13:27:59] perf: benchmark parallel cryptographic verification loop
+- [2026-05-02T15:19:23] perf: benchmark parallel cryptographic verification loop
