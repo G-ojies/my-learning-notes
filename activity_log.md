@@ -562,3 +562,4 @@
 - [2026-04-30T21:14:01] docs: document Lightning Watchtower justice payload format
 - [2026-04-30T21:46:03] refactor: clean up P2P network message serialization
 - [2026-05-01T13:15:25] refactor: optimize transaction deserialization buffer
+- [2026-05-02T09:52:04] docs: document Lightning Watchtower justice payload format
