@@ -1251,3 +1251,4 @@
 - [2026-04-29T18:56:11] docs: update notes on Taproot script spend paths
 - [2026-04-29T18:49:44] perf: benchmark parallel cryptographic verification loop
 - [2026-04-30T18:21:09] refactor: optimize transaction deserialization buffer
+- [2026-05-02T20:24:29] refactor: optimize transaction deserialization buffer
