@@ -909,3 +909,4 @@
 - [2026-04-30T21:58:10] feat: add lightweight bloom filter parser for SPV tests
 - [2026-04-30T21:41:56] test: add unit tests for Schnorr signature verification
 - [2026-05-01T18:54:40] docs: research Stratum V2 job negotiation framing
+- [2026-05-02T13:27:59] perf: benchmark parallel cryptographic verification loop
