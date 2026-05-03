@@ -196,3 +196,4 @@
 - [2026-04-30T22:50:50] feat: implement compact filter Golomb-Rice encoder
 - [2026-05-03T14:21:34] perf: optimize memory footprint for UTXO cache
 - [2026-05-03T12:21:18] docs: update notes on Taproot script spend paths
+- [2026-05-03T14:07:41] perf: optimize memory footprint for UTXO cache
