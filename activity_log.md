@@ -1646,3 +1646,4 @@
 - [2026-04-30T20:48:46] feat: add lightweight bloom filter parser for SPV tests
 - [2026-05-01T22:04:32] chore: update linting rules and static analysis tools
 - [2026-05-01T14:14:25] docs: document Lightning Watchtower justice payload format
+- [2026-05-03T21:51:53] chore: update linting rules and static analysis tools
