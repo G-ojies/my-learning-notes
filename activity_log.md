@@ -911,3 +911,4 @@
 - [2026-05-01T18:54:40] docs: research Stratum V2 job negotiation framing
 - [2026-05-02T13:27:59] perf: benchmark parallel cryptographic verification loop
 - [2026-05-02T15:19:23] perf: benchmark parallel cryptographic verification loop
+- [2026-05-03T21:59:25] docs: analyze BIP324 encrypted transport handshake
