@@ -913,3 +913,4 @@
 - [2026-05-02T15:19:23] perf: benchmark parallel cryptographic verification loop
 - [2026-05-03T21:59:25] docs: analyze BIP324 encrypted transport handshake
 - [2026-05-03T16:27:46] docs: analyze BIP324 encrypted transport handshake
+- [2026-05-03T16:56:59] feat: add lightweight bloom filter parser for SPV tests
