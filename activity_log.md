@@ -1255,3 +1255,4 @@
 - [2026-05-02T15:01:22] docs: document Lightning Watchtower justice payload format
 - [2026-05-02T17:00:22] test: add unit tests for Schnorr signature verification
 - [2026-05-04T21:45:52] test: add fuzzing cases for mempool package acceptance
+- [2026-05-04T11:40:19] feat: add lightweight bloom filter parser for SPV tests
