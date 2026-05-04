@@ -1254,3 +1254,4 @@
 - [2026-05-02T20:24:29] refactor: optimize transaction deserialization buffer
 - [2026-05-02T15:01:22] docs: document Lightning Watchtower justice payload format
 - [2026-05-02T17:00:22] test: add unit tests for Schnorr signature verification
+- [2026-05-04T21:45:52] test: add fuzzing cases for mempool package acceptance
