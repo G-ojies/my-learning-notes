@@ -1258,3 +1258,4 @@
 - [2026-05-04T11:40:19] feat: add lightweight bloom filter parser for SPV tests
 - [2026-05-04T11:37:44] test: verify CPFP package fee evaluation edge cases
 - [2026-05-05T13:20:20] feat: add lightweight bloom filter parser for SPV tests
+- [2026-05-05T15:14:57] perf: optimize memory footprint for UTXO cache
