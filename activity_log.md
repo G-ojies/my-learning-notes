@@ -915,3 +915,4 @@
 - [2026-05-03T16:27:46] docs: analyze BIP324 encrypted transport handshake
 - [2026-05-03T16:56:59] feat: add lightweight bloom filter parser for SPV tests
 - [2026-05-04T12:45:28] feat: implement compact filter Golomb-Rice encoder
+- [2026-05-05T15:26:34] refactor: optimize transaction deserialization buffer
