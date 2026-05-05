@@ -1257,3 +1257,4 @@
 - [2026-05-04T21:45:52] test: add fuzzing cases for mempool package acceptance
 - [2026-05-04T11:40:19] feat: add lightweight bloom filter parser for SPV tests
 - [2026-05-04T11:37:44] test: verify CPFP package fee evaluation edge cases
+- [2026-05-05T13:20:20] feat: add lightweight bloom filter parser for SPV tests
