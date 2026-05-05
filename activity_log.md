@@ -916,3 +916,4 @@
 - [2026-05-03T16:56:59] feat: add lightweight bloom filter parser for SPV tests
 - [2026-05-04T12:45:28] feat: implement compact filter Golomb-Rice encoder
 - [2026-05-05T15:26:34] refactor: optimize transaction deserialization buffer
+- [2026-05-05T09:08:45] test: verify CPFP package fee evaluation edge cases
