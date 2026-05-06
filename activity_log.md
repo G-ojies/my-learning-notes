@@ -198,3 +198,4 @@
 - [2026-05-03T12:21:18] docs: update notes on Taproot script spend paths
 - [2026-05-03T14:07:41] perf: optimize memory footprint for UTXO cache
 - [2026-05-04T20:28:23] test: add fuzzing cases for mempool package acceptance
+- [2026-05-06T18:52:43] feat: implement compact filter Golomb-Rice encoder
