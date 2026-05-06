@@ -918,3 +918,4 @@
 - [2026-05-05T15:26:34] refactor: optimize transaction deserialization buffer
 - [2026-05-05T09:08:45] test: verify CPFP package fee evaluation edge cases
 - [2026-05-05T22:33:34] refactor: clean up P2P network message serialization
+- [2026-05-06T15:23:20] feat: implement compact filter Golomb-Rice encoder
