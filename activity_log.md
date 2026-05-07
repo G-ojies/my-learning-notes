@@ -568,3 +568,4 @@
 - [2026-05-04T22:11:22] test: verify CPFP package fee evaluation edge cases
 - [2026-05-05T17:15:50] docs: research Stratum V2 job negotiation framing
 - [2026-05-05T16:01:35] chore: update linting rules and static analysis tools
+- [2026-05-07T09:41:51] refactor: clean up P2P network message serialization
