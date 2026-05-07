@@ -1263,3 +1263,4 @@
 - [2026-05-06T14:13:11] docs: analyze BIP324 encrypted transport handshake
 - [2026-05-06T19:19:50] docs: analyze BIP324 encrypted transport handshake
 - [2026-05-07T17:57:10] test: add fuzzing cases for mempool package acceptance
+- [2026-05-07T11:59:30] feat: add lightweight bloom filter parser for SPV tests
