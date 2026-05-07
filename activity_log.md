@@ -1262,3 +1262,4 @@
 - [2026-05-05T18:44:07] feat: implement compact filter Golomb-Rice encoder
 - [2026-05-06T14:13:11] docs: analyze BIP324 encrypted transport handshake
 - [2026-05-06T19:19:50] docs: analyze BIP324 encrypted transport handshake
+- [2026-05-07T17:57:10] test: add fuzzing cases for mempool package acceptance
