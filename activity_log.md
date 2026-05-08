@@ -200,3 +200,4 @@
 - [2026-05-04T20:28:23] test: add fuzzing cases for mempool package acceptance
 - [2026-05-06T18:52:43] feat: implement compact filter Golomb-Rice encoder
 - [2026-05-07T17:10:02] refactor: clean up P2P network message serialization
+- [2026-05-08T17:21:06] refactor: optimize transaction deserialization buffer
