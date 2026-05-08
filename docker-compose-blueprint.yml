@@ -1,0 +1,26 @@
+# ChainSentry: Docker Infrastructure Blueprint
+# Research Notes: Containerizing the app alongside a local Bitcoin node.
+version: '3.8'
+
+services:
+  bitcoind:
+    image: lncm/bitcoind:v25.0
+    command:
+      -printtoconsole
+      -regtest=1
+      -server=1
+      -rpcuser=chainsentry
+      -rpcpassword=localdev
+      -fallbackfee=0.0002
+    ports:
+      - "18443:18443"
+      
+  chainsentry_backend:
+    build: .
+    environment:
+      - BITCOIN_RPC_URL=http://chainsentry:localdev@bitcoind:18443
+      - NETWORK=regtest
+    depends_on:
+      - bitcoind
+    volumes:
+      - ./chainsentry.db:/app/chainsentry.db
