@@ -203,3 +203,4 @@
 - [2026-05-08T17:21:06] refactor: optimize transaction deserialization buffer
 - [2026-05-09T22:52:50] test: add fuzzing cases for mempool package acceptance
 - [2026-05-09T16:37:31] perf: optimize memory footprint for UTXO cache
+- [2026-05-09T14:14:40] test: add unit tests for Schnorr signature verification
