@@ -1267,3 +1267,4 @@
 - [2026-05-07T19:20:32] test: add unit tests for Schnorr signature verification
 - [2026-05-08T19:09:53] docs: update notes on Taproot script spend paths
 - [2026-05-09T21:28:28] test: add fuzzing cases for mempool package acceptance
+- [2026-05-09T16:12:30] perf: benchmark parallel cryptographic verification loop
