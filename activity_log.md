@@ -1266,3 +1266,4 @@
 - [2026-05-07T11:59:30] feat: add lightweight bloom filter parser for SPV tests
 - [2026-05-07T19:20:32] test: add unit tests for Schnorr signature verification
 - [2026-05-08T19:09:53] docs: update notes on Taproot script spend paths
+- [2026-05-09T21:28:28] test: add fuzzing cases for mempool package acceptance
