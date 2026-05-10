@@ -921,3 +921,4 @@
 - [2026-05-06T15:23:20] feat: implement compact filter Golomb-Rice encoder
 - [2026-05-06T22:08:16] docs: analyze BIP324 encrypted transport handshake
 - [2026-05-10T22:08:08] perf: optimize memory footprint for UTXO cache
+- [2026-05-10T13:40:24] docs: update notes on Taproot script spend paths
