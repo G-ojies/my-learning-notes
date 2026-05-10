@@ -1657,3 +1657,4 @@
 - [2026-05-09T16:23:24] perf: optimize memory footprint for UTXO cache
 - [2026-05-10T17:22:51] test: add fuzzing cases for mempool package acceptance
 - [2026-05-10T14:41:50] docs: research Stratum V2 job negotiation framing
+- [2026-05-10T15:34:31] feat: prototype Erlay set reconciliation sketch
