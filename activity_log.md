@@ -204,3 +204,4 @@
 - [2026-05-09T22:52:50] test: add fuzzing cases for mempool package acceptance
 - [2026-05-09T16:37:31] perf: optimize memory footprint for UTXO cache
 - [2026-05-09T14:14:40] test: add unit tests for Schnorr signature verification
+- [2026-05-11T18:39:02] docs: research Stratum V2 job negotiation framing
