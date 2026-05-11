@@ -1269,3 +1269,4 @@
 - [2026-05-09T21:28:28] test: add fuzzing cases for mempool package acceptance
 - [2026-05-09T16:12:30] perf: benchmark parallel cryptographic verification loop
 - [2026-05-11T13:37:21] docs: update notes on Taproot script spend paths
+- [2026-05-11T14:10:21] docs: update notes on Taproot script spend paths
