@@ -571,3 +571,4 @@
 - [2026-05-07T09:41:51] refactor: clean up P2P network message serialization
 - [2026-05-08T22:09:24] docs: update notes on Taproot script spend paths
 - [2026-05-09T11:30:38] refactor: optimize transaction deserialization buffer
+- [2026-05-11T22:39:31] feat: add lightweight bloom filter parser for SPV tests
