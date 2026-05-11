@@ -573,3 +573,4 @@
 - [2026-05-09T11:30:38] refactor: optimize transaction deserialization buffer
 - [2026-05-11T22:39:31] feat: add lightweight bloom filter parser for SPV tests
 - [2026-05-11T17:48:18] docs: document Lightning Watchtower justice payload format
+- [2026-05-11T17:53:59] perf: optimize memory footprint for UTXO cache
