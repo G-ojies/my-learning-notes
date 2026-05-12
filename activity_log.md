@@ -926,3 +926,4 @@
 - [2026-05-11T13:28:20] docs: analyze BIP324 encrypted transport handshake
 - [2026-05-11T09:12:18] feat: implement compact filter Golomb-Rice encoder
 - [2026-05-12T15:23:10] test: add unit tests for Schnorr signature verification
+- [2026-05-12T10:44:16] test: verify CPFP package fee evaluation edge cases
