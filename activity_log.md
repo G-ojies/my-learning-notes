@@ -1660,3 +1660,4 @@
 - [2026-05-10T15:34:31] feat: prototype Erlay set reconciliation sketch
 - [2026-05-12T22:40:17] feat: prototype Erlay set reconciliation sketch
 - [2026-05-12T11:08:08] test: add fuzzing cases for mempool package acceptance
+- [2026-05-12T15:31:37] docs: document Lightning Watchtower justice payload format
