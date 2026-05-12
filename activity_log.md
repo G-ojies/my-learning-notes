@@ -1270,3 +1270,4 @@
 - [2026-05-09T16:12:30] perf: benchmark parallel cryptographic verification loop
 - [2026-05-11T13:37:21] docs: update notes on Taproot script spend paths
 - [2026-05-11T14:10:21] docs: update notes on Taproot script spend paths
+- [2026-05-12T19:04:09] perf: benchmark parallel cryptographic verification loop
