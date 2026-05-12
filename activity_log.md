@@ -1659,3 +1659,4 @@
 - [2026-05-10T14:41:50] docs: research Stratum V2 job negotiation framing
 - [2026-05-10T15:34:31] feat: prototype Erlay set reconciliation sketch
 - [2026-05-12T22:40:17] feat: prototype Erlay set reconciliation sketch
+- [2026-05-12T11:08:08] test: add fuzzing cases for mempool package acceptance
