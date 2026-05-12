@@ -1272,3 +1272,4 @@
 - [2026-05-11T14:10:21] docs: update notes on Taproot script spend paths
 - [2026-05-12T19:04:09] perf: benchmark parallel cryptographic verification loop
 - [2026-05-12T14:48:46] refactor: optimize transaction deserialization buffer
+- [2026-05-12T17:49:26] docs: research Stratum V2 job negotiation framing
