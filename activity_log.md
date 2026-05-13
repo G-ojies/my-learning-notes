@@ -575,3 +575,4 @@
 - [2026-05-11T17:48:18] docs: document Lightning Watchtower justice payload format
 - [2026-05-11T17:53:59] perf: optimize memory footprint for UTXO cache
 - [2026-05-12T21:15:30] refactor: optimize transaction deserialization buffer
+- [2026-05-13T14:47:40] refactor: optimize transaction deserialization buffer
