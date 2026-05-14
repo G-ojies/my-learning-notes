@@ -928,3 +928,4 @@
 - [2026-05-12T15:23:10] test: add unit tests for Schnorr signature verification
 - [2026-05-12T10:44:16] test: verify CPFP package fee evaluation edge cases
 - [2026-05-13T09:21:46] docs: analyze BIP324 encrypted transport handshake
+- [2026-05-14T16:22:08] refactor: clean up P2P network message serialization
