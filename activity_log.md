@@ -1665,3 +1665,4 @@
 - [2026-05-13T15:56:57] perf: optimize memory footprint for UTXO cache
 - [2026-05-13T12:55:46] feat: implement compact filter Golomb-Rice encoder
 - [2026-05-15T13:36:41] test: add unit tests for Schnorr signature verification
+- [2026-05-15T12:29:57] docs: document Lightning Watchtower justice payload format
