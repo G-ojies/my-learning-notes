@@ -1278,3 +1278,4 @@
 - [2026-05-14T20:32:02] docs: document Lightning Watchtower justice payload format
 - [2026-05-14T20:51:03] test: add unit tests for Schnorr signature verification
 - [2026-05-15T20:25:01] test: add unit tests for Schnorr signature verification
+- [2026-05-16T10:41:55] perf: optimize memory footprint for UTXO cache
