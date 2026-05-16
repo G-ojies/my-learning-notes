@@ -49,3 +49,4 @@
 - May 2: Implemented environment variable config loading (.env) for RPC credentials.
 - May 4: Integrated external fee estimator logic to tag incoming transactions as 'High Priority' or 'Low Fee'.
 - May 5: Designed anomaly detection heuristics (e.g., flagging any zero-conf transaction over 100 BTC).
+- May 16: Scaffolded React.js frontend architecture to consume the FastAPI ChainSentry endpoints.
