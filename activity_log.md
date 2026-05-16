@@ -1280,3 +1280,4 @@
 - [2026-05-15T20:25:01] test: add unit tests for Schnorr signature verification
 - [2026-05-16T10:41:55] perf: optimize memory footprint for UTXO cache
 - [2026-05-16T11:20:31] docs: update notes on Taproot script spend paths
+- [2026-05-16T11:16:55] perf: benchmark parallel cryptographic verification loop
