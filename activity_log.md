@@ -931,3 +931,4 @@
 - [2026-05-14T16:22:08] refactor: clean up P2P network message serialization
 - [2026-05-16T16:48:38] feat: prototype Erlay set reconciliation sketch
 - [2026-05-16T13:19:15] docs: research Stratum V2 job negotiation framing
+- [2026-05-16T13:52:53] feat: add lightweight bloom filter parser for SPV tests
