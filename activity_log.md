@@ -578,3 +578,4 @@
 - [2026-05-13T14:47:40] refactor: optimize transaction deserialization buffer
 - [2026-05-14T13:51:29] test: add fuzzing cases for mempool package acceptance
 - [2026-05-14T09:40:13] test: add fuzzing cases for mempool package acceptance
+- [2026-05-16T17:04:20] perf: optimize memory footprint for UTXO cache
