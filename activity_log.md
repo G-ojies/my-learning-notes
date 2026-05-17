@@ -1281,3 +1281,4 @@
 - [2026-05-16T10:41:55] perf: optimize memory footprint for UTXO cache
 - [2026-05-16T11:20:31] docs: update notes on Taproot script spend paths
 - [2026-05-16T11:16:55] perf: benchmark parallel cryptographic verification loop
+- [2026-05-17T19:19:59] test: verify CPFP package fee evaluation edge cases
