@@ -212,3 +212,4 @@
 - [2026-05-16T18:34:07] test: add unit tests for Schnorr signature verification
 - [2026-05-16T18:26:29] refactor: clean up P2P network message serialization
 - [2026-05-16T20:27:50] test: verify CPFP package fee evaluation edge cases
+- [2026-05-17T11:27:32] refactor: optimize transaction deserialization buffer
