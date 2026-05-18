@@ -933,3 +933,4 @@
 - [2026-05-16T13:19:15] docs: research Stratum V2 job negotiation framing
 - [2026-05-16T13:52:53] feat: add lightweight bloom filter parser for SPV tests
 - [2026-05-17T11:28:53] test: verify CPFP package fee evaluation edge cases
+- [2026-05-18T14:49:38] docs: update notes on Taproot script spend paths
