@@ -1283,3 +1283,4 @@
 - [2026-05-16T11:16:55] perf: benchmark parallel cryptographic verification loop
 - [2026-05-17T19:19:59] test: verify CPFP package fee evaluation edge cases
 - [2026-05-17T17:33:36] docs: analyze BIP324 encrypted transport handshake
+- [2026-05-18T09:39:00] refactor: optimize transaction deserialization buffer
