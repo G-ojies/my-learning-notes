@@ -218,3 +218,4 @@
 - [2026-05-18T14:59:44] refactor: clean up P2P network message serialization
 - [2026-05-18T14:56:00] chore: update linting rules and static analysis tools
 - [2026-05-19T17:26:19] docs: research Stratum V2 job negotiation framing
+- [2026-05-19T16:39:57] docs: document Lightning Watchtower justice payload format
