@@ -583,3 +583,4 @@
 - [2026-05-17T16:35:31] docs: update notes on Taproot script spend paths
 - [2026-05-18T19:32:00] refactor: optimize transaction deserialization buffer
 - [2026-05-18T09:41:10] refactor: clean up P2P network message serialization
+- [2026-05-19T16:50:57] docs: document Lightning Watchtower justice payload format
