@@ -1285,3 +1285,4 @@
 - [2026-05-17T17:33:36] docs: analyze BIP324 encrypted transport handshake
 - [2026-05-18T09:39:00] refactor: optimize transaction deserialization buffer
 - [2026-05-18T16:15:44] feat: add lightweight bloom filter parser for SPV tests
+- [2026-05-19T21:27:49] test: add unit tests for Schnorr signature verification
