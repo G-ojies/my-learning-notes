@@ -221,3 +221,4 @@
 - [2026-05-19T16:39:57] docs: document Lightning Watchtower justice payload format
 - [2026-05-20T17:30:17] feat: prototype Erlay set reconciliation sketch
 - [2026-05-20T19:32:08] perf: optimize memory footprint for UTXO cache
+- [2026-05-20T14:22:39] docs: research Stratum V2 job negotiation framing
