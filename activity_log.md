@@ -585,3 +585,4 @@
 - [2026-05-18T09:41:10] refactor: clean up P2P network message serialization
 - [2026-05-19T16:50:57] docs: document Lightning Watchtower justice payload format
 - [2026-05-19T10:49:58] perf: optimize memory footprint for UTXO cache
+- [2026-05-20T13:57:28] docs: update notes on Taproot script spend paths
