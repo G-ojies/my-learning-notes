@@ -935,3 +935,4 @@
 - [2026-05-17T11:28:53] test: verify CPFP package fee evaluation edge cases
 - [2026-05-18T14:49:38] docs: update notes on Taproot script spend paths
 - [2026-05-20T18:52:02] feat: implement compact filter Golomb-Rice encoder
+- [2026-05-20T13:15:09] refactor: optimize transaction deserialization buffer
