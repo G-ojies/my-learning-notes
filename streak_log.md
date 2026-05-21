@@ -51,3 +51,4 @@
 - May 5: Designed anomaly detection heuristics (e.g., flagging any zero-conf transaction over 100 BTC).
 - May 16: Scaffolded React.js frontend architecture to consume the FastAPI ChainSentry endpoints.
 - May 17: Researched Discord and Telegram webhook integrations for instant push notifications.
+- May 21: Designed the RBF (Replace-By-Fee) warning toast notification component.
