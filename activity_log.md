@@ -1669,3 +1669,4 @@
 - [2026-05-18T20:46:05] test: add unit tests for Schnorr signature verification
 - [2026-05-18T09:57:43] docs: update notes on Taproot script spend paths
 - [2026-05-19T10:59:58] docs: document Lightning Watchtower justice payload format
+- [2026-05-21T15:51:02] test: verify CPFP package fee evaluation edge cases
