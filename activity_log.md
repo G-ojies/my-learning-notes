@@ -1289,3 +1289,4 @@
 - [2026-05-20T12:26:38] test: add unit tests for Schnorr signature verification
 - [2026-05-20T22:20:49] feat: add lightweight bloom filter parser for SPV tests
 - [2026-05-21T14:23:36] perf: optimize memory footprint for UTXO cache
+- [2026-05-21T15:48:32] refactor: optimize transaction deserialization buffer
