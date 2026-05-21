@@ -222,3 +222,4 @@
 - [2026-05-20T17:30:17] feat: prototype Erlay set reconciliation sketch
 - [2026-05-20T19:32:08] perf: optimize memory footprint for UTXO cache
 - [2026-05-20T14:22:39] docs: research Stratum V2 job negotiation framing
+- [2026-05-21T15:03:05] perf: benchmark parallel cryptographic verification loop
