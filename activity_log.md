@@ -589,3 +589,4 @@
 - [2026-05-21T12:31:31] docs: analyze BIP324 encrypted transport handshake
 - [2026-05-21T13:53:22] feat: implement compact filter Golomb-Rice encoder
 - [2026-05-21T15:15:20] docs: update notes on Taproot script spend paths
+- [2026-05-22T16:03:50] perf: benchmark parallel cryptographic verification loop
