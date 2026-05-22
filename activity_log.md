@@ -225,3 +225,4 @@
 - [2026-05-21T15:03:05] perf: benchmark parallel cryptographic verification loop
 - [2026-05-21T09:51:20] chore: update linting rules and static analysis tools
 - [2026-05-21T11:04:48] perf: optimize memory footprint for UTXO cache
+- [2026-05-22T13:06:50] test: add unit tests for Schnorr signature verification
