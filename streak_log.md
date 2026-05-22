@@ -52,3 +52,4 @@
 - May 16: Scaffolded React.js frontend architecture to consume the FastAPI ChainSentry endpoints.
 - May 17: Researched Discord and Telegram webhook integrations for instant push notifications.
 - May 21: Designed the RBF (Replace-By-Fee) warning toast notification component.
+- May 22: Built the 'Add to Watchlist' modal form with strict regex validation for SegWit addresses.
