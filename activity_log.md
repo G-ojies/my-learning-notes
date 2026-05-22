@@ -1673,3 +1673,4 @@
 - [2026-05-21T17:18:03] refactor: clean up P2P network message serialization
 - [2026-05-21T12:13:29] refactor: optimize transaction deserialization buffer
 - [2026-05-22T10:34:17] feat: prototype Erlay set reconciliation sketch
+- [2026-05-22T21:17:26] refactor: optimize transaction deserialization buffer
