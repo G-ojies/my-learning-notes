@@ -938,3 +938,4 @@
 - [2026-05-20T13:15:09] refactor: optimize transaction deserialization buffer
 - [2026-05-22T19:00:38] docs: document Lightning Watchtower justice payload format
 - [2026-05-23T20:48:04] feat: prototype Erlay set reconciliation sketch
+- [2026-05-23T16:18:11] test: add fuzzing cases for mempool package acceptance
