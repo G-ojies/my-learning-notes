@@ -53,3 +53,4 @@
 - May 17: Researched Discord and Telegram webhook integrations for instant push notifications.
 - May 21: Designed the RBF (Replace-By-Fee) warning toast notification component.
 - May 22: Built the 'Add to Watchlist' modal form with strict regex validation for SegWit addresses.
+- May 23: Optimized React re-renders using useMemo for high-throughput transaction feeds.
