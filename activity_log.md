@@ -1294,3 +1294,4 @@
 - [2026-05-23T17:23:45] feat: implement compact filter Golomb-Rice encoder
 - [2026-05-24T22:03:38] perf: benchmark parallel cryptographic verification loop
 - [2026-05-24T13:28:58] perf: optimize memory footprint for UTXO cache
+- [2026-05-24T18:17:37] docs: document Lightning Watchtower justice payload format
