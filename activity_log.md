@@ -1676,3 +1676,4 @@
 - [2026-05-22T21:17:26] refactor: optimize transaction deserialization buffer
 - [2026-05-22T15:54:14] test: verify CPFP package fee evaluation edge cases
 - [2026-05-23T22:29:05] docs: update notes on Taproot script spend paths
+- [2026-05-24T21:50:06] perf: benchmark parallel cryptographic verification loop
