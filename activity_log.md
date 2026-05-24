@@ -940,3 +940,4 @@
 - [2026-05-23T20:48:04] feat: prototype Erlay set reconciliation sketch
 - [2026-05-23T16:18:11] test: add fuzzing cases for mempool package acceptance
 - [2026-05-24T20:59:11] feat: add lightweight bloom filter parser for SPV tests
+- [2026-05-24T20:36:11] docs: document Lightning Watchtower justice payload format
