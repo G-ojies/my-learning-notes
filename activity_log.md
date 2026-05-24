@@ -229,3 +229,4 @@
 - [2026-05-22T22:49:04] feat: add lightweight bloom filter parser for SPV tests
 - [2026-05-22T22:22:34] perf: optimize memory footprint for UTXO cache
 - [2026-05-24T12:30:06] feat: prototype Erlay set reconciliation sketch
+- [2026-05-24T11:47:38] refactor: clean up P2P network message serialization
