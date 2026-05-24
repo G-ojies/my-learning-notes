@@ -592,3 +592,4 @@
 - [2026-05-22T16:03:50] perf: benchmark parallel cryptographic verification loop
 - [2026-05-22T19:46:36] docs: analyze BIP324 encrypted transport handshake
 - [2026-05-24T17:09:36] docs: document Lightning Watchtower justice payload format
+- [2026-05-24T10:20:44] perf: optimize memory footprint for UTXO cache
