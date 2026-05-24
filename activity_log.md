@@ -1292,3 +1292,4 @@
 - [2026-05-21T15:48:32] refactor: optimize transaction deserialization buffer
 - [2026-05-22T13:20:57] test: add unit tests for Schnorr signature verification
 - [2026-05-23T17:23:45] feat: implement compact filter Golomb-Rice encoder
+- [2026-05-24T22:03:38] perf: benchmark parallel cryptographic verification loop
