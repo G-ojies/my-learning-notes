@@ -941,3 +941,4 @@
 - [2026-05-23T16:18:11] test: add fuzzing cases for mempool package acceptance
 - [2026-05-24T20:59:11] feat: add lightweight bloom filter parser for SPV tests
 - [2026-05-24T20:36:11] docs: document Lightning Watchtower justice payload format
+- [2026-05-25T19:56:58] docs: update notes on Taproot script spend paths
