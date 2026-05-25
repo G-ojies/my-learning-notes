@@ -594,3 +594,4 @@
 - [2026-05-24T17:09:36] docs: document Lightning Watchtower justice payload format
 - [2026-05-24T10:20:44] perf: optimize memory footprint for UTXO cache
 - [2026-05-25T20:47:23] docs: analyze BIP324 encrypted transport handshake
+- [2026-05-25T16:48:40] refactor: optimize transaction deserialization buffer
