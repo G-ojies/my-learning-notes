@@ -1297,3 +1297,4 @@
 - [2026-05-24T18:17:37] docs: document Lightning Watchtower justice payload format
 - [2026-05-25T16:39:06] docs: document Lightning Watchtower justice payload format
 - [2026-05-25T22:48:43] test: add unit tests for Schnorr signature verification
+- [2026-05-25T13:47:19] chore: update linting rules and static analysis tools
