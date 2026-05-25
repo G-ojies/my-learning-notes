@@ -54,3 +54,4 @@
 - May 21: Designed the RBF (Replace-By-Fee) warning toast notification component.
 - May 22: Built the 'Add to Watchlist' modal form with strict regex validation for SegWit addresses.
 - May 23: Optimized React re-renders using useMemo for high-throughput transaction feeds.
+- May 25: Wrote a bash script to compile the frontend and package it with the FastAPI backend into a single executable.
