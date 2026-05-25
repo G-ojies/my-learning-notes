@@ -231,3 +231,4 @@
 - [2026-05-24T12:30:06] feat: prototype Erlay set reconciliation sketch
 - [2026-05-24T11:47:38] refactor: clean up P2P network message serialization
 - [2026-05-25T10:16:41] docs: analyze BIP324 encrypted transport handshake
+- [2026-05-25T20:28:13] feat: add lightweight bloom filter parser for SPV tests
