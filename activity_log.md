@@ -1298,3 +1298,4 @@
 - [2026-05-25T16:39:06] docs: document Lightning Watchtower justice payload format
 - [2026-05-25T22:48:43] test: add unit tests for Schnorr signature verification
 - [2026-05-25T13:47:19] chore: update linting rules and static analysis tools
+- [2026-05-26T19:25:20] docs: update notes on Taproot script spend paths
