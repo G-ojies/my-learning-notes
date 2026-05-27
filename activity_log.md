@@ -1682,3 +1682,4 @@
 - [2026-05-25T21:07:20] refactor: clean up P2P network message serialization
 - [2026-05-27T19:15:44] test: verify CPFP package fee evaluation edge cases
 - [2026-05-27T12:40:00] feat: add lightweight bloom filter parser for SPV tests
+- [2026-05-27T18:46:35] feat: implement compact filter Golomb-Rice encoder
