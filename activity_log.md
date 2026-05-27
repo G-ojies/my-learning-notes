@@ -943,3 +943,4 @@
 - [2026-05-24T20:36:11] docs: document Lightning Watchtower justice payload format
 - [2026-05-25T19:56:58] docs: update notes on Taproot script spend paths
 - [2026-05-27T09:05:54] test: verify CPFP package fee evaluation edge cases
+- [2026-05-27T20:36:02] docs: research Stratum V2 job negotiation framing
