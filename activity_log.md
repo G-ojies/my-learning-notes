@@ -1681,3 +1681,4 @@
 - [2026-05-24T12:20:10] chore: update linting rules and static analysis tools
 - [2026-05-25T21:07:20] refactor: clean up P2P network message serialization
 - [2026-05-27T19:15:44] test: verify CPFP package fee evaluation edge cases
+- [2026-05-27T12:40:00] feat: add lightweight bloom filter parser for SPV tests
