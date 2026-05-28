@@ -237,3 +237,4 @@
 - [2026-05-27T11:00:43] refactor: clean up P2P network message serialization
 - [2026-05-27T20:38:13] feat: prototype Erlay set reconciliation sketch
 - [2026-05-27T21:17:12] feat: implement compact filter Golomb-Rice encoder
+- [2026-05-28T12:58:09] feat: prototype Erlay set reconciliation sketch
