@@ -1300,3 +1300,4 @@
 - [2026-05-25T13:47:19] chore: update linting rules and static analysis tools
 - [2026-05-26T19:25:20] docs: update notes on Taproot script spend paths
 - [2026-05-27T12:50:31] feat: implement compact filter Golomb-Rice encoder
+- [2026-05-28T18:33:49] perf: optimize memory footprint for UTXO cache
