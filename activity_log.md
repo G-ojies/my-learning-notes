@@ -948,3 +948,4 @@
 - [2026-05-28T19:08:25] docs: update notes on Taproot script spend paths
 - [2026-05-29T20:28:42] docs: update notes on Taproot script spend paths
 - [2026-05-30T14:55:46] feat: add lightweight bloom filter parser for SPV tests
+- [2026-05-30T22:35:18] perf: optimize memory footprint for UTXO cache
