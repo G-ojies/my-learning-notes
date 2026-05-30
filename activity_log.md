@@ -602,3 +602,4 @@
 - [2026-05-29T11:55:25] test: add unit tests for Schnorr signature verification
 - [2026-05-30T20:22:37] test: add unit tests for Schnorr signature verification
 - [2026-05-30T15:21:01] docs: research Stratum V2 job negotiation framing
+- [2026-05-30T17:22:22] perf: optimize memory footprint for UTXO cache
