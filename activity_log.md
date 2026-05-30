@@ -600,3 +600,4 @@
 - [2026-05-27T14:49:42] feat: add lightweight bloom filter parser for SPV tests
 - [2026-05-27T12:21:34] test: add unit tests for Schnorr signature verification
 - [2026-05-29T11:55:25] test: add unit tests for Schnorr signature verification
+- [2026-05-30T20:22:37] test: add unit tests for Schnorr signature verification
