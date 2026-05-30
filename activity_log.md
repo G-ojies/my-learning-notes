@@ -1685,3 +1685,4 @@
 - [2026-05-27T18:46:35] feat: implement compact filter Golomb-Rice encoder
 - [2026-05-28T10:39:46] perf: optimize memory footprint for UTXO cache
 - [2026-05-29T15:10:17] test: add unit tests for Schnorr signature verification
+- [2026-05-30T21:37:53] feat: implement compact filter Golomb-Rice encoder
