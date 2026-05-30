@@ -1687,3 +1687,4 @@
 - [2026-05-29T15:10:17] test: add unit tests for Schnorr signature verification
 - [2026-05-30T21:37:53] feat: implement compact filter Golomb-Rice encoder
 - [2026-05-30T19:07:27] test: add fuzzing cases for mempool package acceptance
+- [2026-05-30T21:29:24] docs: analyze BIP324 encrypted transport handshake
