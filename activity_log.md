@@ -1689,3 +1689,4 @@
 - [2026-05-30T19:07:27] test: add fuzzing cases for mempool package acceptance
 - [2026-05-30T21:29:24] docs: analyze BIP324 encrypted transport handshake
 - [2026-05-31T22:55:12] refactor: optimize transaction deserialization buffer
+- [2026-05-31T16:05:37] feat: add lightweight bloom filter parser for SPV tests
