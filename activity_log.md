@@ -240,3 +240,4 @@
 - [2026-05-28T12:58:09] feat: prototype Erlay set reconciliation sketch
 - [2026-05-28T13:45:00] feat: add lightweight bloom filter parser for SPV tests
 - [2026-05-30T10:27:31] docs: research Stratum V2 job negotiation framing
+- [2026-05-31T22:11:03] docs: analyze BIP324 encrypted transport handshake
