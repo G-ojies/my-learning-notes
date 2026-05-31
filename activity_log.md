@@ -1306,3 +1306,4 @@
 - [2026-05-29T16:11:27] refactor: optimize transaction deserialization buffer
 - [2026-05-30T19:21:41] docs: research Stratum V2 job negotiation framing
 - [2026-05-30T14:34:35] docs: analyze BIP324 encrypted transport handshake
+- [2026-05-31T09:30:21] perf: optimize memory footprint for UTXO cache
