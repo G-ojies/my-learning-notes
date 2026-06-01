@@ -241,3 +241,4 @@
 - [2026-05-28T13:45:00] feat: add lightweight bloom filter parser for SPV tests
 - [2026-05-30T10:27:31] docs: research Stratum V2 job negotiation framing
 - [2026-05-31T22:11:03] docs: analyze BIP324 encrypted transport handshake
+- [2026-06-01T14:21:59] test: add fuzzing cases for mempool package acceptance
