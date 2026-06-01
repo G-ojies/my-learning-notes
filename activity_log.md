@@ -607,3 +607,4 @@
 - [2026-05-31T19:39:42] refactor: optimize transaction deserialization buffer
 - [2026-05-31T16:40:39] docs: document Lightning Watchtower justice payload format
 - [2026-06-01T09:48:42] refactor: optimize transaction deserialization buffer
+- [2026-06-01T14:38:40] docs: update notes on Taproot script spend paths
