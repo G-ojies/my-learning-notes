@@ -952,3 +952,4 @@
 - [2026-05-30T11:27:31] docs: update notes on Taproot script spend paths
 - [2026-05-31T11:08:36] refactor: clean up P2P network message serialization
 - [2026-06-01T19:10:07] test: verify CPFP package fee evaluation edge cases
+- [2026-06-01T21:43:19] docs: research Stratum V2 job negotiation framing
