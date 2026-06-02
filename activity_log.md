@@ -954,3 +954,4 @@
 - [2026-06-01T19:10:07] test: verify CPFP package fee evaluation edge cases
 - [2026-06-01T21:43:19] docs: research Stratum V2 job negotiation framing
 - [2026-06-01T18:22:25] refactor: clean up P2P network message serialization
+- [2026-06-02T22:17:54] docs: document Lightning Watchtower justice payload format
