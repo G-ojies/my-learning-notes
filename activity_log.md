@@ -243,3 +243,4 @@
 - [2026-05-31T22:11:03] docs: analyze BIP324 encrypted transport handshake
 - [2026-06-01T14:21:59] test: add fuzzing cases for mempool package acceptance
 - [2026-06-02T09:54:52] feat: add lightweight bloom filter parser for SPV tests
+- [2026-06-02T21:27:15] docs: document Lightning Watchtower justice payload format
