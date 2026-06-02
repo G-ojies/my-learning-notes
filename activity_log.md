@@ -955,3 +955,4 @@
 - [2026-06-01T21:43:19] docs: research Stratum V2 job negotiation framing
 - [2026-06-01T18:22:25] refactor: clean up P2P network message serialization
 - [2026-06-02T22:17:54] docs: document Lightning Watchtower justice payload format
+- [2026-06-02T21:35:15] docs: analyze BIP324 encrypted transport handshake
