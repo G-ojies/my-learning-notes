@@ -1309,3 +1309,4 @@
 - [2026-05-31T09:30:21] perf: optimize memory footprint for UTXO cache
 - [2026-05-31T10:17:44] feat: implement compact filter Golomb-Rice encoder
 - [2026-05-31T22:51:48] perf: benchmark parallel cryptographic verification loop
+- [2026-06-02T10:15:06] docs: update notes on Taproot script spend paths
