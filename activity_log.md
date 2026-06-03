@@ -958,3 +958,4 @@
 - [2026-06-02T21:35:15] docs: analyze BIP324 encrypted transport handshake
 - [2026-06-02T15:36:09] test: add fuzzing cases for mempool package acceptance
 - [2026-06-03T11:10:28] docs: research Stratum V2 job negotiation framing
+- [2026-06-03T11:19:36] feat: prototype Erlay set reconciliation sketch
