@@ -609,3 +609,4 @@
 - [2026-06-01T09:48:42] refactor: optimize transaction deserialization buffer
 - [2026-06-01T14:38:40] docs: update notes on Taproot script spend paths
 - [2026-06-01T13:13:16] test: add unit tests for Schnorr signature verification
+- [2026-06-03T13:48:43] chore: update linting rules and static analysis tools
