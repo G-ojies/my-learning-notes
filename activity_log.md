@@ -1311,3 +1311,4 @@
 - [2026-05-31T22:51:48] perf: benchmark parallel cryptographic verification loop
 - [2026-06-02T10:15:06] docs: update notes on Taproot script spend paths
 - [2026-06-02T17:22:47] feat: add lightweight bloom filter parser for SPV tests
+- [2026-06-03T17:11:56] feat: implement compact filter Golomb-Rice encoder
