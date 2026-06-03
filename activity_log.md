@@ -245,3 +245,4 @@
 - [2026-06-02T09:54:52] feat: add lightweight bloom filter parser for SPV tests
 - [2026-06-02T21:27:15] docs: document Lightning Watchtower justice payload format
 - [2026-06-02T11:03:26] feat: prototype Erlay set reconciliation sketch
+- [2026-06-03T15:15:39] chore: update linting rules and static analysis tools
