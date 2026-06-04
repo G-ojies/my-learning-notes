@@ -960,3 +960,4 @@
 - [2026-06-03T11:10:28] docs: research Stratum V2 job negotiation framing
 - [2026-06-03T11:19:36] feat: prototype Erlay set reconciliation sketch
 - [2026-06-03T19:10:10] refactor: clean up P2P network message serialization
+- [2026-06-04T18:44:49] docs: analyze BIP324 encrypted transport handshake
