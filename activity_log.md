@@ -1313,3 +1313,4 @@
 - [2026-06-02T17:22:47] feat: add lightweight bloom filter parser for SPV tests
 - [2026-06-03T17:11:56] feat: implement compact filter Golomb-Rice encoder
 - [2026-06-04T09:27:27] docs: research Stratum V2 job negotiation framing
+- [2026-06-04T20:02:32] refactor: optimize transaction deserialization buffer
