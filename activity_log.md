@@ -611,3 +611,4 @@
 - [2026-06-01T13:13:16] test: add unit tests for Schnorr signature verification
 - [2026-06-03T13:48:43] chore: update linting rules and static analysis tools
 - [2026-06-03T21:47:08] chore: update linting rules and static analysis tools
+- [2026-06-04T15:00:42] test: add unit tests for Schnorr signature verification
