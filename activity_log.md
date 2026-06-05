@@ -246,3 +246,4 @@
 - [2026-06-02T21:27:15] docs: document Lightning Watchtower justice payload format
 - [2026-06-02T11:03:26] feat: prototype Erlay set reconciliation sketch
 - [2026-06-03T15:15:39] chore: update linting rules and static analysis tools
+- [2026-06-05T13:37:25] chore: update linting rules and static analysis tools
