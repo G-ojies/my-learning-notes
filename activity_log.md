@@ -614,3 +614,4 @@
 - [2026-06-04T15:00:42] test: add unit tests for Schnorr signature verification
 - [2026-06-05T22:23:09] refactor: clean up P2P network message serialization
 - [2026-06-05T19:12:23] perf: optimize memory footprint for UTXO cache
+- [2026-06-05T11:17:13] refactor: optimize transaction deserialization buffer
