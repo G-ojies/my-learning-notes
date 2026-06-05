@@ -965,3 +965,4 @@
 - [2026-06-04T22:58:57] chore: update linting rules and static analysis tools
 - [2026-06-05T13:53:35] test: add fuzzing cases for mempool package acceptance
 - [2026-06-05T18:44:47] feat: implement compact filter Golomb-Rice encoder
+- [2026-06-05T20:12:56] feat: prototype Erlay set reconciliation sketch
