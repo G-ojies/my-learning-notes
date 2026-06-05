@@ -963,3 +963,4 @@
 - [2026-06-04T18:44:49] docs: analyze BIP324 encrypted transport handshake
 - [2026-06-04T14:48:45] test: verify CPFP package fee evaluation edge cases
 - [2026-06-04T22:58:57] chore: update linting rules and static analysis tools
+- [2026-06-05T13:53:35] test: add fuzzing cases for mempool package acceptance
