@@ -1315,3 +1315,4 @@
 - [2026-06-04T09:27:27] docs: research Stratum V2 job negotiation framing
 - [2026-06-04T20:02:32] refactor: optimize transaction deserialization buffer
 - [2026-06-04T15:51:16] test: verify CPFP package fee evaluation edge cases
+- [2026-06-05T10:32:52] chore: update linting rules and static analysis tools
