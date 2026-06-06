@@ -967,3 +967,4 @@
 - [2026-06-05T18:44:47] feat: implement compact filter Golomb-Rice encoder
 - [2026-06-05T20:12:56] feat: prototype Erlay set reconciliation sketch
 - [2026-06-06T19:44:05] docs: research Stratum V2 job negotiation framing
+- [2026-06-06T12:22:01] test: verify CPFP package fee evaluation edge cases
