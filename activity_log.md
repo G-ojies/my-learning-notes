@@ -1318,3 +1318,4 @@
 - [2026-06-05T10:32:52] chore: update linting rules and static analysis tools
 - [2026-06-05T09:33:04] feat: implement compact filter Golomb-Rice encoder
 - [2026-06-05T18:06:43] feat: add lightweight bloom filter parser for SPV tests
+- [2026-06-06T10:47:27] docs: document Lightning Watchtower justice payload format
