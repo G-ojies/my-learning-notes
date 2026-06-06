@@ -1696,3 +1696,4 @@
 - [2026-06-02T17:41:03] test: add fuzzing cases for mempool package acceptance
 - [2026-06-03T21:29:52] feat: prototype Erlay set reconciliation sketch
 - [2026-06-03T11:25:12] docs: analyze BIP324 encrypted transport handshake
+- [2026-06-06T20:05:40] test: verify CPFP package fee evaluation edge cases
