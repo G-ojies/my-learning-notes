@@ -1321,3 +1321,4 @@
 - [2026-06-06T10:47:27] docs: document Lightning Watchtower justice payload format
 - [2026-06-06T09:57:00] feat: implement compact filter Golomb-Rice encoder
 - [2026-06-07T15:42:06] feat: implement compact filter Golomb-Rice encoder
+- [2026-06-07T21:05:07] docs: update notes on Taproot script spend paths
