@@ -254,3 +254,4 @@
 - [2026-06-06T17:22:45] docs: update notes on Taproot script spend paths
 - [2026-06-07T22:20:16] refactor: clean up P2P network message serialization
 - [2026-06-08T18:08:50] feat: implement compact filter Golomb-Rice encoder
+- [2026-06-08T21:20:38] test: add unit tests for Schnorr signature verification
