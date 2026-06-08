@@ -253,3 +253,4 @@
 - [2026-06-06T22:47:45] docs: document Lightning Watchtower justice payload format
 - [2026-06-06T17:22:45] docs: update notes on Taproot script spend paths
 - [2026-06-07T22:20:16] refactor: clean up P2P network message serialization
+- [2026-06-08T18:08:50] feat: implement compact filter Golomb-Rice encoder
