@@ -257,3 +257,4 @@
 - [2026-06-08T21:20:38] test: add unit tests for Schnorr signature verification
 - [2026-06-08T10:26:42] docs: update notes on Taproot script spend paths
 - [2026-06-09T11:06:25] docs: document Lightning Watchtower justice payload format
+- [2026-06-09T10:32:44] docs: research Stratum V2 job negotiation framing
