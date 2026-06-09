@@ -972,3 +972,4 @@
 - [2026-06-08T12:45:00] perf: optimize memory footprint for UTXO cache
 - [2026-06-08T10:14:04] feat: add lightweight bloom filter parser for SPV tests
 - [2026-06-09T15:02:49] perf: optimize memory footprint for UTXO cache
+- [2026-06-09T11:42:22] refactor: optimize transaction deserialization buffer
