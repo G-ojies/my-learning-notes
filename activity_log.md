@@ -256,3 +256,4 @@
 - [2026-06-08T18:08:50] feat: implement compact filter Golomb-Rice encoder
 - [2026-06-08T21:20:38] test: add unit tests for Schnorr signature verification
 - [2026-06-08T10:26:42] docs: update notes on Taproot script spend paths
+- [2026-06-09T11:06:25] docs: document Lightning Watchtower justice payload format
