@@ -1,0 +1,1 @@
+- Jun 09: Conducted architectural review of Bitcoin Core memory pools and peer-to-peer gossip limits.
