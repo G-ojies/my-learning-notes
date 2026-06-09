@@ -620,3 +620,4 @@
 - [2026-06-08T18:18:15] perf: benchmark parallel cryptographic verification loop
 - [2026-06-08T10:46:38] feat: prototype Erlay set reconciliation sketch
 - [2026-06-08T09:51:55] refactor: optimize transaction deserialization buffer
+- [2026-06-09T11:51:59] docs: document Lightning Watchtower justice payload format
