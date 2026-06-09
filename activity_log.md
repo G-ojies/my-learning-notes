@@ -621,3 +621,4 @@
 - [2026-06-08T10:46:38] feat: prototype Erlay set reconciliation sketch
 - [2026-06-08T09:51:55] refactor: optimize transaction deserialization buffer
 - [2026-06-09T11:51:59] docs: document Lightning Watchtower justice payload format
+- [2026-06-09T12:54:02] docs: analyze BIP324 encrypted transport handshake
