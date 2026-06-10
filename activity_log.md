@@ -260,3 +260,4 @@
 - [2026-06-09T10:32:44] docs: research Stratum V2 job negotiation framing
 - [2026-06-09T09:57:51] docs: analyze BIP324 encrypted transport handshake
 - [2026-06-10T17:29:20] perf: optimize memory footprint for UTXO cache
+- [2026-06-10T20:33:20] refactor: clean up P2P network message serialization
