@@ -261,3 +261,4 @@
 - [2026-06-09T09:57:51] docs: analyze BIP324 encrypted transport handshake
 - [2026-06-10T17:29:20] perf: optimize memory footprint for UTXO cache
 - [2026-06-10T20:33:20] refactor: clean up P2P network message serialization
+- [2026-06-10T11:33:30] perf: optimize memory footprint for UTXO cache
