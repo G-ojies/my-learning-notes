@@ -624,3 +624,4 @@
 - [2026-06-09T12:54:02] docs: analyze BIP324 encrypted transport handshake
 - [2026-06-09T16:49:45] perf: benchmark parallel cryptographic verification loop
 - [2026-06-10T16:49:09] feat: implement compact filter Golomb-Rice encoder
+- [2026-06-11T13:41:51] refactor: optimize transaction deserialization buffer
