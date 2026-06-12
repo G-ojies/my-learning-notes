@@ -1329,3 +1329,4 @@
 - [2026-06-11T14:53:35] chore: update linting rules and static analysis tools
 - [2026-06-11T10:23:14] docs: document Lightning Watchtower justice payload format
 - [2026-06-11T10:12:28] feat: implement compact filter Golomb-Rice encoder
+- [2026-06-12T17:36:03] feat: prototype Erlay set reconciliation sketch
