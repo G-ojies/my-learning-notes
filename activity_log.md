@@ -627,3 +627,4 @@
 - [2026-06-11T13:41:51] refactor: optimize transaction deserialization buffer
 - [2026-06-11T12:58:54] refactor: clean up P2P network message serialization
 - [2026-06-12T21:57:14] feat: prototype Erlay set reconciliation sketch
+- [2026-06-12T20:53:30] docs: update notes on Taproot script spend paths
