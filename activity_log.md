@@ -975,3 +975,4 @@
 - [2026-06-09T11:42:22] refactor: optimize transaction deserialization buffer
 - [2026-06-11T09:19:24] docs: research Stratum V2 job negotiation framing
 - [2026-06-12T21:28:26] feat: implement compact filter Golomb-Rice encoder
+- [2026-06-12T11:15:02] docs: research Stratum V2 job negotiation framing
