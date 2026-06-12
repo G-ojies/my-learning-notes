@@ -265,3 +265,4 @@
 - [2026-06-11T11:40:25] refactor: clean up P2P network message serialization
 - [2026-06-11T10:08:49] test: verify CPFP package fee evaluation edge cases
 - [2026-06-11T12:44:32] test: verify CPFP package fee evaluation edge cases
+- [2026-06-12T19:48:26] refactor: clean up P2P network message serialization
