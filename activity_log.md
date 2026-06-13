@@ -1331,3 +1331,4 @@
 - [2026-06-11T10:12:28] feat: implement compact filter Golomb-Rice encoder
 - [2026-06-12T17:36:03] feat: prototype Erlay set reconciliation sketch
 - [2026-06-13T15:22:48] test: add unit tests for Schnorr signature verification
+- [2026-06-13T09:49:32] docs: document Lightning Watchtower justice payload format
