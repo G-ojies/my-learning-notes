@@ -1707,3 +1707,4 @@
 - [2026-06-11T15:50:38] docs: research Stratum V2 job negotiation framing
 - [2026-06-13T13:20:07] feat: add lightweight bloom filter parser for SPV tests
 - [2026-06-14T10:07:49] refactor: optimize transaction deserialization buffer
+- [2026-06-14T15:03:00] docs: document Lightning Watchtower justice payload format
