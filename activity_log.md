@@ -631,3 +631,4 @@
 - [2026-06-12T15:13:36] chore: update linting rules and static analysis tools
 - [2026-06-13T16:44:33] feat: implement compact filter Golomb-Rice encoder
 - [2026-06-13T11:17:48] perf: benchmark parallel cryptographic verification loop
+- [2026-06-14T12:29:53] docs: research Stratum V2 job negotiation framing
