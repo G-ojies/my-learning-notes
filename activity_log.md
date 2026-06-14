@@ -1334,3 +1334,4 @@
 - [2026-06-13T09:49:32] docs: document Lightning Watchtower justice payload format
 - [2026-06-13T11:48:16] feat: prototype Erlay set reconciliation sketch
 - [2026-06-14T21:25:04] perf: benchmark parallel cryptographic verification loop
+- [2026-06-14T16:14:39] docs: analyze BIP324 encrypted transport handshake
