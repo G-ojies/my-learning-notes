@@ -976,3 +976,4 @@
 - [2026-06-11T09:19:24] docs: research Stratum V2 job negotiation framing
 - [2026-06-12T21:28:26] feat: implement compact filter Golomb-Rice encoder
 - [2026-06-12T11:15:02] docs: research Stratum V2 job negotiation framing
+- [2026-06-14T22:54:54] feat: add lightweight bloom filter parser for SPV tests
