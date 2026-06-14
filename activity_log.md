@@ -268,3 +268,4 @@
 - [2026-06-12T19:48:26] refactor: clean up P2P network message serialization
 - [2026-06-12T12:11:01] perf: benchmark parallel cryptographic verification loop
 - [2026-06-13T19:28:36] feat: add lightweight bloom filter parser for SPV tests
+- [2026-06-14T09:56:19] test: verify CPFP package fee evaluation edge cases
