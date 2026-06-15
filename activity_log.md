@@ -272,3 +272,4 @@
 - [2026-06-14T18:26:40] docs: research Stratum V2 job negotiation framing
 - [2026-06-15T11:11:03] docs: document Lightning Watchtower justice payload format
 - [2026-06-15T21:20:56] docs: analyze BIP324 encrypted transport handshake
+- [2026-06-15T18:08:05] test: add unit tests for Schnorr signature verification
