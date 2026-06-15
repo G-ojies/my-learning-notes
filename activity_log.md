@@ -633,3 +633,4 @@
 - [2026-06-13T11:17:48] perf: benchmark parallel cryptographic verification loop
 - [2026-06-14T12:29:53] docs: research Stratum V2 job negotiation framing
 - [2026-06-14T11:45:16] feat: prototype Erlay set reconciliation sketch
+- [2026-06-15T13:25:43] docs: research Stratum V2 job negotiation framing
