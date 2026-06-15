@@ -635,3 +635,4 @@
 - [2026-06-14T11:45:16] feat: prototype Erlay set reconciliation sketch
 - [2026-06-15T13:25:43] docs: research Stratum V2 job negotiation framing
 - [2026-06-15T18:21:30] docs: research Stratum V2 job negotiation framing
+- [2026-06-15T15:53:47] feat: add lightweight bloom filter parser for SPV tests
