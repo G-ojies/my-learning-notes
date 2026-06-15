@@ -1336,3 +1336,4 @@
 - [2026-06-14T21:25:04] perf: benchmark parallel cryptographic verification loop
 - [2026-06-14T16:14:39] docs: analyze BIP324 encrypted transport handshake
 - [2026-06-14T11:12:08] feat: add lightweight bloom filter parser for SPV tests
+- [2026-06-15T19:09:58] feat: implement compact filter Golomb-Rice encoder
