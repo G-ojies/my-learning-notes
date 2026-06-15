@@ -979,3 +979,4 @@
 - [2026-06-14T22:54:54] feat: add lightweight bloom filter parser for SPV tests
 - [2026-06-14T13:30:28] docs: analyze BIP324 encrypted transport handshake
 - [2026-06-15T17:11:09] docs: update notes on Taproot script spend paths
+- [2026-06-15T13:04:00] docs: analyze BIP324 encrypted transport handshake
