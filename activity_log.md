@@ -982,3 +982,4 @@
 - [2026-06-15T13:04:00] docs: analyze BIP324 encrypted transport handshake
 - [2026-06-15T21:35:03] perf: optimize memory footprint for UTXO cache
 - [2026-06-16T20:07:03] refactor: optimize transaction deserialization buffer
+- [2026-06-16T13:11:40] test: verify CPFP package fee evaluation edge cases
