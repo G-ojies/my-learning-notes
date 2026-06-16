@@ -1709,3 +1709,4 @@
 - [2026-06-14T10:07:49] refactor: optimize transaction deserialization buffer
 - [2026-06-14T15:03:00] docs: document Lightning Watchtower justice payload format
 - [2026-06-14T12:39:08] feat: implement compact filter Golomb-Rice encoder
+- [2026-06-16T19:16:15] feat: prototype Erlay set reconciliation sketch
