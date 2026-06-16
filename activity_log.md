@@ -636,3 +636,4 @@
 - [2026-06-15T13:25:43] docs: research Stratum V2 job negotiation framing
 - [2026-06-15T18:21:30] docs: research Stratum V2 job negotiation framing
 - [2026-06-15T15:53:47] feat: add lightweight bloom filter parser for SPV tests
+- [2026-06-16T09:14:34] perf: benchmark parallel cryptographic verification loop
