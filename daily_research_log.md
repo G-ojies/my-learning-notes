@@ -6,3 +6,4 @@
 - Jun 14: Conducted architectural review of Bitcoin Core memory pools and peer-to-peer gossip limits.
 - Jun 15: Conducted architectural review of Bitcoin Core memory pools and peer-to-peer gossip limits.
 - Jun 16: Conducted architectural review of Bitcoin Core memory pools and peer-to-peer gossip limits.
+- Jun 17: Conducted architectural review of Bitcoin Core memory pools and peer-to-peer gossip limits.
