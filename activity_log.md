@@ -276,3 +276,4 @@
 - [2026-06-16T09:05:49] docs: research Stratum V2 job negotiation framing
 - [2026-06-17T18:06:28] test: add fuzzing cases for mempool package acceptance
 - [2026-06-17T15:38:27] chore: update linting rules and static analysis tools
+- [2026-06-17T14:26:30] test: add unit tests for Schnorr signature verification
