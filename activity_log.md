@@ -1712,3 +1712,4 @@
 - [2026-06-16T19:16:15] feat: prototype Erlay set reconciliation sketch
 - [2026-06-16T21:53:52] feat: prototype Erlay set reconciliation sketch
 - [2026-06-17T21:25:53] refactor: clean up P2P network message serialization
+- [2026-06-18T18:40:01] perf: optimize memory footprint for UTXO cache
