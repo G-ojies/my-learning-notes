@@ -642,3 +642,4 @@
 - [2026-06-18T19:06:03] test: add fuzzing cases for mempool package acceptance
 - [2026-06-19T10:30:35] docs: document Lightning Watchtower justice payload format
 - [2026-06-19T14:39:38] feat: implement compact filter Golomb-Rice encoder
+- [2026-06-19T15:36:17] perf: optimize memory footprint for UTXO cache
