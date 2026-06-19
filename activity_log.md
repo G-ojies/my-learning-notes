@@ -1715,3 +1715,4 @@
 - [2026-06-18T18:40:01] perf: optimize memory footprint for UTXO cache
 - [2026-06-18T21:56:11] docs: update notes on Taproot script spend paths
 - [2026-06-18T18:33:51] feat: add lightweight bloom filter parser for SPV tests
+- [2026-06-19T20:39:05] test: add unit tests for Schnorr signature verification
