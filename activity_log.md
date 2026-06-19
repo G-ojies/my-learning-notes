@@ -986,3 +986,4 @@
 - [2026-06-17T14:52:53] test: add fuzzing cases for mempool package acceptance
 - [2026-06-17T22:42:43] test: add fuzzing cases for mempool package acceptance
 - [2026-06-18T11:51:47] docs: document Lightning Watchtower justice payload format
+- [2026-06-19T21:04:27] refactor: clean up P2P network message serialization
