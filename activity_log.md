@@ -1341,3 +1341,4 @@
 - [2026-06-18T15:45:42] feat: add lightweight bloom filter parser for SPV tests
 - [2026-06-19T17:53:50] docs: document Lightning Watchtower justice payload format
 - [2026-06-19T22:11:54] refactor: clean up P2P network message serialization
+- [2026-06-20T10:35:44] refactor: clean up P2P network message serialization
