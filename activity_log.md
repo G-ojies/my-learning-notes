@@ -989,3 +989,4 @@
 - [2026-06-19T21:04:27] refactor: clean up P2P network message serialization
 - [2026-06-20T09:34:52] perf: benchmark parallel cryptographic verification loop
 - [2026-06-20T14:15:46] test: verify CPFP package fee evaluation edge cases
+- [2026-06-20T21:11:00] perf: optimize memory footprint for UTXO cache
