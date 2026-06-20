@@ -1717,3 +1717,4 @@
 - [2026-06-18T18:33:51] feat: add lightweight bloom filter parser for SPV tests
 - [2026-06-19T20:39:05] test: add unit tests for Schnorr signature verification
 - [2026-06-19T09:53:28] chore: update linting rules and static analysis tools
+- [2026-06-20T18:16:59] feat: add lightweight bloom filter parser for SPV tests
