@@ -59,3 +59,4 @@
 - Jun 10: Researched Sphinx Onion Routing packet construction. Documented how intermediate nodes only decrypt their specific routing payload, ensuring sender/receiver privacy across the Lightning Network.
 - Jun 13: Mapped architecture to integrate SQLite indexing directly into the C++ Merkle Proofs repository to support rapid block lookups.
 - Jun 14: Reviewed Core's leveldb implementation for the UTXO chainstate and analyzed memory caching optimization strategies.
+- Jun 20: Analyzed Miniscript policy compilation strings. Drafted structural parsing steps to translate human-readable logical policies like 'and(pk(A),or(pk(B),older(144)))' into valid Bitcoin Script opcodes.
