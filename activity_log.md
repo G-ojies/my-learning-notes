@@ -280,3 +280,4 @@
 - [2026-06-19T13:41:59] docs: research Stratum V2 job negotiation framing
 - [2026-06-20T22:07:43] test: add fuzzing cases for mempool package acceptance
 - [2026-06-20T20:48:39] perf: benchmark parallel cryptographic verification loop
+- [2026-06-21T11:11:01] docs: update notes on Taproot script spend paths
