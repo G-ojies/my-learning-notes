@@ -993,3 +993,4 @@
 - [2026-06-21T17:33:03] test: verify CPFP package fee evaluation edge cases
 - [2026-06-21T14:27:32] test: add fuzzing cases for mempool package acceptance
 - [2026-06-21T16:21:56] docs: analyze BIP324 encrypted transport handshake
+- [2026-06-22T18:36:48] docs: analyze BIP324 encrypted transport handshake
