@@ -282,3 +282,4 @@
 - [2026-06-20T20:48:39] perf: benchmark parallel cryptographic verification loop
 - [2026-06-21T11:11:01] docs: update notes on Taproot script spend paths
 - [2026-06-22T16:59:26] docs: research Stratum V2 job negotiation framing
+- [2026-06-23T12:39:31] docs: research Stratum V2 job negotiation framing
