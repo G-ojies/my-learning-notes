@@ -1345,3 +1345,4 @@
 - [2026-06-21T20:40:46] feat: add lightweight bloom filter parser for SPV tests
 - [2026-06-22T20:33:52] docs: research Stratum V2 job negotiation framing
 - [2026-06-23T18:33:14] test: verify CPFP package fee evaluation edge cases
+- [2026-06-23T11:00:34] feat: implement compact filter Golomb-Rice encoder
