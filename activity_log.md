@@ -646,3 +646,4 @@
 - [2026-06-21T22:30:58] refactor: optimize transaction deserialization buffer
 - [2026-06-22T14:39:29] docs: update notes on Taproot script spend paths
 - [2026-06-23T11:36:57] feat: add lightweight bloom filter parser for SPV tests
+- [2026-06-23T21:48:53] perf: benchmark parallel cryptographic verification loop
