@@ -648,3 +648,4 @@
 - [2026-06-23T11:36:57] feat: add lightweight bloom filter parser for SPV tests
 - [2026-06-23T21:48:53] perf: benchmark parallel cryptographic verification loop
 - [2026-06-23T15:31:20] test: verify CPFP package fee evaluation edge cases
+- [2026-06-24T14:34:02] test: add fuzzing cases for mempool package acceptance
