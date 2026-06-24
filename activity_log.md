@@ -1721,3 +1721,4 @@
 - [2026-06-20T22:22:06] chore: update linting rules and static analysis tools
 - [2026-06-21T11:32:29] chore: update linting rules and static analysis tools
 - [2026-06-24T16:38:16] docs: document Lightning Watchtower justice payload format
+- [2026-06-24T17:16:25] feat: implement compact filter Golomb-Rice encoder
