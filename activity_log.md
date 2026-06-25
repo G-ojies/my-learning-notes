@@ -996,3 +996,4 @@
 - [2026-06-22T18:36:48] docs: analyze BIP324 encrypted transport handshake
 - [2026-06-22T16:45:41] feat: prototype Erlay set reconciliation sketch
 - [2026-06-22T19:23:02] perf: optimize memory footprint for UTXO cache
+- [2026-06-25T12:27:13] perf: optimize memory footprint for UTXO cache
