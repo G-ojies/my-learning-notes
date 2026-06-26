@@ -1000,3 +1000,4 @@
 - [2026-06-25T18:16:10] test: add fuzzing cases for mempool package acceptance
 - [2026-06-25T13:30:11] test: add fuzzing cases for mempool package acceptance
 - [2026-06-26T14:19:55] feat: implement compact filter Golomb-Rice encoder
+- [2026-06-26T20:12:33] perf: optimize memory footprint for UTXO cache
