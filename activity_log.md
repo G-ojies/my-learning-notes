@@ -289,3 +289,4 @@
 - [2026-06-24T14:42:27] docs: research Stratum V2 job negotiation framing
 - [2026-06-24T10:13:50] perf: optimize memory footprint for UTXO cache
 - [2026-06-25T13:39:22] test: verify CPFP package fee evaluation edge cases
+- [2026-06-26T15:20:48] perf: optimize memory footprint for UTXO cache
