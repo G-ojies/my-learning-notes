@@ -1724,3 +1724,4 @@
 - [2026-06-24T17:16:25] feat: implement compact filter Golomb-Rice encoder
 - [2026-06-25T18:33:03] feat: prototype Erlay set reconciliation sketch
 - [2026-06-25T09:17:47] refactor: optimize transaction deserialization buffer
+- [2026-06-26T16:16:54] perf: benchmark parallel cryptographic verification loop
