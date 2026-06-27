@@ -1348,3 +1348,4 @@
 - [2026-06-23T11:00:34] feat: implement compact filter Golomb-Rice encoder
 - [2026-06-24T21:39:35] refactor: optimize transaction deserialization buffer
 - [2026-06-26T15:36:08] perf: benchmark parallel cryptographic verification loop
+- [2026-06-27T14:03:21] feat: add lightweight bloom filter parser for SPV tests
