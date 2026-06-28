@@ -652,3 +652,4 @@
 - [2026-06-25T12:49:54] docs: research Stratum V2 job negotiation framing
 - [2026-06-25T10:56:38] refactor: optimize transaction deserialization buffer
 - [2026-06-27T16:17:02] refactor: clean up P2P network message serialization
+- [2026-06-28T12:52:16] feat: prototype Erlay set reconciliation sketch
