@@ -1725,3 +1725,4 @@
 - [2026-06-25T18:33:03] feat: prototype Erlay set reconciliation sketch
 - [2026-06-25T09:17:47] refactor: optimize transaction deserialization buffer
 - [2026-06-26T16:16:54] perf: benchmark parallel cryptographic verification loop
+- [2026-06-28T13:26:54] test: verify CPFP package fee evaluation edge cases
