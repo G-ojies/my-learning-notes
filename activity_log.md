@@ -1002,3 +1002,4 @@
 - [2026-06-26T14:19:55] feat: implement compact filter Golomb-Rice encoder
 - [2026-06-26T20:12:33] perf: optimize memory footprint for UTXO cache
 - [2026-06-28T10:13:48] refactor: optimize transaction deserialization buffer
+- [2026-06-28T10:17:10] feat: implement compact filter Golomb-Rice encoder
