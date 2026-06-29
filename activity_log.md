@@ -1728,3 +1728,4 @@
 - [2026-06-28T13:26:54] test: verify CPFP package fee evaluation edge cases
 - [2026-06-28T16:44:37] refactor: clean up P2P network message serialization
 - [2026-06-28T16:33:34] feat: prototype Erlay set reconciliation sketch
+- [2026-06-29T20:37:18] feat: add lightweight bloom filter parser for SPV tests
