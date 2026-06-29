@@ -291,3 +291,4 @@
 - [2026-06-25T13:39:22] test: verify CPFP package fee evaluation edge cases
 - [2026-06-26T15:20:48] perf: optimize memory footprint for UTXO cache
 - [2026-06-28T14:44:20] chore: update linting rules and static analysis tools
+- [2026-06-29T12:48:44] docs: update notes on Taproot script spend paths
