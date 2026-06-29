@@ -1003,3 +1003,4 @@
 - [2026-06-26T20:12:33] perf: optimize memory footprint for UTXO cache
 - [2026-06-28T10:13:48] refactor: optimize transaction deserialization buffer
 - [2026-06-28T10:17:10] feat: implement compact filter Golomb-Rice encoder
+- [2026-06-29T18:32:19] docs: analyze BIP324 encrypted transport handshake
