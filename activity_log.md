@@ -292,3 +292,4 @@
 - [2026-06-26T15:20:48] perf: optimize memory footprint for UTXO cache
 - [2026-06-28T14:44:20] chore: update linting rules and static analysis tools
 - [2026-06-29T12:48:44] docs: update notes on Taproot script spend paths
+- [2026-06-29T16:22:22] chore: update linting rules and static analysis tools
