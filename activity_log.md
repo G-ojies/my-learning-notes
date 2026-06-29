@@ -1729,3 +1729,4 @@
 - [2026-06-28T16:44:37] refactor: clean up P2P network message serialization
 - [2026-06-28T16:33:34] feat: prototype Erlay set reconciliation sketch
 - [2026-06-29T20:37:18] feat: add lightweight bloom filter parser for SPV tests
+- [2026-06-29T12:53:52] refactor: optimize transaction deserialization buffer
