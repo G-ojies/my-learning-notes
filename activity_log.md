@@ -1352,3 +1352,4 @@
 - [2026-06-29T20:17:05] docs: analyze BIP324 encrypted transport handshake
 - [2026-06-29T09:09:00] chore: update linting rules and static analysis tools
 - [2026-06-30T16:55:30] feat: implement compact filter Golomb-Rice encoder
+- [2026-06-30T17:25:54] perf: optimize memory footprint for UTXO cache
