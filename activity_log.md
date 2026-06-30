@@ -1351,3 +1351,4 @@
 - [2026-06-27T14:03:21] feat: add lightweight bloom filter parser for SPV tests
 - [2026-06-29T20:17:05] docs: analyze BIP324 encrypted transport handshake
 - [2026-06-29T09:09:00] chore: update linting rules and static analysis tools
+- [2026-06-30T16:55:30] feat: implement compact filter Golomb-Rice encoder
