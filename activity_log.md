@@ -654,3 +654,4 @@
 - [2026-06-27T16:17:02] refactor: clean up P2P network message serialization
 - [2026-06-28T12:52:16] feat: prototype Erlay set reconciliation sketch
 - [2026-07-01T14:22:09] docs: document Lightning Watchtower justice payload format
+- [2026-07-01T22:33:57] chore: update linting rules and static analysis tools
