@@ -1353,3 +1353,4 @@
 - [2026-06-29T09:09:00] chore: update linting rules and static analysis tools
 - [2026-06-30T16:55:30] feat: implement compact filter Golomb-Rice encoder
 - [2026-06-30T17:25:54] perf: optimize memory footprint for UTXO cache
+- [2026-07-01T12:24:45] refactor: clean up P2P network message serialization
