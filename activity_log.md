@@ -1732,3 +1732,4 @@
 - [2026-06-29T12:53:52] refactor: optimize transaction deserialization buffer
 - [2026-06-30T22:22:07] feat: implement compact filter Golomb-Rice encoder
 - [2026-06-30T16:38:39] docs: analyze BIP324 encrypted transport handshake
+- [2026-07-01T21:57:11] feat: prototype Erlay set reconciliation sketch
