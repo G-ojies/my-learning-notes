@@ -1355,3 +1355,4 @@
 - [2026-06-30T17:25:54] perf: optimize memory footprint for UTXO cache
 - [2026-07-01T12:24:45] refactor: clean up P2P network message serialization
 - [2026-07-01T10:27:57] test: add unit tests for Schnorr signature verification
+- [2026-07-01T09:14:52] docs: research Stratum V2 job negotiation framing
