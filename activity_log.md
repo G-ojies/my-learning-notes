@@ -294,3 +294,4 @@
 - [2026-06-29T12:48:44] docs: update notes on Taproot script spend paths
 - [2026-06-29T16:22:22] chore: update linting rules and static analysis tools
 - [2026-06-30T13:47:23] docs: update notes on Taproot script spend paths
+- [2026-07-01T09:24:15] docs: analyze BIP324 encrypted transport handshake
