@@ -62,3 +62,4 @@
 - Jun 20: Analyzed Miniscript policy compilation strings. Drafted structural parsing steps to translate human-readable logical policies like 'and(pk(A),or(pk(B),older(144)))' into valid Bitcoin Script opcodes.
 - Jun 27: Analyzed legacy BIP37 Bloom Filters and their massive privacy leaks.
 - Jun 28: Mapped migration strategy from BIP37 to BIP157/158 Golomb-Rice Compact Block Filters.
+- Jul 2: Researched Taproot Asset (Taro) parsing via MS-SMT (Merkle Sum Sparse Merkle Trees).
