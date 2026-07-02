@@ -296,3 +296,4 @@
 - [2026-06-30T13:47:23] docs: update notes on Taproot script spend paths
 - [2026-07-01T09:24:15] docs: analyze BIP324 encrypted transport handshake
 - [2026-07-01T15:55:46] test: add fuzzing cases for mempool package acceptance
+- [2026-07-02T11:14:52] perf: optimize memory footprint for UTXO cache
