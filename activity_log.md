@@ -1357,3 +1357,4 @@
 - [2026-07-01T10:27:57] test: add unit tests for Schnorr signature verification
 - [2026-07-01T09:14:52] docs: research Stratum V2 job negotiation framing
 - [2026-07-02T15:17:10] feat: add lightweight bloom filter parser for SPV tests
+- [2026-07-02T18:43:17] docs: analyze BIP324 encrypted transport handshake
