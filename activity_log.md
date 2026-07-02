@@ -1736,3 +1736,4 @@
 - [2026-07-01T20:01:43] chore: update linting rules and static analysis tools
 - [2026-07-02T18:04:00] test: verify CPFP package fee evaluation edge cases
 - [2026-07-02T16:49:24] docs: analyze BIP324 encrypted transport handshake
+- [2026-07-02T22:05:27] docs: update notes on Taproot script spend paths
