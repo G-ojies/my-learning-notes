@@ -1734,3 +1734,4 @@
 - [2026-06-30T16:38:39] docs: analyze BIP324 encrypted transport handshake
 - [2026-07-01T21:57:11] feat: prototype Erlay set reconciliation sketch
 - [2026-07-01T20:01:43] chore: update linting rules and static analysis tools
+- [2026-07-02T18:04:00] test: verify CPFP package fee evaluation edge cases
