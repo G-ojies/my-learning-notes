@@ -1008,3 +1008,4 @@
 - [2026-07-01T19:23:23] chore: update linting rules and static analysis tools
 - [2026-07-02T21:45:15] docs: update notes on Taproot script spend paths
 - [2026-07-02T19:42:56] feat: add lightweight bloom filter parser for SPV tests
+- [2026-07-03T20:12:31] refactor: clean up P2P network message serialization
