@@ -298,3 +298,4 @@
 - [2026-07-01T15:55:46] test: add fuzzing cases for mempool package acceptance
 - [2026-07-02T11:14:52] perf: optimize memory footprint for UTXO cache
 - [2026-07-03T13:19:23] feat: prototype Erlay set reconciliation sketch
+- [2026-07-03T13:10:09] feat: add lightweight bloom filter parser for SPV tests
