@@ -1740,3 +1740,4 @@
 - [2026-07-03T16:02:03] feat: add lightweight bloom filter parser for SPV tests
 - [2026-07-03T13:39:57] docs: update notes on Taproot script spend paths
 - [2026-07-04T10:10:56] feat: prototype Erlay set reconciliation sketch
+- [2026-07-04T12:09:09] perf: optimize memory footprint for UTXO cache
