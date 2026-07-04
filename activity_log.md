@@ -300,3 +300,4 @@
 - [2026-07-03T13:19:23] feat: prototype Erlay set reconciliation sketch
 - [2026-07-03T13:10:09] feat: add lightweight bloom filter parser for SPV tests
 - [2026-07-03T15:52:51] test: verify CPFP package fee evaluation edge cases
+- [2026-07-04T22:16:34] docs: update notes on Taproot script spend paths
