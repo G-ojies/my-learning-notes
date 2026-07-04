@@ -1009,3 +1009,4 @@
 - [2026-07-02T21:45:15] docs: update notes on Taproot script spend paths
 - [2026-07-02T19:42:56] feat: add lightweight bloom filter parser for SPV tests
 - [2026-07-03T20:12:31] refactor: clean up P2P network message serialization
+- [2026-07-04T21:47:11] test: add unit tests for Schnorr signature verification
