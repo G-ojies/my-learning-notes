@@ -1010,3 +1010,4 @@
 - [2026-07-02T19:42:56] feat: add lightweight bloom filter parser for SPV tests
 - [2026-07-03T20:12:31] refactor: clean up P2P network message serialization
 - [2026-07-04T21:47:11] test: add unit tests for Schnorr signature verification
+- [2026-07-04T12:27:04] test: verify CPFP package fee evaluation edge cases
