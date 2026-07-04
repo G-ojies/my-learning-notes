@@ -302,3 +302,4 @@
 - [2026-07-03T15:52:51] test: verify CPFP package fee evaluation edge cases
 - [2026-07-04T22:16:34] docs: update notes on Taproot script spend paths
 - [2026-07-04T20:49:48] test: add unit tests for Schnorr signature verification
+- [2026-07-04T14:08:08] refactor: clean up P2P network message serialization
