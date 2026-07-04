@@ -658,3 +658,4 @@
 - [2026-07-03T15:31:29] chore: update linting rules and static analysis tools
 - [2026-07-03T22:41:26] refactor: optimize transaction deserialization buffer
 - [2026-07-04T21:16:59] chore: update linting rules and static analysis tools
+- [2026-07-04T10:15:28] feat: add lightweight bloom filter parser for SPV tests
