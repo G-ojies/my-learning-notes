@@ -1744,3 +1744,4 @@
 - [2026-07-04T19:18:49] test: verify CPFP package fee evaluation edge cases
 - [2026-07-05T11:58:24] perf: benchmark parallel cryptographic verification loop
 - [2026-07-05T09:24:22] docs: research Stratum V2 job negotiation framing
+- [2026-07-05T13:31:10] docs: analyze BIP324 encrypted transport handshake
