@@ -1359,3 +1359,4 @@
 - [2026-07-02T15:17:10] feat: add lightweight bloom filter parser for SPV tests
 - [2026-07-02T18:43:17] docs: analyze BIP324 encrypted transport handshake
 - [2026-07-05T10:33:37] test: add unit tests for Schnorr signature verification
+- [2026-07-05T11:22:16] test: verify CPFP package fee evaluation edge cases
