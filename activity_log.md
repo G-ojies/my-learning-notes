@@ -303,3 +303,4 @@
 - [2026-07-04T22:16:34] docs: update notes on Taproot script spend paths
 - [2026-07-04T20:49:48] test: add unit tests for Schnorr signature verification
 - [2026-07-04T14:08:08] refactor: clean up P2P network message serialization
+- [2026-07-05T12:44:47] refactor: optimize transaction deserialization buffer
