@@ -1743,3 +1743,4 @@
 - [2026-07-04T12:09:09] perf: optimize memory footprint for UTXO cache
 - [2026-07-04T19:18:49] test: verify CPFP package fee evaluation edge cases
 - [2026-07-05T11:58:24] perf: benchmark parallel cryptographic verification loop
+- [2026-07-05T09:24:22] docs: research Stratum V2 job negotiation framing
