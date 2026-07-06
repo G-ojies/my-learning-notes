@@ -662,3 +662,4 @@
 - [2026-07-04T11:40:20] docs: document Lightning Watchtower justice payload format
 - [2026-07-06T11:14:24] refactor: optimize transaction deserialization buffer
 - [2026-07-06T17:22:35] test: verify CPFP package fee evaluation edge cases
+- [2026-07-06T19:12:57] docs: analyze BIP324 encrypted transport handshake
