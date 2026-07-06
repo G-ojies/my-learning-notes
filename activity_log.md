@@ -306,3 +306,4 @@
 - [2026-07-05T12:44:47] refactor: optimize transaction deserialization buffer
 - [2026-07-06T11:56:15] feat: add lightweight bloom filter parser for SPV tests
 - [2026-07-06T15:30:50] feat: add lightweight bloom filter parser for SPV tests
+- [2026-07-06T12:18:30] test: verify CPFP package fee evaluation edge cases
