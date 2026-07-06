@@ -1745,3 +1745,4 @@
 - [2026-07-05T11:58:24] perf: benchmark parallel cryptographic verification loop
 - [2026-07-05T09:24:22] docs: research Stratum V2 job negotiation framing
 - [2026-07-05T13:31:10] docs: analyze BIP324 encrypted transport handshake
+- [2026-07-06T13:38:03] refactor: optimize transaction deserialization buffer
