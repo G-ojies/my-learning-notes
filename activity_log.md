@@ -660,3 +660,4 @@
 - [2026-07-04T21:16:59] chore: update linting rules and static analysis tools
 - [2026-07-04T10:15:28] feat: add lightweight bloom filter parser for SPV tests
 - [2026-07-04T11:40:20] docs: document Lightning Watchtower justice payload format
+- [2026-07-06T11:14:24] refactor: optimize transaction deserialization buffer
