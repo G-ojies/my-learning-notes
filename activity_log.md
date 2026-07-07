@@ -1366,3 +1366,4 @@
 - [2026-07-06T19:34:27] feat: implement compact filter Golomb-Rice encoder
 - [2026-07-07T18:56:50] docs: research Stratum V2 job negotiation framing
 - [2026-07-07T22:33:27] docs: update notes on Taproot script spend paths
+- [2026-07-07T14:09:36] perf: benchmark parallel cryptographic verification loop
