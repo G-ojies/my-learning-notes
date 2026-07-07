@@ -1364,3 +1364,4 @@
 - [2026-07-06T16:18:59] refactor: optimize transaction deserialization buffer
 - [2026-07-06T13:50:09] feat: prototype Erlay set reconciliation sketch
 - [2026-07-06T19:34:27] feat: implement compact filter Golomb-Rice encoder
+- [2026-07-07T18:56:50] docs: research Stratum V2 job negotiation framing
