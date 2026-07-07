@@ -665,3 +665,4 @@
 - [2026-07-06T19:12:57] docs: analyze BIP324 encrypted transport handshake
 - [2026-07-07T20:23:10] refactor: clean up P2P network message serialization
 - [2026-07-07T20:06:24] test: add unit tests for Schnorr signature verification
+- [2026-07-07T22:21:50] docs: document Lightning Watchtower justice payload format
