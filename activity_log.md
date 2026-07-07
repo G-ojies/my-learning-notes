@@ -1012,3 +1012,4 @@
 - [2026-07-04T21:47:11] test: add unit tests for Schnorr signature verification
 - [2026-07-04T12:27:04] test: verify CPFP package fee evaluation edge cases
 - [2026-07-04T12:49:30] docs: research Stratum V2 job negotiation framing
+- [2026-07-07T22:47:01] feat: add lightweight bloom filter parser for SPV tests
