@@ -27,3 +27,4 @@
 - Jul 05: Analyzed Layer 2 scaling solutions, specifically Lightning Network HTLC routing and Watchtower mechanics.
 - Jul 06: Analyzed Layer 2 scaling solutions, specifically Lightning Network HTLC routing and Watchtower mechanics.
 - Jul 07: Analyzed Layer 2 scaling solutions, specifically Lightning Network HTLC routing and Watchtower mechanics.
+- Jul 08: Analyzed Layer 2 scaling solutions, specifically Lightning Network HTLC routing and Watchtower mechanics.
