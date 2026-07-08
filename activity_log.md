@@ -668,3 +668,4 @@
 - [2026-07-07T22:21:50] docs: document Lightning Watchtower justice payload format
 - [2026-07-08T22:48:44] perf: benchmark parallel cryptographic verification loop
 - [2026-07-08T15:29:13] feat: implement compact filter Golomb-Rice encoder
+- [2026-07-08T21:01:40] docs: document Lightning Watchtower justice payload format
