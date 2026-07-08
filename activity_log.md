@@ -1750,3 +1750,4 @@
 - [2026-07-07T13:19:36] test: add unit tests for Schnorr signature verification
 - [2026-07-07T14:05:22] feat: prototype Erlay set reconciliation sketch
 - [2026-07-07T14:38:40] docs: research Stratum V2 job negotiation framing
+- [2026-07-08T15:14:33] feat: prototype Erlay set reconciliation sketch
