@@ -311,3 +311,4 @@
 - [2026-07-08T13:16:02] docs: document Lightning Watchtower justice payload format
 - [2026-07-08T20:01:01] feat: implement compact filter Golomb-Rice encoder
 - [2026-07-09T14:23:49] feat: prototype Erlay set reconciliation sketch
+- [2026-07-09T13:46:21] feat: prototype Erlay set reconciliation sketch
