@@ -1753,3 +1753,4 @@
 - [2026-07-08T15:14:33] feat: prototype Erlay set reconciliation sketch
 - [2026-07-08T17:35:06] feat: implement compact filter Golomb-Rice encoder
 - [2026-07-08T10:36:35] chore: update linting rules and static analysis tools
+- [2026-07-09T20:45:30] perf: optimize memory footprint for UTXO cache
