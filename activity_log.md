@@ -1017,3 +1017,4 @@
 - [2026-07-08T17:12:00] refactor: optimize transaction deserialization buffer
 - [2026-07-09T16:00:57] perf: optimize memory footprint for UTXO cache
 - [2026-07-10T21:16:46] chore: update linting rules and static analysis tools
+- [2026-07-10T09:15:22] docs: document Lightning Watchtower justice payload format
