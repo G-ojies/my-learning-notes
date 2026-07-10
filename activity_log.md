@@ -1370,3 +1370,4 @@
 - [2026-07-09T11:07:11] perf: optimize memory footprint for UTXO cache
 - [2026-07-09T13:40:34] docs: document Lightning Watchtower justice payload format
 - [2026-07-10T19:54:54] test: add fuzzing cases for mempool package acceptance
+- [2026-07-10T19:34:33] docs: research Stratum V2 job negotiation framing
