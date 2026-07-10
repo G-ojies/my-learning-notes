@@ -1755,3 +1755,4 @@
 - [2026-07-08T10:36:35] chore: update linting rules and static analysis tools
 - [2026-07-09T20:45:30] perf: optimize memory footprint for UTXO cache
 - [2026-07-09T09:18:52] feat: prototype Erlay set reconciliation sketch
+- [2026-07-10T14:52:27] docs: research Stratum V2 job negotiation framing
