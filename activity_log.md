@@ -313,3 +313,4 @@
 - [2026-07-09T14:23:49] feat: prototype Erlay set reconciliation sketch
 - [2026-07-09T13:46:21] feat: prototype Erlay set reconciliation sketch
 - [2026-07-09T21:55:59] docs: document Lightning Watchtower justice payload format
+- [2026-07-11T12:22:38] test: verify CPFP package fee evaluation edge cases
