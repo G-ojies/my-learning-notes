@@ -670,3 +670,4 @@
 - [2026-07-08T15:29:13] feat: implement compact filter Golomb-Rice encoder
 - [2026-07-08T21:01:40] docs: document Lightning Watchtower justice payload format
 - [2026-07-09T12:39:42] perf: optimize memory footprint for UTXO cache
+- [2026-07-12T21:49:20] feat: add lightweight bloom filter parser for SPV tests
