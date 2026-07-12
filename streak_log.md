@@ -64,3 +64,4 @@
 - Jun 28: Mapped migration strategy from BIP37 to BIP157/158 Golomb-Rice Compact Block Filters.
 - Jul 2: Researched Taproot Asset (Taro) parsing via MS-SMT (Merkle Sum Sparse Merkle Trees).
 - Jul 6: Integrated PayJoin and CoinJoin filters into the main ChainSentry anomaly engine to suppress false 'Whale' alerts.
+- Jul 12: Mapped the architecture for Merkle Sum Sparse Merkle Trees (MS-SMT) to prepare ChainSentry for tracking Taproot Assets (Taro).
