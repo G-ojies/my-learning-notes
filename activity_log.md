@@ -317,3 +317,4 @@
 - [2026-07-11T14:19:40] test: add fuzzing cases for mempool package acceptance
 - [2026-07-12T17:27:31] refactor: optimize transaction deserialization buffer
 - [2026-07-13T12:26:09] perf: optimize memory footprint for UTXO cache
+- [2026-07-13T20:23:47] feat: add lightweight bloom filter parser for SPV tests
