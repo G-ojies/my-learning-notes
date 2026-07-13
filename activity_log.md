@@ -1373,3 +1373,4 @@
 - [2026-07-10T19:34:33] docs: research Stratum V2 job negotiation framing
 - [2026-07-13T13:11:24] chore: update linting rules and static analysis tools
 - [2026-07-13T15:07:37] docs: update notes on Taproot script spend paths
+- [2026-07-13T21:45:46] chore: update linting rules and static analysis tools
