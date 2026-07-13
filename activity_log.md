@@ -673,3 +673,4 @@
 - [2026-07-12T21:49:20] feat: add lightweight bloom filter parser for SPV tests
 - [2026-07-12T11:33:26] feat: prototype Erlay set reconciliation sketch
 - [2026-07-12T20:42:06] refactor: optimize transaction deserialization buffer
+- [2026-07-13T17:54:43] perf: optimize memory footprint for UTXO cache
