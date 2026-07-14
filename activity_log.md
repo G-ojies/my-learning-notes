@@ -1761,3 +1761,4 @@
 - [2026-07-13T18:25:53] feat: prototype Erlay set reconciliation sketch
 - [2026-07-13T17:16:08] test: add fuzzing cases for mempool package acceptance
 - [2026-07-13T19:50:07] docs: update notes on Taproot script spend paths
+- [2026-07-14T15:05:40] feat: implement compact filter Golomb-Rice encoder
