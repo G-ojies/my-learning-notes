@@ -1024,3 +1024,4 @@
 - [2026-07-13T17:15:17] feat: prototype Erlay set reconciliation sketch
 - [2026-07-13T10:21:15] test: verify CPFP package fee evaluation edge cases
 - [2026-07-13T16:24:30] feat: add lightweight bloom filter parser for SPV tests
+- [2026-07-14T14:22:49] feat: prototype Erlay set reconciliation sketch
