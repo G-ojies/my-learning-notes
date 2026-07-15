@@ -1026,3 +1026,4 @@
 - [2026-07-13T16:24:30] feat: add lightweight bloom filter parser for SPV tests
 - [2026-07-14T14:22:49] feat: prototype Erlay set reconciliation sketch
 - [2026-07-14T20:39:29] refactor: optimize transaction deserialization buffer
+- [2026-07-15T10:54:04] docs: document Lightning Watchtower justice payload format
