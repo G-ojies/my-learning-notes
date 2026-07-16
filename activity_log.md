@@ -677,3 +677,4 @@
 - [2026-07-13T18:17:57] test: add fuzzing cases for mempool package acceptance
 - [2026-07-14T12:28:10] docs: document Lightning Watchtower justice payload format
 - [2026-07-15T11:51:41] feat: implement compact filter Golomb-Rice encoder
+- [2026-07-16T10:29:02] test: verify CPFP package fee evaluation edge cases
