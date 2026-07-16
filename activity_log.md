@@ -1379,3 +1379,4 @@
 - [2026-07-14T20:26:07] docs: update notes on Taproot script spend paths
 - [2026-07-15T22:35:59] docs: document Lightning Watchtower justice payload format
 - [2026-07-15T10:37:47] chore: update linting rules and static analysis tools
+- [2026-07-16T10:27:31] docs: document Lightning Watchtower justice payload format
