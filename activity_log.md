@@ -318,3 +318,4 @@
 - [2026-07-12T17:27:31] refactor: optimize transaction deserialization buffer
 - [2026-07-13T12:26:09] perf: optimize memory footprint for UTXO cache
 - [2026-07-13T20:23:47] feat: add lightweight bloom filter parser for SPV tests
+- [2026-07-16T12:25:40] docs: research Stratum V2 job negotiation framing
