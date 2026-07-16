@@ -678,3 +678,4 @@
 - [2026-07-14T12:28:10] docs: document Lightning Watchtower justice payload format
 - [2026-07-15T11:51:41] feat: implement compact filter Golomb-Rice encoder
 - [2026-07-16T10:29:02] test: verify CPFP package fee evaluation edge cases
+- [2026-07-16T17:37:36] docs: analyze BIP324 encrypted transport handshake
