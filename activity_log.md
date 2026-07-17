@@ -1381,3 +1381,4 @@
 - [2026-07-15T10:37:47] chore: update linting rules and static analysis tools
 - [2026-07-16T10:27:31] docs: document Lightning Watchtower justice payload format
 - [2026-07-17T19:47:18] test: add unit tests for Schnorr signature verification
+- [2026-07-17T14:56:46] feat: prototype Erlay set reconciliation sketch
