@@ -1027,3 +1027,4 @@
 - [2026-07-14T14:22:49] feat: prototype Erlay set reconciliation sketch
 - [2026-07-14T20:39:29] refactor: optimize transaction deserialization buffer
 - [2026-07-15T10:54:04] docs: document Lightning Watchtower justice payload format
+- [2026-07-17T13:03:54] docs: document Lightning Watchtower justice payload format
