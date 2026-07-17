@@ -319,3 +319,4 @@
 - [2026-07-13T12:26:09] perf: optimize memory footprint for UTXO cache
 - [2026-07-13T20:23:47] feat: add lightweight bloom filter parser for SPV tests
 - [2026-07-16T12:25:40] docs: research Stratum V2 job negotiation framing
+- [2026-07-17T12:27:51] test: add unit tests for Schnorr signature verification
