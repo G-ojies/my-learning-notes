@@ -1029,3 +1029,4 @@
 - [2026-07-15T10:54:04] docs: document Lightning Watchtower justice payload format
 - [2026-07-17T13:03:54] docs: document Lightning Watchtower justice payload format
 - [2026-07-18T16:08:22] feat: prototype Erlay set reconciliation sketch
+- [2026-07-18T10:34:17] test: add unit tests for Schnorr signature verification
