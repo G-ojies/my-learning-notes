@@ -1031,3 +1031,4 @@
 - [2026-07-18T16:08:22] feat: prototype Erlay set reconciliation sketch
 - [2026-07-18T10:34:17] test: add unit tests for Schnorr signature verification
 - [2026-07-19T16:59:45] chore: update linting rules and static analysis tools
+- [2026-07-19T18:48:01] feat: implement compact filter Golomb-Rice encoder
