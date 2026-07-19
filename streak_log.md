@@ -66,3 +66,4 @@
 - Jul 6: Integrated PayJoin and CoinJoin filters into the main ChainSentry anomaly engine to suppress false 'Whale' alerts.
 - Jul 12: Mapped the architecture for Merkle Sum Sparse Merkle Trees (MS-SMT) to prepare ChainSentry for tracking Taproot Assets (Taro).
 - Jul 18: Researched Taproot Asset Genesis block mechanics. Documented how the initial MS-SMT is anchored into a Taproot output via a tweaked key, cementing the total supply of the asset.
+- Jul 19: Reviewed C++ node architecture for mempool package acceptance (BIP125/BIP133). Planned cross-language bindings to link Python heuristics with C++ core verification.
