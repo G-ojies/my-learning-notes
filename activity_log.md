@@ -1384,3 +1384,4 @@
 - [2026-07-17T14:56:46] feat: prototype Erlay set reconciliation sketch
 - [2026-07-18T09:52:10] refactor: optimize transaction deserialization buffer
 - [2026-07-18T18:58:34] perf: optimize memory footprint for UTXO cache
+- [2026-07-19T13:20:21] test: verify CPFP package fee evaluation edge cases
