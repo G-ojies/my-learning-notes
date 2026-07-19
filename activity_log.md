@@ -325,3 +325,4 @@
 - [2026-07-18T21:10:07] docs: update notes on Taproot script spend paths
 - [2026-07-19T18:47:13] feat: add lightweight bloom filter parser for SPV tests
 - [2026-07-19T11:15:42] perf: optimize memory footprint for UTXO cache
+- [2026-07-19T14:21:06] perf: benchmark parallel cryptographic verification loop
