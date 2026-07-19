@@ -323,3 +323,4 @@
 - [2026-07-17T17:49:30] chore: update linting rules and static analysis tools
 - [2026-07-18T16:54:06] perf: optimize memory footprint for UTXO cache
 - [2026-07-18T21:10:07] docs: update notes on Taproot script spend paths
+- [2026-07-19T18:47:13] feat: add lightweight bloom filter parser for SPV tests
