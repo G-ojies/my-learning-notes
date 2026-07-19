@@ -1765,3 +1765,4 @@
 - [2026-07-15T12:12:17] docs: analyze BIP324 encrypted transport handshake
 - [2026-07-15T13:56:13] docs: update notes on Taproot script spend paths
 - [2026-07-17T13:37:42] refactor: optimize transaction deserialization buffer
+- [2026-07-19T14:15:13] refactor: clean up P2P network message serialization
