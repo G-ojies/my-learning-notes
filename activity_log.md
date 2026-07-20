@@ -1034,3 +1034,4 @@
 - [2026-07-19T18:48:01] feat: implement compact filter Golomb-Rice encoder
 - [2026-07-19T15:12:19] docs: update notes on Taproot script spend paths
 - [2026-07-20T16:26:22] feat: add lightweight bloom filter parser for SPV tests
+- [2026-07-20T21:40:52] test: add unit tests for Schnorr signature verification
