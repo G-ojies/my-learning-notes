@@ -1033,3 +1033,4 @@
 - [2026-07-19T16:59:45] chore: update linting rules and static analysis tools
 - [2026-07-19T18:48:01] feat: implement compact filter Golomb-Rice encoder
 - [2026-07-19T15:12:19] docs: update notes on Taproot script spend paths
+- [2026-07-20T16:26:22] feat: add lightweight bloom filter parser for SPV tests
