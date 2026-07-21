@@ -1768,3 +1768,4 @@
 - [2026-07-19T14:15:13] refactor: clean up P2P network message serialization
 - [2026-07-20T18:59:36] docs: document Lightning Watchtower justice payload format
 - [2026-07-21T09:41:58] feat: prototype Erlay set reconciliation sketch
+- [2026-07-21T11:40:00] docs: research Stratum V2 job negotiation framing
