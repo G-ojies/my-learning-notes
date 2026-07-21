@@ -327,3 +327,4 @@
 - [2026-07-19T11:15:42] perf: optimize memory footprint for UTXO cache
 - [2026-07-19T14:21:06] perf: benchmark parallel cryptographic verification loop
 - [2026-07-20T15:41:27] refactor: clean up P2P network message serialization
+- [2026-07-21T10:11:08] docs: research Stratum V2 job negotiation framing
