@@ -1767,3 +1767,4 @@
 - [2026-07-17T13:37:42] refactor: optimize transaction deserialization buffer
 - [2026-07-19T14:15:13] refactor: clean up P2P network message serialization
 - [2026-07-20T18:59:36] docs: document Lightning Watchtower justice payload format
+- [2026-07-21T09:41:58] feat: prototype Erlay set reconciliation sketch
