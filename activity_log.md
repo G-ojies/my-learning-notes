@@ -1036,3 +1036,4 @@
 - [2026-07-20T16:26:22] feat: add lightweight bloom filter parser for SPV tests
 - [2026-07-20T21:40:52] test: add unit tests for Schnorr signature verification
 - [2026-07-21T13:49:07] perf: optimize memory footprint for UTXO cache
+- [2026-07-22T17:07:38] feat: prototype Erlay set reconciliation sketch
