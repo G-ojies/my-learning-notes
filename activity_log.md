@@ -1772,3 +1772,4 @@
 - [2026-07-21T13:16:53] docs: document Lightning Watchtower justice payload format
 - [2026-07-22T13:21:53] docs: analyze BIP324 encrypted transport handshake
 - [2026-07-22T22:28:47] perf: optimize memory footprint for UTXO cache
+- [2026-07-22T21:51:18] test: verify CPFP package fee evaluation edge cases
