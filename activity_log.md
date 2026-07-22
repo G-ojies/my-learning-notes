@@ -683,3 +683,4 @@
 - [2026-07-18T19:27:48] docs: research Stratum V2 job negotiation framing
 - [2026-07-19T22:31:49] perf: benchmark parallel cryptographic verification loop
 - [2026-07-20T22:25:36] docs: document Lightning Watchtower justice payload format
+- [2026-07-22T13:05:53] test: verify CPFP package fee evaluation edge cases
