@@ -330,3 +330,4 @@
 - [2026-07-21T10:11:08] docs: research Stratum V2 job negotiation framing
 - [2026-07-22T14:19:23] test: verify CPFP package fee evaluation edge cases
 - [2026-07-22T21:25:54] test: add fuzzing cases for mempool package acceptance
+- [2026-07-22T12:21:38] docs: research Stratum V2 job negotiation framing
