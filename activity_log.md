@@ -328,3 +328,4 @@
 - [2026-07-19T14:21:06] perf: benchmark parallel cryptographic verification loop
 - [2026-07-20T15:41:27] refactor: clean up P2P network message serialization
 - [2026-07-21T10:11:08] docs: research Stratum V2 job negotiation framing
+- [2026-07-22T14:19:23] test: verify CPFP package fee evaluation edge cases
