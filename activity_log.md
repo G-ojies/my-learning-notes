@@ -1771,3 +1771,4 @@
 - [2026-07-21T11:40:00] docs: research Stratum V2 job negotiation framing
 - [2026-07-21T13:16:53] docs: document Lightning Watchtower justice payload format
 - [2026-07-22T13:21:53] docs: analyze BIP324 encrypted transport handshake
+- [2026-07-22T22:28:47] perf: optimize memory footprint for UTXO cache
