@@ -1387,3 +1387,4 @@
 - [2026-07-19T13:20:21] test: verify CPFP package fee evaluation edge cases
 - [2026-07-19T14:06:01] feat: add lightweight bloom filter parser for SPV tests
 - [2026-07-22T15:52:42] perf: benchmark parallel cryptographic verification loop
+- [2026-07-23T11:52:23] docs: update notes on Taproot script spend paths
