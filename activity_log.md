@@ -1773,3 +1773,4 @@
 - [2026-07-22T13:21:53] docs: analyze BIP324 encrypted transport handshake
 - [2026-07-22T22:28:47] perf: optimize memory footprint for UTXO cache
 - [2026-07-22T21:51:18] test: verify CPFP package fee evaluation edge cases
+- [2026-07-23T16:10:20] docs: research Stratum V2 job negotiation framing
