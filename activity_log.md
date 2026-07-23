@@ -1039,3 +1039,4 @@
 - [2026-07-22T17:07:38] feat: prototype Erlay set reconciliation sketch
 - [2026-07-22T09:35:17] feat: prototype Erlay set reconciliation sketch
 - [2026-07-22T19:26:42] refactor: clean up P2P network message serialization
+- [2026-07-23T19:50:06] feat: prototype Erlay set reconciliation sketch
