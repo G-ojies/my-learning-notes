@@ -1390,3 +1390,4 @@
 - [2026-07-23T11:52:23] docs: update notes on Taproot script spend paths
 - [2026-07-23T13:23:27] chore: update linting rules and static analysis tools
 - [2026-07-23T10:59:31] refactor: optimize transaction deserialization buffer
+- [2026-07-24T14:09:49] chore: update linting rules and static analysis tools
