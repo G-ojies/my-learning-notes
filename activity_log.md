@@ -1041,3 +1041,4 @@
 - [2026-07-22T19:26:42] refactor: clean up P2P network message serialization
 - [2026-07-23T19:50:06] feat: prototype Erlay set reconciliation sketch
 - [2026-07-23T19:15:43] feat: prototype Erlay set reconciliation sketch
+- [2026-07-24T19:30:37] perf: benchmark parallel cryptographic verification loop
