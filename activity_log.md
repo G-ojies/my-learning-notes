@@ -684,3 +684,4 @@
 - [2026-07-19T22:31:49] perf: benchmark parallel cryptographic verification loop
 - [2026-07-20T22:25:36] docs: document Lightning Watchtower justice payload format
 - [2026-07-22T13:05:53] test: verify CPFP package fee evaluation edge cases
+- [2026-07-25T16:28:00] perf: optimize memory footprint for UTXO cache
