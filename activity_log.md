@@ -334,3 +334,4 @@
 - [2026-07-23T11:01:53] perf: benchmark parallel cryptographic verification loop
 - [2026-07-23T17:19:42] feat: add lightweight bloom filter parser for SPV tests
 - [2026-07-25T10:34:21] chore: update linting rules and static analysis tools
+- [2026-07-25T19:56:49] chore: update linting rules and static analysis tools
