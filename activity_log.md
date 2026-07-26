@@ -1776,3 +1776,4 @@
 - [2026-07-23T16:10:20] docs: research Stratum V2 job negotiation framing
 - [2026-07-25T16:06:38] test: verify CPFP package fee evaluation edge cases
 - [2026-07-25T21:54:07] docs: update notes on Taproot script spend paths
+- [2026-07-26T14:22:59] feat: implement compact filter Golomb-Rice encoder
