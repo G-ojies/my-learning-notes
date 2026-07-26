@@ -336,3 +336,4 @@
 - [2026-07-25T10:34:21] chore: update linting rules and static analysis tools
 - [2026-07-25T19:56:49] chore: update linting rules and static analysis tools
 - [2026-07-26T18:14:16] refactor: optimize transaction deserialization buffer
+- [2026-07-26T13:06:42] perf: optimize memory footprint for UTXO cache
