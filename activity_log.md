@@ -1393,3 +1393,4 @@
 - [2026-07-24T14:09:49] chore: update linting rules and static analysis tools
 - [2026-07-25T14:32:17] feat: prototype Erlay set reconciliation sketch
 - [2026-07-26T20:56:39] perf: benchmark parallel cryptographic verification loop
+- [2026-07-26T11:53:57] docs: analyze BIP324 encrypted transport handshake
