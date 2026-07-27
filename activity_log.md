@@ -691,3 +691,4 @@
 - [2026-07-26T15:54:31] feat: prototype Erlay set reconciliation sketch
 - [2026-07-26T22:16:43] feat: implement compact filter Golomb-Rice encoder
 - [2026-07-27T10:13:57] docs: document Lightning Watchtower justice payload format
+- [2026-07-27T14:31:49] refactor: clean up P2P network message serialization
