@@ -1780,3 +1780,4 @@
 - [2026-07-26T19:06:43] perf: benchmark parallel cryptographic verification loop
 - [2026-07-27T17:37:33] test: add unit tests for Schnorr signature verification
 - [2026-07-27T22:32:41] feat: prototype Erlay set reconciliation sketch
+- [2026-07-27T16:53:19] docs: research Stratum V2 job negotiation framing
