@@ -1778,3 +1778,4 @@
 - [2026-07-25T21:54:07] docs: update notes on Taproot script spend paths
 - [2026-07-26T14:22:59] feat: implement compact filter Golomb-Rice encoder
 - [2026-07-26T19:06:43] perf: benchmark parallel cryptographic verification loop
+- [2026-07-27T17:37:33] test: add unit tests for Schnorr signature verification
