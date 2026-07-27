@@ -338,3 +338,4 @@
 - [2026-07-26T18:14:16] refactor: optimize transaction deserialization buffer
 - [2026-07-26T13:06:42] perf: optimize memory footprint for UTXO cache
 - [2026-07-26T13:02:22] docs: update notes on Taproot script spend paths
+- [2026-07-27T19:48:01] test: add fuzzing cases for mempool package acceptance
