@@ -690,3 +690,4 @@
 - [2026-07-26T15:01:33] test: add fuzzing cases for mempool package acceptance
 - [2026-07-26T15:54:31] feat: prototype Erlay set reconciliation sketch
 - [2026-07-26T22:16:43] feat: implement compact filter Golomb-Rice encoder
+- [2026-07-27T10:13:57] docs: document Lightning Watchtower justice payload format
