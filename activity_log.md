@@ -1781,3 +1781,4 @@
 - [2026-07-27T17:37:33] test: add unit tests for Schnorr signature verification
 - [2026-07-27T22:32:41] feat: prototype Erlay set reconciliation sketch
 - [2026-07-27T16:53:19] docs: research Stratum V2 job negotiation framing
+- [2026-07-28T20:00:14] test: verify CPFP package fee evaluation edge cases
