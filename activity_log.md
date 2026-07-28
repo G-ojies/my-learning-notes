@@ -1395,3 +1395,4 @@
 - [2026-07-26T20:56:39] perf: benchmark parallel cryptographic verification loop
 - [2026-07-26T11:53:57] docs: analyze BIP324 encrypted transport handshake
 - [2026-07-26T13:31:26] docs: research Stratum V2 job negotiation framing
+- [2026-07-28T19:41:31] perf: optimize memory footprint for UTXO cache
