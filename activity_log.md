@@ -1045,3 +1045,4 @@
 - [2026-07-26T13:51:53] perf: optimize memory footprint for UTXO cache
 - [2026-07-27T09:57:42] feat: prototype Erlay set reconciliation sketch
 - [2026-07-28T09:14:32] docs: document Lightning Watchtower justice payload format
+- [2026-07-28T11:18:49] perf: benchmark parallel cryptographic verification loop
