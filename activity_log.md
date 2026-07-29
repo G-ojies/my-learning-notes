@@ -1047,3 +1047,4 @@
 - [2026-07-28T09:14:32] docs: document Lightning Watchtower justice payload format
 - [2026-07-28T11:18:49] perf: benchmark parallel cryptographic verification loop
 - [2026-07-29T20:12:12] refactor: clean up P2P network message serialization
+- [2026-07-29T10:21:43] docs: research Stratum V2 job negotiation framing
