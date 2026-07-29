@@ -1783,3 +1783,4 @@
 - [2026-07-27T16:53:19] docs: research Stratum V2 job negotiation framing
 - [2026-07-28T20:00:14] test: verify CPFP package fee evaluation edge cases
 - [2026-07-28T10:06:57] docs: document Lightning Watchtower justice payload format
+- [2026-07-29T10:42:18] test: verify CPFP package fee evaluation edge cases
