@@ -1396,3 +1396,4 @@
 - [2026-07-26T11:53:57] docs: analyze BIP324 encrypted transport handshake
 - [2026-07-26T13:31:26] docs: research Stratum V2 job negotiation framing
 - [2026-07-28T19:41:31] perf: optimize memory footprint for UTXO cache
+- [2026-07-29T21:47:55] perf: optimize memory footprint for UTXO cache
