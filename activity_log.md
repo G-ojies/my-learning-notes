@@ -1785,3 +1785,4 @@
 - [2026-07-28T10:06:57] docs: document Lightning Watchtower justice payload format
 - [2026-07-29T10:42:18] test: verify CPFP package fee evaluation edge cases
 - [2026-07-29T22:05:35] refactor: optimize transaction deserialization buffer
+- [2026-07-29T11:52:56] docs: research Stratum V2 job negotiation framing
