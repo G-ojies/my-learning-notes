@@ -344,3 +344,4 @@
 - [2026-07-28T12:39:28] feat: add lightweight bloom filter parser for SPV tests
 - [2026-07-28T17:12:34] test: verify CPFP package fee evaluation edge cases
 - [2026-07-28T22:15:57] feat: prototype Erlay set reconciliation sketch
+- [2026-07-29T09:50:38] docs: document Lightning Watchtower justice payload format
