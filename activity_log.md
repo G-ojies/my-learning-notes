@@ -1788,3 +1788,4 @@
 - [2026-07-29T11:52:56] docs: research Stratum V2 job negotiation framing
 - [2026-07-30T13:25:26] perf: optimize memory footprint for UTXO cache
 - [2026-07-30T10:27:33] perf: optimize memory footprint for UTXO cache
+- [2026-07-30T12:33:45] docs: research Stratum V2 job negotiation framing
