@@ -30,3 +30,4 @@
 - Jul 08: Analyzed Layer 2 scaling solutions, specifically Lightning Network HTLC routing and Watchtower mechanics.
 - Jul 09: Analyzed Layer 2 scaling solutions, specifically Lightning Network HTLC routing and Watchtower mechanics.
 - Jul 29: Conducted deep-dive analysis on Bitcoin mining decentralization, evaluating Stratum V2 job negotiation and pooled mining mechanics.
+- Jul 30: Conducted deep-dive analysis on Bitcoin mining decentralization, evaluating Stratum V2 job negotiation and pooled mining mechanics.
