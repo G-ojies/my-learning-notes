@@ -1787,3 +1787,4 @@
 - [2026-07-29T22:05:35] refactor: optimize transaction deserialization buffer
 - [2026-07-29T11:52:56] docs: research Stratum V2 job negotiation framing
 - [2026-07-30T13:25:26] perf: optimize memory footprint for UTXO cache
+- [2026-07-30T10:27:33] perf: optimize memory footprint for UTXO cache
