@@ -346,3 +346,4 @@
 - [2026-07-28T22:15:57] feat: prototype Erlay set reconciliation sketch
 - [2026-07-29T09:50:38] docs: document Lightning Watchtower justice payload format
 - [2026-07-30T19:35:44] docs: analyze BIP324 encrypted transport handshake
+- [2026-07-30T11:50:53] test: add fuzzing cases for mempool package acceptance
