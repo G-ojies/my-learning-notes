@@ -1399,3 +1399,4 @@
 - [2026-07-29T21:47:55] perf: optimize memory footprint for UTXO cache
 - [2026-07-29T22:31:34] docs: document Lightning Watchtower justice payload format
 - [2026-07-29T12:25:15] docs: document Lightning Watchtower justice payload format
+- [2026-07-30T16:50:37] feat: add lightweight bloom filter parser for SPV tests
