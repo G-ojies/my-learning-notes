@@ -1402,3 +1402,4 @@
 - [2026-07-30T16:50:37] feat: add lightweight bloom filter parser for SPV tests
 - [2026-07-31T11:27:27] feat: prototype Erlay set reconciliation sketch
 - [2026-07-31T12:38:55] test: verify CPFP package fee evaluation edge cases
+- [2026-07-31T21:38:36] docs: research Stratum V2 job negotiation framing
