@@ -349,3 +349,4 @@
 - [2026-07-30T11:50:53] test: add fuzzing cases for mempool package acceptance
 - [2026-07-30T14:06:19] perf: optimize memory footprint for UTXO cache
 - [2026-07-31T14:37:49] refactor: optimize transaction deserialization buffer
+- [2026-07-31T14:31:09] docs: research Stratum V2 job negotiation framing
