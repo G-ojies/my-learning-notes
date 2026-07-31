@@ -348,3 +348,4 @@
 - [2026-07-30T19:35:44] docs: analyze BIP324 encrypted transport handshake
 - [2026-07-30T11:50:53] test: add fuzzing cases for mempool package acceptance
 - [2026-07-30T14:06:19] perf: optimize memory footprint for UTXO cache
+- [2026-07-31T14:37:49] refactor: optimize transaction deserialization buffer
