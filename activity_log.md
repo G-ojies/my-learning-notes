@@ -1400,3 +1400,4 @@
 - [2026-07-29T22:31:34] docs: document Lightning Watchtower justice payload format
 - [2026-07-29T12:25:15] docs: document Lightning Watchtower justice payload format
 - [2026-07-30T16:50:37] feat: add lightweight bloom filter parser for SPV tests
+- [2026-07-31T11:27:27] feat: prototype Erlay set reconciliation sketch
