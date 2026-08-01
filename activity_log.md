@@ -702,3 +702,4 @@
 - [2026-07-30T10:18:16] perf: benchmark parallel cryptographic verification loop
 - [2026-07-31T18:27:52] perf: benchmark parallel cryptographic verification loop
 - [2026-07-31T22:16:38] perf: benchmark parallel cryptographic verification loop
+- [2026-08-01T21:22:54] refactor: optimize transaction deserialization buffer
