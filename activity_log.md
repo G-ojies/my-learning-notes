@@ -1403,3 +1403,4 @@
 - [2026-07-31T11:27:27] feat: prototype Erlay set reconciliation sketch
 - [2026-07-31T12:38:55] test: verify CPFP package fee evaluation edge cases
 - [2026-07-31T21:38:36] docs: research Stratum V2 job negotiation framing
+- [2026-08-01T18:14:06] refactor: optimize transaction deserialization buffer
