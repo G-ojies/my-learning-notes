@@ -1404,3 +1404,4 @@
 - [2026-07-31T12:38:55] test: verify CPFP package fee evaluation edge cases
 - [2026-07-31T21:38:36] docs: research Stratum V2 job negotiation framing
 - [2026-08-01T18:14:06] refactor: optimize transaction deserialization buffer
+- [2026-08-01T14:16:57] docs: update notes on Taproot script spend paths
