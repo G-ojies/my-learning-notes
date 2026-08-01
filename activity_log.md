@@ -1048,3 +1048,4 @@
 - [2026-07-28T11:18:49] perf: benchmark parallel cryptographic verification loop
 - [2026-07-29T20:12:12] refactor: clean up P2P network message serialization
 - [2026-07-29T10:21:43] docs: research Stratum V2 job negotiation framing
+- [2026-08-01T16:33:09] refactor: clean up P2P network message serialization
