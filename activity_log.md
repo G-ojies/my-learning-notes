@@ -1050,3 +1050,4 @@
 - [2026-07-29T10:21:43] docs: research Stratum V2 job negotiation framing
 - [2026-08-01T16:33:09] refactor: clean up P2P network message serialization
 - [2026-08-01T12:12:53] feat: implement compact filter Golomb-Rice encoder
+- [2026-08-02T17:52:17] test: add fuzzing cases for mempool package acceptance
