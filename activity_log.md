@@ -354,3 +354,4 @@
 - [2026-08-01T11:48:26] chore: update linting rules and static analysis tools
 - [2026-08-01T22:19:22] test: add fuzzing cases for mempool package acceptance
 - [2026-08-02T11:55:27] docs: document Lightning Watchtower justice payload format
+- [2026-08-02T10:29:09] test: add fuzzing cases for mempool package acceptance
