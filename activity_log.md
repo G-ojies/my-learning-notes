@@ -1409,3 +1409,4 @@
 - [2026-08-02T11:29:20] refactor: clean up P2P network message serialization
 - [2026-08-02T14:06:53] feat: add lightweight bloom filter parser for SPV tests
 - [2026-08-02T09:01:31] docs: research Stratum V2 job negotiation framing
+- [2026-08-03T13:44:59] refactor: clean up P2P network message serialization
