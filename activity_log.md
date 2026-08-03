@@ -1791,3 +1791,4 @@
 - [2026-07-30T12:33:45] docs: research Stratum V2 job negotiation framing
 - [2026-08-02T09:26:09] docs: analyze BIP324 encrypted transport handshake
 - [2026-08-02T09:33:53] docs: analyze BIP324 encrypted transport handshake
+- [2026-08-03T12:29:04] feat: implement compact filter Golomb-Rice encoder
