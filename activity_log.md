@@ -703,3 +703,4 @@
 - [2026-07-31T18:27:52] perf: benchmark parallel cryptographic verification loop
 - [2026-07-31T22:16:38] perf: benchmark parallel cryptographic verification loop
 - [2026-08-01T21:22:54] refactor: optimize transaction deserialization buffer
+- [2026-08-03T15:37:18] docs: analyze BIP324 encrypted transport handshake
