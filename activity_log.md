@@ -1793,3 +1793,4 @@
 - [2026-08-02T09:33:53] docs: analyze BIP324 encrypted transport handshake
 - [2026-08-03T12:29:04] feat: implement compact filter Golomb-Rice encoder
 - [2026-08-03T12:30:57] feat: implement compact filter Golomb-Rice encoder
+- [2026-08-04T17:33:10] test: add unit tests for Schnorr signature verification
