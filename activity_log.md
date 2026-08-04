@@ -1794,3 +1794,4 @@
 - [2026-08-03T12:29:04] feat: implement compact filter Golomb-Rice encoder
 - [2026-08-03T12:30:57] feat: implement compact filter Golomb-Rice encoder
 - [2026-08-04T17:33:10] test: add unit tests for Schnorr signature verification
+- [2026-08-04T11:26:37] test: add unit tests for Schnorr signature verification
