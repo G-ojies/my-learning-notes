@@ -1054,3 +1054,4 @@
 - [2026-08-02T11:53:36] feat: implement compact filter Golomb-Rice encoder
 - [2026-08-03T21:12:45] chore: update linting rules and static analysis tools
 - [2026-08-03T10:49:06] feat: implement compact filter Golomb-Rice encoder
+- [2026-08-05T22:16:59] test: add unit tests for Schnorr signature verification
