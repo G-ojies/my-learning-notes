@@ -708,3 +708,4 @@
 - [2026-08-03T20:38:59] perf: benchmark parallel cryptographic verification loop
 - [2026-08-04T16:14:42] refactor: optimize transaction deserialization buffer
 - [2026-08-05T13:06:04] test: add fuzzing cases for mempool package acceptance
+- [2026-08-05T18:03:17] docs: document Lightning Watchtower justice payload format
