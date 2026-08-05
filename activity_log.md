@@ -707,3 +707,4 @@
 - [2026-08-03T09:54:54] feat: add lightweight bloom filter parser for SPV tests
 - [2026-08-03T20:38:59] perf: benchmark parallel cryptographic verification loop
 - [2026-08-04T16:14:42] refactor: optimize transaction deserialization buffer
+- [2026-08-05T13:06:04] test: add fuzzing cases for mempool package acceptance
