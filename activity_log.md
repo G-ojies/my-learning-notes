@@ -357,3 +357,4 @@
 - [2026-08-02T10:29:09] test: add fuzzing cases for mempool package acceptance
 - [2026-08-02T15:58:33] docs: analyze BIP324 encrypted transport handshake
 - [2026-08-05T10:52:26] test: add fuzzing cases for mempool package acceptance
+- [2026-08-05T18:28:08] feat: implement compact filter Golomb-Rice encoder
