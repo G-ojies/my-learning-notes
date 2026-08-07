@@ -1414,3 +1414,4 @@
 - [2026-08-03T18:24:37] feat: implement compact filter Golomb-Rice encoder
 - [2026-08-04T11:59:26] feat: prototype Erlay set reconciliation sketch
 - [2026-08-04T09:58:19] docs: analyze BIP324 encrypted transport handshake
+- [2026-08-07T21:19:18] docs: analyze BIP324 encrypted transport handshake
