@@ -1056,3 +1056,4 @@
 - [2026-08-03T10:49:06] feat: implement compact filter Golomb-Rice encoder
 - [2026-08-05T22:16:59] test: add unit tests for Schnorr signature verification
 - [2026-08-06T13:10:13] feat: add lightweight bloom filter parser for SPV tests
+- [2026-08-07T18:02:25] feat: prototype Erlay set reconciliation sketch
