@@ -1798,3 +1798,4 @@
 - [2026-08-05T15:42:36] chore: update linting rules and static analysis tools
 - [2026-08-05T16:09:16] perf: benchmark parallel cryptographic verification loop
 - [2026-08-06T10:00:58] refactor: optimize transaction deserialization buffer
+- [2026-08-08T20:32:29] docs: document Lightning Watchtower justice payload format
