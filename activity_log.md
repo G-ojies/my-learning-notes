@@ -710,3 +710,4 @@
 - [2026-08-05T13:06:04] test: add fuzzing cases for mempool package acceptance
 - [2026-08-05T18:03:17] docs: document Lightning Watchtower justice payload format
 - [2026-08-07T17:00:12] perf: benchmark parallel cryptographic verification loop
+- [2026-08-08T11:33:01] docs: document Lightning Watchtower justice payload format
