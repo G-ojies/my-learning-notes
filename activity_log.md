@@ -1416,3 +1416,4 @@
 - [2026-08-04T09:58:19] docs: analyze BIP324 encrypted transport handshake
 - [2026-08-07T21:19:18] docs: analyze BIP324 encrypted transport handshake
 - [2026-08-07T22:52:30] docs: research Stratum V2 job negotiation framing
+- [2026-08-09T11:49:18] refactor: optimize transaction deserialization buffer
