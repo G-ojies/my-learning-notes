@@ -1801,3 +1801,4 @@
 - [2026-08-08T20:32:29] docs: document Lightning Watchtower justice payload format
 - [2026-08-09T16:44:43] feat: implement compact filter Golomb-Rice encoder
 - [2026-08-10T18:03:12] docs: update notes on Taproot script spend paths
+- [2026-08-10T16:44:06] test: verify CPFP package fee evaluation edge cases
