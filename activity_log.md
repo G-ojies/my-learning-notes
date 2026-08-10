@@ -1800,3 +1800,4 @@
 - [2026-08-06T10:00:58] refactor: optimize transaction deserialization buffer
 - [2026-08-08T20:32:29] docs: document Lightning Watchtower justice payload format
 - [2026-08-09T16:44:43] feat: implement compact filter Golomb-Rice encoder
+- [2026-08-10T18:03:12] docs: update notes on Taproot script spend paths
