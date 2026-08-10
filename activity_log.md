@@ -1061,3 +1061,4 @@
 - [2026-08-08T21:04:58] refactor: clean up P2P network message serialization
 - [2026-08-10T18:35:39] chore: update linting rules and static analysis tools
 - [2026-08-10T22:36:04] feat: add lightweight bloom filter parser for SPV tests
+- [2026-08-10T09:44:42] docs: document Lightning Watchtower justice payload format
