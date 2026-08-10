@@ -1059,3 +1059,4 @@
 - [2026-08-07T18:02:25] feat: prototype Erlay set reconciliation sketch
 - [2026-08-07T13:34:21] feat: implement compact filter Golomb-Rice encoder
 - [2026-08-08T21:04:58] refactor: clean up P2P network message serialization
+- [2026-08-10T18:35:39] chore: update linting rules and static analysis tools
