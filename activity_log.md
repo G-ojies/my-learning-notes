@@ -1063,3 +1063,4 @@
 - [2026-08-10T22:36:04] feat: add lightweight bloom filter parser for SPV tests
 - [2026-08-10T09:44:42] docs: document Lightning Watchtower justice payload format
 - [2026-08-11T10:27:53] feat: add lightweight bloom filter parser for SPV tests
+- [2026-08-11T13:41:54] docs: research Stratum V2 job negotiation framing
