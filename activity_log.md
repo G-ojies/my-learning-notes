@@ -1418,3 +1418,4 @@
 - [2026-08-07T22:52:30] docs: research Stratum V2 job negotiation framing
 - [2026-08-09T11:49:18] refactor: optimize transaction deserialization buffer
 - [2026-08-09T14:08:23] feat: prototype Erlay set reconciliation sketch
+- [2026-08-11T09:44:16] test: add fuzzing cases for mempool package acceptance
