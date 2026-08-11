@@ -362,3 +362,4 @@
 - [2026-08-09T16:06:46] perf: optimize memory footprint for UTXO cache
 - [2026-08-09T12:26:06] docs: research Stratum V2 job negotiation framing
 - [2026-08-11T12:46:38] perf: optimize memory footprint for UTXO cache
+- [2026-08-11T21:11:16] feat: prototype Erlay set reconciliation sketch
