@@ -364,3 +364,4 @@
 - [2026-08-11T12:46:38] perf: optimize memory footprint for UTXO cache
 - [2026-08-11T21:11:16] feat: prototype Erlay set reconciliation sketch
 - [2026-08-12T22:49:46] feat: prototype Erlay set reconciliation sketch
+- [2026-08-12T09:28:05] docs: document Lightning Watchtower justice payload format
