@@ -1804,3 +1804,4 @@
 - [2026-08-10T16:44:06] test: verify CPFP package fee evaluation edge cases
 - [2026-08-11T12:58:21] feat: add lightweight bloom filter parser for SPV tests
 - [2026-08-12T22:51:09] chore: update linting rules and static analysis tools
+- [2026-08-13T19:47:52] test: add unit tests for Schnorr signature verification
