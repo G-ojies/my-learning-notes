@@ -68,3 +68,4 @@
 - Jul 18: Researched Taproot Asset Genesis block mechanics. Documented how the initial MS-SMT is anchored into a Taproot output via a tweaked key, cementing the total supply of the asset.
 - Jul 19: Reviewed C++ node architecture for mempool package acceptance (BIP125/BIP133). Planned cross-language bindings to link Python heuristics with C++ core verification.
 - Jul 26: Researched ZK-Rollup architectures on Bitcoin using BitVM and OP_CAT proposals. Mapped state transition verification logic without altering consensus rules.
+- Aug 13: Mapped the Ark Protocol architecture. Analyzed Virtual UTXOs (vUTXOs) and the role of the Ark Service Provider (ASP) in facilitating covenant-less, unilateral exits.
