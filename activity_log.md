@@ -718,3 +718,4 @@
 - [2026-08-10T11:48:11] chore: update linting rules and static analysis tools
 - [2026-08-12T17:48:17] feat: prototype Erlay set reconciliation sketch
 - [2026-08-13T09:02:01] perf: optimize memory footprint for UTXO cache
+- [2026-08-15T14:06:17] chore: update linting rules and static analysis tools
