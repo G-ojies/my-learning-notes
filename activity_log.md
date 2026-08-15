@@ -1423,3 +1423,4 @@
 - [2026-08-13T20:24:37] refactor: clean up P2P network message serialization
 - [2026-08-13T11:46:50] feat: implement compact filter Golomb-Rice encoder
 - [2026-08-13T11:39:40] refactor: optimize transaction deserialization buffer
+- [2026-08-15T10:18:44] docs: update notes on Taproot script spend paths
