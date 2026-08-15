@@ -1067,3 +1067,4 @@
 - [2026-08-11T17:49:34] test: verify CPFP package fee evaluation edge cases
 - [2026-08-12T22:38:27] feat: implement compact filter Golomb-Rice encoder
 - [2026-08-14T22:45:54] perf: benchmark parallel cryptographic verification loop
+- [2026-08-15T09:16:26] refactor: optimize transaction deserialization buffer
