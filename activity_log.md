@@ -721,3 +721,4 @@
 - [2026-08-15T14:06:17] chore: update linting rules and static analysis tools
 - [2026-08-15T21:53:18] feat: implement compact filter Golomb-Rice encoder
 - [2026-08-16T18:08:36] docs: document Lightning Watchtower justice payload format
+- [2026-08-16T17:03:18] refactor: clean up P2P network message serialization
