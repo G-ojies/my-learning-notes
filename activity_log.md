@@ -1426,3 +1426,4 @@
 - [2026-08-15T10:18:44] docs: update notes on Taproot script spend paths
 - [2026-08-15T11:57:50] docs: update notes on Taproot script spend paths
 - [2026-08-16T10:58:32] feat: add lightweight bloom filter parser for SPV tests
+- [2026-08-16T09:15:49] test: add unit tests for Schnorr signature verification
