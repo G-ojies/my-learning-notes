@@ -720,3 +720,4 @@
 - [2026-08-13T09:02:01] perf: optimize memory footprint for UTXO cache
 - [2026-08-15T14:06:17] chore: update linting rules and static analysis tools
 - [2026-08-15T21:53:18] feat: implement compact filter Golomb-Rice encoder
+- [2026-08-16T18:08:36] docs: document Lightning Watchtower justice payload format
