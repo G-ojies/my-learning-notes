@@ -1425,3 +1425,4 @@
 - [2026-08-13T11:39:40] refactor: optimize transaction deserialization buffer
 - [2026-08-15T10:18:44] docs: update notes on Taproot script spend paths
 - [2026-08-15T11:57:50] docs: update notes on Taproot script spend paths
+- [2026-08-16T10:58:32] feat: add lightweight bloom filter parser for SPV tests
