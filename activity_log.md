@@ -368,3 +368,4 @@
 - [2026-08-15T21:21:36] feat: add lightweight bloom filter parser for SPV tests
 - [2026-08-16T16:16:49] refactor: clean up P2P network message serialization
 - [2026-08-17T13:58:23] test: add unit tests for Schnorr signature verification
+- [2026-08-17T20:30:30] perf: benchmark parallel cryptographic verification loop
