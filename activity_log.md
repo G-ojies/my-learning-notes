@@ -1808,3 +1808,4 @@
 - [2026-08-13T10:11:07] refactor: clean up P2P network message serialization
 - [2026-08-13T14:03:49] docs: analyze BIP324 encrypted transport handshake
 - [2026-08-15T11:34:47] perf: optimize memory footprint for UTXO cache
+- [2026-08-17T17:51:06] docs: update notes on Taproot script spend paths
