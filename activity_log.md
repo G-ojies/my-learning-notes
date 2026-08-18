@@ -1432,3 +1432,4 @@
 - [2026-08-17T14:26:14] test: verify CPFP package fee evaluation edge cases
 - [2026-08-18T21:10:08] docs: update notes on Taproot script spend paths
 - [2026-08-18T21:15:20] test: verify CPFP package fee evaluation edge cases
+- [2026-08-18T22:40:08] chore: update linting rules and static analysis tools
