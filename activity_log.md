@@ -722,3 +722,4 @@
 - [2026-08-15T21:53:18] feat: implement compact filter Golomb-Rice encoder
 - [2026-08-16T18:08:36] docs: document Lightning Watchtower justice payload format
 - [2026-08-16T17:03:18] refactor: clean up P2P network message serialization
+- [2026-08-18T13:17:53] docs: analyze BIP324 encrypted transport handshake
