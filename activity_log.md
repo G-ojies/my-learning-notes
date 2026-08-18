@@ -1431,3 +1431,4 @@
 - [2026-08-17T11:31:33] test: add unit tests for Schnorr signature verification
 - [2026-08-17T14:26:14] test: verify CPFP package fee evaluation edge cases
 - [2026-08-18T21:10:08] docs: update notes on Taproot script spend paths
+- [2026-08-18T21:15:20] test: verify CPFP package fee evaluation edge cases
