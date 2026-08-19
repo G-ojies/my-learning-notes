@@ -1812,3 +1812,4 @@
 - [2026-08-17T13:59:08] test: add unit tests for Schnorr signature verification
 - [2026-08-18T13:58:46] test: add fuzzing cases for mempool package acceptance
 - [2026-08-19T13:12:14] feat: prototype Erlay set reconciliation sketch
+- [2026-08-19T10:46:01] feat: add lightweight bloom filter parser for SPV tests
