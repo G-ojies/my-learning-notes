@@ -1071,3 +1071,4 @@
 - [2026-08-15T15:44:53] docs: research Stratum V2 job negotiation framing
 - [2026-08-16T10:27:39] chore: update linting rules and static analysis tools
 - [2026-08-18T14:12:38] chore: update linting rules and static analysis tools
+- [2026-08-19T15:26:40] refactor: optimize transaction deserialization buffer
