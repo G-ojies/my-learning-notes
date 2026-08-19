@@ -1433,3 +1433,4 @@
 - [2026-08-18T21:10:08] docs: update notes on Taproot script spend paths
 - [2026-08-18T21:15:20] test: verify CPFP package fee evaluation edge cases
 - [2026-08-18T22:40:08] chore: update linting rules and static analysis tools
+- [2026-08-19T22:31:47] test: add fuzzing cases for mempool package acceptance
