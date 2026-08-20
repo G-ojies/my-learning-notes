@@ -1073,3 +1073,4 @@
 - [2026-08-18T14:12:38] chore: update linting rules and static analysis tools
 - [2026-08-19T15:26:40] refactor: optimize transaction deserialization buffer
 - [2026-08-19T09:51:23] perf: benchmark parallel cryptographic verification loop
+- [2026-08-20T12:00:54] perf: optimize memory footprint for UTXO cache
