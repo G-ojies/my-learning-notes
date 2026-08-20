@@ -372,3 +372,4 @@
 - [2026-08-17T13:51:17] perf: benchmark parallel cryptographic verification loop
 - [2026-08-19T20:21:14] test: add unit tests for Schnorr signature verification
 - [2026-08-19T15:45:06] test: add unit tests for Schnorr signature verification
+- [2026-08-20T11:36:40] refactor: optimize transaction deserialization buffer
