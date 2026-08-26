@@ -70,3 +70,8 @@
 - Jul 26: Researched ZK-Rollup architectures on Bitcoin using BitVM and OP_CAT proposals. Mapped state transition verification logic without altering consensus rules.
 - Aug 13: Mapped the Ark Protocol architecture. Analyzed Virtual UTXOs (vUTXOs) and the role of the Ark Service Provider (ASP) in facilitating covenant-less, unilateral exits.
 - Aug 23: Evaluated Silent Payment (BIP 352) indexing constraints for light clients. Explored tweak data extraction from Taproot outputs without downloading full blocks.
+
+## Aug 26, 2026 - Layer 2 Privacy Milestone
+* **PTLC Routing Simulation:** Implemented non-interactive scalar blinding factors across multi-hop channels.
+* **Overhead Benchmarks:** Benchmarked scalar arithmetic against legacy SHA256 preimages showing significant throughput improvements.
+* **Test Matrix:** Added deterministic unit tests for Schnorr adaptor key verification.
