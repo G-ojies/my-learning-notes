@@ -79,3 +79,4 @@
 - Aug 28: Analyzed the recent AI-generated vulnerability reports affecting Core Lightning nodes. Investigating potential network topology impacts and 14-day embargo procedures.
 - Aug 29: Analyzed the recent AI-generated vulnerability reports affecting Core Lightning nodes. Investigating potential network topology impacts and 14-day embargo procedures.
 - Aug 30: Analyzed the recent AI-generated vulnerability reports affecting Core Lightning nodes. Investigating potential network topology impacts and 14-day embargo procedures.
+- Sep 05: Researched Replace-By-Fee (RBF) Pinning attacks. Analyzed how malicious counterparties use low-feerate ancestor packages to block Lightning penalty transactions from confirming.
