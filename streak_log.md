@@ -82,3 +82,4 @@
 - Sep 05: Researched Replace-By-Fee (RBF) Pinning attacks. Analyzed how malicious counterparties use low-feerate ancestor packages to block Lightning penalty transactions from confirming.
 - Sep 06: Researched Replace-By-Fee (RBF) Pinning attacks. Analyzed how malicious counterparties use low-feerate ancestor packages to block Lightning penalty transactions from confirming.
 - Sep 09: Developed dynamic scoring algorithm for Lightning peers. Nodes that frequently route failing payments (probing or jamming) have their liquidity channels throttled automatically.
+- Sep 13: Researched Route Blinding (Blinded Paths). Analyzed how intermediate hops use ephemeral keys to forward payments without knowing the final receiver's identity.
