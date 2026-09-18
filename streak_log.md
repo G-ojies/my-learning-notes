@@ -95,3 +95,4 @@
 - Sep 26: Evaluated Bitcoin Core 31.0 cluster-based mempool architecture, replacing legacy ancestor/descendant limits.
 - Sep 16: Researched trustless P2P atomic swaps and hashlock mechanisms binding two payments with a shared secret.
 - Sep 17: Researched trustless P2P atomic swaps and hashlock mechanisms binding two payments with a shared secret.
+- Sep 18: Researched trustless P2P atomic swaps and hashlock mechanisms binding two payments with a shared secret.
