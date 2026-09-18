@@ -85,3 +85,4 @@
 - Sep 13: Researched Route Blinding (Blinded Paths). Analyzed how intermediate hops use ephemeral keys to forward payments without knowing the final receiver's identity.
 - Sep 16: Researched trustless P2P atomic swaps and hashlock mechanisms binding two payments with a shared secret.
 - Sep 17: Researched trustless P2P atomic swaps and hashlock mechanisms binding two payments with a shared secret.
+- Sep 18: Researched trustless P2P atomic swaps and hashlock mechanisms binding two payments with a shared secret.
