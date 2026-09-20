@@ -87,3 +87,4 @@
 - Sep 17: Researched trustless P2P atomic swaps and hashlock mechanisms binding two payments with a shared secret.
 - Sep 18: Researched trustless P2P atomic swaps and hashlock mechanisms binding two payments with a shared secret.
 - Sep 19: Researched trustless P2P atomic swaps and hashlock mechanisms binding two payments with a shared secret.
+- Sep 20: Researched trustless P2P atomic swaps and hashlock mechanisms binding two payments with a shared secret.
