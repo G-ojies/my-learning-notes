@@ -103,3 +103,4 @@
 - Sep 24: Evaluated Bitcoin Core 31.0 cluster-based mempool architecture, replacing legacy ancestor/descendant limits.
 - Sep 25: Evaluated Bitcoin Core 31.0 cluster-based mempool architecture, replacing legacy ancestor/descendant limits.
 - Sep 26: Evaluated Bitcoin Core 31.0 cluster-based mempool architecture, replacing legacy ancestor/descendant limits.
+- Sep 28: Researched TRUC (Topology Restricted Until Confirmation) transactions, which solve rule 3 pinning and allow CPFP carve-out removal.
