@@ -107,3 +107,4 @@
 - Sep 29: Researched TRUC (Topology Restricted Until Confirmation) transactions, which solve rule 3 pinning and allow CPFP carve-out removal.
 - Oct 05: Researched MuSig2 (BIP 327) multi-signature protocol. Analyzed key aggregation mechanics for Simple Taproot Channels to improve Lightning Network privacy.
 - Oct 05: Researched MuSig2 (BIP 327) multi-signature protocol. Analyzed key aggregation mechanics for Simple Taproot Channels to improve Lightning Network privacy.
+- Oct 10: Researched LN Gossip v2 specifications for Taproot channels. Analyzed channel_announcement_2 message structure and Schnorr proof-of-funding requirements.
