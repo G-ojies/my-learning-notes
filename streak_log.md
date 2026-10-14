@@ -109,3 +109,4 @@
 - Oct 05: Researched MuSig2 (BIP 327) multi-signature protocol. Analyzed key aggregation mechanics for Simple Taproot Channels to improve Lightning Network privacy.
 - Oct 10: Researched LN Gossip v2 specifications for Taproot channels. Analyzed channel_announcement_2 message structure and Schnorr proof-of-funding requirements.
 - Oct 11: Researched LN Gossip v2 specifications for Taproot channels. Analyzed channel_announcement_2 message structure and Schnorr proof-of-funding requirements.
+- Oct 14: Researched BOLT 12 Offers architecture. Evaluated static, reusable payment identifiers replacing legacy single-use BOLT 11 invoices.
