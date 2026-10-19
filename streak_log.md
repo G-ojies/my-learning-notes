@@ -111,3 +111,4 @@
 - Oct 11: Researched LN Gossip v2 specifications for Taproot channels. Analyzed channel_announcement_2 message structure and Schnorr proof-of-funding requirements.
 - Oct 14: Researched BOLT 12 Offers architecture. Evaluated static, reusable payment identifiers replacing legacy single-use BOLT 11 invoices.
 - Oct 15: Researched BOLT 12 Offers architecture. Evaluated static, reusable payment identifiers replacing legacy single-use BOLT 11 invoices.
+- Oct 19: Researched Point TimeLock Contracts (PTLCs) utilizing Schnorr adaptor signatures. Analyzed how PTLCs break payment correlation across multi-hop Lightning routes compared to legacy HTLC hashes.
