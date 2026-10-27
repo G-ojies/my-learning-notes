@@ -113,3 +113,4 @@
 - Oct 15: Researched BOLT 12 Offers architecture. Evaluated static, reusable payment identifiers replacing legacy single-use BOLT 11 invoices.
 - Oct 19: Researched Point TimeLock Contracts (PTLCs) utilizing Schnorr adaptor signatures. Analyzed how PTLCs break payment correlation across multi-hop Lightning routes compared to legacy HTLC hashes.
 - Oct 21: Researched Erlay (BIP 330) set reconciliation protocol. Evaluated minisketch data structures for efficient P2P transaction relay without network flooding.
+- Oct 27: Researched Bitcoin Core's updated October 2026 vulnerability disclosure policy. Evaluated fast-tracked patch deployment mechanisms for easily discoverable or AI-generated bug reports.
