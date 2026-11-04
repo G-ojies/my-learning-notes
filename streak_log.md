@@ -117,3 +117,4 @@
 - Oct 30: Researched cluster mempool memory accounting limits and resource consumption guards against high-frequency transaction probing attacks.
 - Nov 01: Researched FROST (Flexible Round-Optimized Schnorr Threshold Signatures) protocol. Evaluated 2-round signing efficiency for decentralized agentic wallets and quorum vaults.
 - Nov 02: Researched FROST (Flexible Round-Optimized Schnorr Threshold Signatures) protocol. Evaluated 2-round signing efficiency for decentralized agentic wallets and quorum vaults.
+- Nov 04: Researched FROST coordinator failure modes and non-interactive participant dropout handling during round-optimized signature generation.
