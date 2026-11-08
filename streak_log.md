@@ -120,3 +120,4 @@
 - Nov 04: Researched FROST coordinator failure modes and non-interactive participant dropout handling during round-optimized signature generation.
 - Nov 05: Researched FROST coordinator failure modes and non-interactive participant dropout handling during round-optimized signature generation.
 - Nov 07: Researched Silent Payments (BIP 352) protocol. Evaluated reusable static addresses that prevent address reuse and sender-recipient linkability on-chain.
+- Nov 08: Researched Silent Payments (BIP 352) protocol. Evaluated reusable static addresses that prevent address reuse and sender-recipient linkability on-chain.
