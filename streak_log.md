@@ -123,3 +123,4 @@
 - Nov 08: Researched Silent Payments (BIP 352) protocol. Evaluated reusable static addresses that prevent address reuse and sender-recipient linkability on-chain.
 - Nov 09: Researched Silent Payments (BIP 352) protocol. Evaluated reusable static addresses that prevent address reuse and sender-recipient linkability on-chain.
 - Nov 11: Conducted fuzzing simulations on message serialization buffers and peer-to-peer handshake state machines to harden node resilience.
+- Nov 12: Conducted fuzzing simulations on message serialization buffers and peer-to-peer handshake state machines to harden node resilience.
