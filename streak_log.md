@@ -126,3 +126,4 @@
 - Nov 12: Conducted fuzzing simulations on message serialization buffers and peer-to-peer handshake state machines to harden node resilience.
 - Nov 13: Conducted fuzzing simulations on message serialization buffers and peer-to-peer handshake state machines to harden node resilience.
 - Nov 15: Researched Ark protocol and virtual UTXO (vUTXO) state pools. Evaluated asynchronous off-chain payments through untrusted ASPs without liquidity lockups.
+- Nov 16: Researched Ark protocol and virtual UTXO (vUTXO) state pools. Evaluated asynchronous off-chain payments through untrusted ASPs without liquidity lockups.
